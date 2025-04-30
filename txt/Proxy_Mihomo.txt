@@ -1328,6 +1328,7 @@
 +.android-x86.org
 +.android.com
 +.androidapksfree.com
++.androidapksfreverse.com
 +.androidauthority.com
 +.androidfilehost.com
 +.androidify.com
@@ -3565,6 +3566,7 @@
 +.brni.com
 +.broadbandreports.com
 +.broadbook.com
++.broadcom.com
 +.broadpressinc.com
 +.brocaproject.com
 +.brockbbs.com
@@ -5874,6 +5876,7 @@
 +.e-traderland.net
 +.e-tugra.com
 +.e-zone.com.hk
++.e.com
 +.e123.hk
 +.e53w.com
 +.e621.net
@@ -12864,6 +12867,8 @@
 +.msgamesresearch.com
 +.msguancha.com
 +.mshome.net
++.msi.cn
++.msi.com
 +.msidentity.com
 +.msinnovationchallenge.com
 +.msk.ilnk.info
@@ -17025,6 +17030,7 @@
 +.skyvegas.com
 +.skyxvpn.com
 +.sl
++.sl-re000webhost.com
 +.sl-reverse.com
 +.sl99mod.buzz
 +.slack-core.com
