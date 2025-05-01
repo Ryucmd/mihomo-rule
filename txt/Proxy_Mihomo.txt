@@ -1328,7 +1328,6 @@
 +.android-x86.org
 +.android.com
 +.androidapksfree.com
-+.androidapksfreverse.com
 +.androidauthority.com
 +.androidfilehost.com
 +.androidify.com
@@ -5876,7 +5875,6 @@
 +.e-traderland.net
 +.e-tugra.com
 +.e-zone.com.hk
-+.e.com
 +.e123.hk
 +.e53w.com
 +.e621.net
@@ -17030,7 +17028,6 @@
 +.skyvegas.com
 +.skyxvpn.com
 +.sl
-+.sl-re000webhost.com
 +.sl-reverse.com
 +.sl99mod.buzz
 +.slack-core.com
