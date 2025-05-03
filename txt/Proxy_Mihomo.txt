@@ -6627,6 +6627,7 @@
 +.facebook.cc
 +.facebook.com
 +.facebook.design
++.facebook.hs.com
 +.facebook.net
 +.facebook.org
 +.facebook.shop
@@ -15845,6 +15846,7 @@
 +.rclon.com
 +.rd.com
 +.rdio.com
++.rdpress.com
 +.rds-yes.buzz
 +.rdtcdn.com
 +.re
@@ -15953,6 +15955,7 @@
 +.redditmedia.com
 +.redditspace.com
 +.redditstatic.com
++.redditstatu000webhost.com
 +.redditstatus.com
 +.redfaptube.com
 +.redgifs.com
