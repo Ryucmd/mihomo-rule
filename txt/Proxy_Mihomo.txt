@@ -563,7 +563,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3191,6 +3190,7 @@
 +.bmw-bahrain.com
 +.bmw-businessdrive.com
 +.bmw-classic.com
++.bmw-club+.aaa
 +.bmw-clubs-international.com
 +.bmw-connected-drive.com
 +.bmw-connecteddrive.com
@@ -6627,7 +6627,6 @@
 +.facebook.cc
 +.facebook.com
 +.facebook.design
-+.facebook.hs.com
 +.facebook.net
 +.facebook.org
 +.facebook.shop
@@ -8501,6 +8500,7 @@
 +.gotgeeks.com
 +.gothdporn.com
 +.gotporn.com
++.gotquestions.org
 +.gotraffic.net
 +.gotrusted.com
 +.gouhuo.qq.com
@@ -13750,6 +13750,7 @@
 +.no-ip.org
 +.nobelprize.org
 +.nodejs.org
++.nodeloc.com
 +.nodeseek.com
 +.nodesnoop.com
 +.nodesource.com
@@ -15846,7 +15847,6 @@
 +.rclon.com
 +.rd.com
 +.rdio.com
-+.rdpress.com
 +.rds-yes.buzz
 +.rdtcdn.com
 +.re
@@ -15955,7 +15955,6 @@
 +.redditmedia.com
 +.redditspace.com
 +.redditstatic.com
-+.redditstatu000webhost.com
 +.redditstatus.com
 +.redfaptube.com
 +.redgifs.com
@@ -16225,6 +16224,7 @@
 +.s-cute.com
 +.s-dc-msedge.net
 +.s-dragon.org
++.s-international.com
 +.s-microsoft.com
 +.s-msedge.net
 +.s-msft.com
@@ -17618,6 +17618,7 @@
 +.style
 +.su
 +.sub147.com
++.subhd.tv
 +.sublimedirectory.com
 +.sublimetext.com
 +.submarin.online
