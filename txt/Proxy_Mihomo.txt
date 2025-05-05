@@ -3190,7 +3190,6 @@
 +.bmw-bahrain.com
 +.bmw-businessdrive.com
 +.bmw-classic.com
-+.bmw-club+.aaa
 +.bmw-clubs-international.com
 +.bmw-connected-drive.com
 +.bmw-connecteddrive.com
@@ -10247,6 +10246,7 @@
 +.ioffergift.com
 +.ioinformatics.org
 +.iole.tv
++.iolotron.com
 +.iop.org
 +.ios-icloud.com
 +.iosinthecar.com
@@ -16048,7 +16048,6 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
-+.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -16224,7 +16223,6 @@
 +.s-cute.com
 +.s-dc-msedge.net
 +.s-dragon.org
-+.s-international.com
 +.s-microsoft.com
 +.s-msedge.net
 +.s-msft.com
@@ -16439,6 +16437,7 @@
 +.sdnice.one
 +.sdnitube.buzz
 +.se
++.sea-+.aaa
 +.seagroup.com
 +.seamonkey-project.org
 +.seancody.com
@@ -16940,6 +16939,7 @@
 +.simplecd.org
 +.simplenote.com
 +.simpleproductivityblog.com
++.simplex.chat
 +.simplify.com
 +.simplifycommerce.com
 +.simply-hentai.com
@@ -17134,6 +17134,7 @@
 +.so
 +.soasta-dswb.com
 +.sobees.com
++.soc.rexroth
 +.socailcam.com
 +.socalbmw.com
 +.soccermatchpass.com
@@ -21130,7 +21131,6 @@
 +.ysmass.com
 +.ysmeal.com
 +.ysmeat.com
-+.ysmeet.com
 +.ysmelf.com
 +.ysmere.com
 +.ysmuch.com
@@ -21290,6 +21290,7 @@
 +.zmw.cn
 +.zndsk.com
 +.zobry.site
++.zodgame.xyz
 +.zoho.com
 +.zohocdn.com
 +.zohomeetups.com
