@@ -563,6 +563,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -10246,7 +10247,6 @@
 +.ioffergift.com
 +.ioinformatics.org
 +.iole.tv
-+.iolotron.com
 +.iop.org
 +.ios-icloud.com
 +.iosinthecar.com
@@ -16048,6 +16048,7 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
++.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -16437,7 +16438,6 @@
 +.sdnice.one
 +.sdnitube.buzz
 +.se
-+.sea-+.aaa
 +.seagroup.com
 +.seamonkey-project.org
 +.seancody.com
@@ -17134,7 +17134,6 @@
 +.so
 +.soasta-dswb.com
 +.sobees.com
-+.soc.rexroth
 +.socailcam.com
 +.socalbmw.com
 +.soccermatchpass.com
