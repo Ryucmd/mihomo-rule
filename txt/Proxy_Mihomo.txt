@@ -563,7 +563,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -8295,6 +8294,7 @@
 +.gmocloud.com
 +.gmodules.com
 +.gmoney.org
++.gmp4.com
 +.gmx
 +.gmx.net
 +.gn
@@ -9508,6 +9508,7 @@
 +.hrcchina.org
 +.hrcir.com
 +.hrea.org
++.hrea.org+.aaa
 +.hrichina.org
 +.hrntt.org
 +.hrsaz.com
@@ -9687,6 +9688,7 @@
 +.i-cable.com
 +.i-o-u.info
 +.i-scmp.com
++.i.111666.best
 +.i.jeded.com
 +.i.org
 +.i1.hk
@@ -15573,6 +15575,7 @@
 +.pure18.com
 +.pureapk.com
 +.pureconcepts.net
++.puredns.org
 +.pureinsight.org
 +.purelov5.com
 +.purelyceleb.com
@@ -15675,6 +15678,7 @@
 +.qmap.pub
 +.qmov.com
 +.qmov.net
++.qmp4.com
 +.qmttqg3k.me
 +.qmzdd.com
 +.qnap.com
