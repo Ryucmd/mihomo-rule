@@ -564,7 +564,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1147,6 +1146,7 @@
 +.alwaysdata.net
 +.alwaysvpn.com
 +.am
++.am+.aaa
 +.am730.com.hk
 +.amaaozn.com
 +.amabitch.com
@@ -2204,6 +2204,7 @@
 +.aziani.com
 +.azirevpn.com
 +.aznude.com
++.azonworkdocs.com
 +.azubu.tv
 +.azure
 +.azure-devices-int.net
