@@ -564,6 +564,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -937,6 +938,7 @@
 +.airvpn.org
 +.airwatchexpress.com
 +.airwatchqa.com
++.airwick.co.zaxyz
 +.airwick.com
 +.airwick.net
 +.airwick.tv
@@ -1317,6 +1319,7 @@
 +.analvids.com
 +.analytictech.com
 +.anandtech.com
++.anaptu.com
 +.anatomy.tv
 +.anb.org
 +.ancensored.com
@@ -4789,7 +4792,6 @@
 +.creaders.net
 +.creadersnet.com
 +.creamasia.com
-+.creamlemon.in+.aaa
 +.creamlemon.info
 +.creampieforgranny.com
 +.creampiehomevideos.com
@@ -5395,6 +5397,7 @@
 +.dish
 +.dish.com
 +.dishworld.com
++.diskstation.me
 +.disney-asia.com
 +.disney-discount.com
 +.disney-plus.net
@@ -5542,6 +5545,7 @@
 +.docker.com
 +.dockerhub.com
 +.dockerizer.com
++.dockerstatic.com
 +.docleradn.com
 +.doclercdn.com
 +.docs.cfw.lbyczf.com
@@ -5743,10 +5747,16 @@
 +.drunkentop.com
 +.drweb.cn
 +.drweb.com
++.dscloud.biz
++.dscloud.me
++.dscloud.mobi
 +.dscn.info
 +.dslr.net
 +.dslreports.com
 +.dsmtp.com
++.dsmynas.com
++.dsmynas.net
++.dsmynas.org
 +.dssott.com
 +.dswz88.xyz
 +.dsyiren.com
@@ -6844,6 +6854,9 @@
 +.falunworld.net
 +.fameregistry.com
 +.family-sex.me
++.familyds.com
++.familyds.net
++.familyds.org
 +.familyfed.org
 +.familypies.net
 +.familyporn.tv
@@ -9688,6 +9701,7 @@
 +.i.jeded.com
 +.i.org
 +.i1.hk
++.i234.me
 +.i2runner.com
 +.i818hk.com
 +.i91av.org
@@ -9710,6 +9724,7 @@
 +.ibiblio.org
 +.ibkr.com
 +.iblist.com
++.ibllc.com
 +.iblogserv-f.net
 +.ibm
 +.ibm.com
@@ -13030,6 +13045,7 @@
 +.mydirectgroove.com
 +.mydirectvchannels.com
 +.mydirtyhobby.com
++.myds.me
 +.myeasytv.com
 +.myebay.com
 +.myeclipseide.com
@@ -16220,6 +16236,7 @@
 +.rwe
 +.rxhj.net
 +.ryukyu
++.s
 +.s-bluemix.net
 +.s-books.com
 +.s-cashonmobile.com
@@ -17782,6 +17799,7 @@
 +.syncback.com
 +.synergyse.com
 +.synology.com
++.synology.me
 +.synologydownload.com
 +.synologyupdate.com
 +.syosetu.com
@@ -18591,7 +18609,6 @@
 +.trikepatrol.com
 +.triokini.com
 +.trip.com
-+.tripcdn.com
 +.tristatebmw.com
 +.trithucvn.net
 +.trithucvn.org
@@ -18621,6 +18638,7 @@
 +.trusteddwg.com
 +.trustedpeach.com
 +.trustisfps.com
++.trustwallet.com
 +.trustwave.com
 +.truthontour.org
 +.truthordarepics.com
@@ -19121,6 +19139,7 @@
 +.usus.cc
 +.usvimosquito.com
 +.usvimosquitoproject.com
++.utodeskvasari.net
 +.utopianpal.com
 +.uu-gg.com
 +.uug22.com
