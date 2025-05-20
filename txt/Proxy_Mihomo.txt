@@ -938,7 +938,6 @@
 +.airvpn.org
 +.airwatchexpress.com
 +.airwatchqa.com
-+.airwick.co.zaxyz
 +.airwick.com
 +.airwick.net
 +.airwick.tv
@@ -1319,7 +1318,6 @@
 +.analvids.com
 +.analytictech.com
 +.anandtech.com
-+.anaptu.com
 +.anatomy.tv
 +.anb.org
 +.ancensored.com
@@ -12874,6 +12872,7 @@
 +.msft.info
 +.msft.net
 +.msftauth.net
++.msftauthimages.net
 +.msftconnecttest.com
 +.msftncsi.com
 +.msftnet.org
@@ -16236,7 +16235,6 @@
 +.rwe
 +.rxhj.net
 +.ryukyu
-+.s
 +.s-bluemix.net
 +.s-books.com
 +.s-cashonmobile.com
@@ -19139,7 +19137,6 @@
 +.usus.cc
 +.usvimosquito.com
 +.usvimosquitoproject.com
-+.utodeskvasari.net
 +.utopianpal.com
 +.uu-gg.com
 +.uug22.com
