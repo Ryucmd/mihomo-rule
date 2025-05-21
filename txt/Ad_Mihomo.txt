@@ -1422,7 +1422,6 @@
 +.52pk.com
 +.ad.52school.com
 +.adm.52swine.com
-+.52wmb.com
 +.api.52youtu.com
 +.52z.com
 +.a.52zxw.com
@@ -15878,6 +15877,7 @@
 +.woocall.sina.com.cn
 +.www.gome.com.cn
 +.wxaintpcos.wxqcloud.qq.com.cn
++.xwmr.com.cn
 +.xyoss.g.com.cn
 +.yahoo.com.cn
 +.ydjs.zol.com.cn
@@ -44738,7 +44738,6 @@
 +.ownproposesanction.pro
 +.ownthmorningb.org
 +.owouucg.top
-+.immmg.owowqrf.cn
 +.google-analytics.bi.owox.com
 +.owrkwilxbw.com
 +.owusnf.net
@@ -66809,6 +66808,7 @@
 +.yj2nf.icu
 +.js.yjbys.com
 +.yje912.cn
++.qpb1.sohu.com.cname209.yjs-cdn.
 +.mountain.zhidao.baidu.com.cname3466.yjs-cdn.com
 +.qpb1.sohu.com.cname209.yjs-cdn.com
 +.yk4xrby7jc.xyz

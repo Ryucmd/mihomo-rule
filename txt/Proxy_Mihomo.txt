@@ -2404,6 +2404,7 @@
 +.bbnradio.org
 +.bbqm1.xyz
 +.bbs-tw.com
++.bbs.boingboing.net
 +.bbs.naixi.net
 +.bbs.sina.com
 +.bbsdigest.com
@@ -7755,6 +7756,7 @@
 +.full:apple-tv-plus-press.apple.com
 +.full:azure.microsoft.com
 +.full:azuremarketplace.microsoft.com
++.full:bbs.boingboing.net
 +.full:bybit.ada.support
 +.full:cbsi.live.ott.irdeto.com
 +.full:cbsplaylistserver.aws.syncbak.com
@@ -11315,6 +11317,7 @@
 +.lcsmerch.com
 +.ld.hao123img.com
 +.ldplayer.net
++.ldstatic.com
 +.le-direct.tv
 +.le-vpn.com
 +.leafyvpn.net
