@@ -155,7 +155,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -834,6 +833,7 @@
 +.ae.org
 +.aeasyshop.com
 +.aebn.com
++.aec
 +.aecexcellence.com
 +.aeg
 +.aei.org
@@ -1241,6 +1241,7 @@
 +.amazonvideo.cc
 +.amazonvideo.com
 +.amazonvideodirect.com
++.amazonvngyi.net
 +.amazonworkdocs.com
 +.amc.com
 +.amcn.com
@@ -2585,6 +2586,7 @@
 +.beatsbydreoksale.com
 +.beatsbydreol.com
 +.beatsbydreonlie2013-nl.com
++.beatsbydreonliheporn.cc
 +.beatsbydreonlines-ireland.com
 +.beatsbydreonlines-uk.com
 +.beatsbydreonlinesale-nz.com
@@ -7039,6 +7041,7 @@
 +.fdc64.org
 +.fdiintelligence.com
 +.fdroid.org
++.fe2013-nl.com
 +.feacboo.com
 +.feacbook.com
 +.feacbooke.com
@@ -8383,6 +8386,7 @@
 +.gongmeng.info
 +.gongminliliang.com
 +.gongwt.com
++.gongyichua1password.drift.click
 +.gongyichuangyi.net
 +.gonike.com
 +.gonzo-movies.com
@@ -17229,6 +17233,7 @@
 +.sony.com
 +.sony.com.co
 +.sony.com.hk
++.sony.com.ideodirect.com
 +.sony.net
 +.sonybsc.com
 +.sonyclassics.com
@@ -18685,6 +18690,7 @@
 +.tt-rss.org
 +.tt1069.com
 +.tteshop.com
++.ttlaspost.com
 +.ttlivecdn.com
 +.ttoverseaus.net
 +.tttan.com
