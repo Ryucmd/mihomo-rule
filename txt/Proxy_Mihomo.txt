@@ -155,6 +155,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -563,7 +564,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -833,7 +833,6 @@
 +.ae.org
 +.aeasyshop.com
 +.aebn.com
-+.aec
 +.aecexcellence.com
 +.aeg
 +.aei.org
@@ -957,6 +956,9 @@
 +.ajsands.com
 +.ajsjx.com
 +.ajtalk.com
++.ak-p.tripcdn.com
++.ak-s-cw.tripcdn.com
++.ak-s.tripcdn.com
 +.ak1.net
 +.aka-ai.com
 +.aka-ai.net
@@ -1020,6 +1022,7 @@
 +.akasha.world
 +.akastream.com
 +.akastream.net
++.akatest.tripcdn.com
 +.akatns.net
 +.akdn
 +.akiba-online.com
@@ -1241,7 +1244,6 @@
 +.amazonvideo.cc
 +.amazonvideo.com
 +.amazonvideodirect.com
-+.amazonvngyi.net
 +.amazonworkdocs.com
 +.amc.com
 +.amcn.com
@@ -2158,6 +2160,9 @@
 +.avxxc.com
 +.avyahoo.com
 +.aw
++.aw-d.tripcdn.com
++.aw-p.tripcdn.com
++.aw-s.tripcdn.com
 +.awayoutgame.com
 +.aweencore.com
 +.awempire.com
@@ -2586,7 +2591,6 @@
 +.beatsbydreoksale.com
 +.beatsbydreol.com
 +.beatsbydreonlie2013-nl.com
-+.beatsbydreonliheporn.cc
 +.beatsbydreonlines-ireland.com
 +.beatsbydreonlines-uk.com
 +.beatsbydreonlinesale-nz.com
@@ -7041,7 +7045,6 @@
 +.fdc64.org
 +.fdiintelligence.com
 +.fdroid.org
-+.fe2013-nl.com
 +.feacboo.com
 +.feacbook.com
 +.feacbooke.com
@@ -8386,7 +8389,6 @@
 +.gongmeng.info
 +.gongminliliang.com
 +.gongwt.com
-+.gongyichua1password.drift.click
 +.gongyichuangyi.net
 +.gonike.com
 +.gonzo-movies.com
@@ -17233,7 +17235,6 @@
 +.sony.com
 +.sony.com.co
 +.sony.com.hk
-+.sony.com.ideodirect.com
 +.sony.net
 +.sonybsc.com
 +.sonyclassics.com
@@ -18690,7 +18691,6 @@
 +.tt-rss.org
 +.tt1069.com
 +.tteshop.com
-+.ttlaspost.com
 +.ttlivecdn.com
 +.ttoverseaus.net
 +.tttan.com
