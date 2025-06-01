@@ -1300,7 +1300,6 @@
 +.amzndns.net
 +.amzndns.org
 +.amznl.com
-+.an.org
 +.anacams.com
 +.anaconda.cloud
 +.anaconda.com
@@ -3078,6 +3077,7 @@
 +.blackfridaydrebeatsshop.com
 +.blackhomeporn.com
 +.blacklogic.com
++.blackmagicdesign.com
 +.blackmonsterterror.com
 +.blackshemalevideo.com
 +.blacksonblondes.com
@@ -7187,7 +7187,6 @@
 +.finlitsummit.org
 +.fiotolia.com
 +.fire-emblem-heroes.com
-+.firearmrybooks.org
 +.firearmsworld.net
 +.firebase-settings.crashlytics.com
 +.firebase.com
@@ -14766,7 +14765,6 @@
 +.ph
 +.phantomjs.org
 +.phapluan.org
-+.phaplusworld.net
 +.phayul.com
 +.phd
 +.pheonix.money
