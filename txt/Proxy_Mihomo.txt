@@ -4871,6 +4871,7 @@
 +.ctexcel.com.hk
 +.ctfassets.net
 +.ctfriend.net
++.ctinews.com
 +.ctotires.com
 +.ctowc.org
 +.ctrip.com.hk
