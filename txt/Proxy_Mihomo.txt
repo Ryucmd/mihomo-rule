@@ -1816,6 +1816,7 @@
 +.asminternational.org
 +.asmrbuluo.com
 +.asn-online.org
++.asobostudio.com
 +.asp-cc.com
 +.asp.net
 +.aspbjournals.org
@@ -7255,6 +7256,7 @@
 +.flickrhivemind.net
 +.flickriver.com
 +.fliggy.hk
++.flightsimulator.com
 +.fling.com
 +.flipboard.com
 +.flipfap.com
@@ -7344,6 +7346,7 @@
 +.fortuneinsight.com
 +.forum4hk.com
 +.forums-free.com
++.forza.net
 +.forzamotorsport.net
 +.forzaracingchampionship.com
 +.forzarc.com

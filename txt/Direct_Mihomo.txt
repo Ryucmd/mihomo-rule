@@ -12199,6 +12199,7 @@
 +.amoydxmed.com
 +.amp-api-edge.apps.apple.com
 +.amp-api-search-edge.apps.apple.com
++.amp-api-updates.apps.apple.com
 +.amp-api.apps.apple.com
 +.amp-api.media.apple.com
 +.amp-intl.com
@@ -12856,9 +12857,6 @@
 +.api-edge.apps.apple.com
 +.api-forwards.com
 +.api-m.com
-+.api-p-ap-c.smoot.apple.com
-+.api-p-ap-d.smoot.apple.com
-+.api-p-ap-e.smoot.apple.com
 +.api.anythinktech.com
 +.api.cnno1.uds.lenovo.com
 +.api.crisp.chat
@@ -30074,6 +30072,7 @@
 +.devexel.com
 +.devexpresscn.com
 +.devicewell.com
++.devimages-cdn.apple.com
 +.devio.org
 +.devops-dev.com
 +.devotiongroup.com
@@ -30083,6 +30082,7 @@
 +.devsapp.net
 +.devsiki.com
 +.devskyr.com
++.devstreaming-cdn.apple.com
 +.devtang.com
 +.devui.design
 +.devusa.djicdn.com
@@ -41888,7 +41888,6 @@
 +.gsp12-cn.ls.apple.com
 +.gsp13-cn.ls.apple.com
 +.gsp4-cn.ls.apple.com
-+.gsp4-cn.ls.apple.com.edgekey.net
 +.gsp5-cn.ls.apple.com
 +.gsp85-cn-ssl.ls.apple.com
 +.gspaceteam.com
@@ -41898,7 +41897,6 @@
 +.gspe19-cn-ssl.ls.apple.com
 +.gspe19-cn.ls.apple.com
 +.gspe21-ssl.ls.apple.com
-+.gspe21.ls.apple.com
 +.gspe35-ssl.ls.apple.com
 +.gspe79-cn-ssl.ls.apple.com
 +.gspe85-cn-ssl.ls.apple.com
@@ -54741,7 +54739,6 @@
 +.images-cache.com
 +.images-cn-8.ssl-images-amazon.com
 +.images-cn.ssl-images-amazon.com
-+.images.apple.com
 +.images.samsung.com
 +.imagestoryai.com
 +.imageter.com
@@ -105526,7 +105523,6 @@
 +.www.akamai.com
 +.www.analog.com
 +.www.apple.com
-+.www.apple.com.edgekey.net
 +.www.bing.com
 +.www.cg
 +.www.com.my
