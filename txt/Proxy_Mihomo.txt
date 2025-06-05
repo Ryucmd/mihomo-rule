@@ -1542,7 +1542,6 @@
 +.apple-inc.net
 +.apple-livephotoskit.com
 +.apple-mapkit.com
-+.apple-mapst.org
 +.apple-online.com
 +.apple-pay.com
 +.apple-pay.wang
@@ -2258,7 +2257,6 @@
 +.b-ok.cc
 +.b-ok.global
 +.b-ok.org
-+.b.com
 +.b0ne.com
 +.b3boos.com
 +.b6b33.com
@@ -3595,7 +3593,6 @@
 +.browser.kagi.com
 +.browserleaks.com
 +.brucewang.net
-+.bruntbeatsbydre-us.com
 +.brussels
 +.brutalbdsmtube.com
 +.brutalfetish.com
@@ -4043,6 +4040,7 @@
 +.cdn-telegram.org
 +.cdn-terapeak.com
 +.cdn.angruo.com
++.cdn.arstechnica.net
 +.cdn.js7k.com
 +.cdn.segment.com
 +.cdn77.com
@@ -4219,7 +4217,6 @@
 +.cherrypimps.com
 +.cherrypornhd.com
 +.cherrysave.com
-+.chester000webhost.com
 +.chhongbi.org
 +.chianxv.buzz
 +.chicagolandbmw.com
@@ -4352,6 +4349,7 @@
 +.ci
 +.ci-en.net
 +.ciattackers.com
++.cici.com
 +.ciciai.com
 +.cienen.com
 +.cilk.com
@@ -4955,7 +4953,6 @@
 +.cwcams.com
 +.cws.conviva.com
 +.cx
-+.cx5atlanta.com
 +.cy
 +.cy22.tv
 +.cyber-bay.info
@@ -5254,7 +5251,6 @@
 +.deviantart.net
 +.deviantclip.com
 +.devilsfilm.com
-+.devio.s.com
 +.devm2m.com
 +.devopsassessment.net
 +.devopsms.com
@@ -5383,7 +5379,6 @@
 +.dirtyship.com
 +.disco-api.com
 +.discoins.com
-+.discokit.com
 +.discomax.com
 +.disconnect.me
 +.discord-activities.com
@@ -5962,7 +5957,6 @@
 +.eater.com
 +.ebahy.com
 +.ebalovo.com
-+.ebaomo.com
 +.ebay-authenticate.net
 +.ebay-confirm.com
 +.ebay-course.com
@@ -6410,7 +6404,6 @@
 +.eroxia.com
 +.eroyakuba.com
 +.ertk.net
-+.eruncensored.com
 +.es
 +.es-visiontimes.com
 +.esbeatsbydrebuy.com
@@ -6538,7 +6531,6 @@
 +.expatshield.com
 +.expecthim.com
 +.expekt.com
-+.experience-vmware.-press.net
 +.experience-vmware.com
 +.experiencebillmelater.com
 +.expertmaker.com
@@ -9496,7 +9488,6 @@
 +.hpsalescentral.com
 +.hpserver.com
 +.hpservices.com
-+.hpservicetripbuy.hk
 +.hpshooping.com
 +.hpshop.com
 +.hpshoping.com
@@ -10178,7 +10169,6 @@
 +.instagramtakiphilesi.com
 +.instagramtips.com
 +.instagramtr.com
-+.instagramus
 +.instagran.com
 +.instagranm.com
 +.instagrem.com
@@ -10390,7 +10380,6 @@
 +.iqq3.cc
 +.iqqtv.net
 +.ir
-+.iraniadisehill.cc
 +.iranianboobs.com
 +.iransextv.com
 +.iranx.net
@@ -10832,7 +10821,6 @@
 +.jkface.net
 +.jkforum.net
 +.jkub.com
-+.jkucom
 +.jkycjk.mom
 +.jkzvz.shop
 +.jkzw.shop
@@ -12139,7 +12127,6 @@
 +.mcdonalds.hk
 +.mcdonaldsapps.com
 +.mcdonaldsarabia.com
-+.mcedirectassets.com
 +.mcfog.com
 +.mcisco.com
 +.mckinsey
@@ -14485,7 +14472,6 @@
 +.paoluz.link
 +.paon.site
 +.papalah.com
-+.para
 +.paradisehill.cc
 +.paradisehotelquizfox.com
 +.paradisepoker.com
@@ -15903,7 +15889,6 @@
 +.rbspeakup.com
 +.rcl07.xyz
 +.rclon.com
-+.rcus.net
 +.rd.com
 +.rdio.com
 +.rds-yes.buzz
@@ -16461,7 +16446,6 @@
 +.sciencemag.org
 +.sciencenets.com
 +.scienceonline.org
-+.scienntors.com
 +.scientificamerican.com
 +.scientificlinux.org
 +.scieron.com
@@ -17202,7 +17186,6 @@
 +.socdm.com
 +.social.com
 +.socialblade.com
-+.socialblade.comm
 +.socialcam.com
 +.socialcammail.com
 +.socialkam.com
@@ -18209,7 +18192,6 @@
 +.thelancet.com
 +.theleakbay.com
 +.thelegendarystarfy.com
-+.thelepali.ltd
 +.thelittleslush.com
 +.themarvelexperiencetour.com
 +.themathsfactor.com
@@ -19440,7 +19422,6 @@
 +.vijayatemple.org
 +.vikacg.com
 +.viking
-+.vikiporn.co.net
 +.vikiporn.com
 +.vilanet.me
 +.vilavpn.com
@@ -21244,7 +21225,6 @@
 +.yysub.net
 +.yzld188.top
 +.yzzk.com
-+.z
 +.z-lib.org
 +.z00.world
 +.z18r.co
