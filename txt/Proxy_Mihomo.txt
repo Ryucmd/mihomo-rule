@@ -565,6 +565,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1558,7 +1559,6 @@
 +.apple.xn--czr694b
 +.apple.xn--fiqs8s
 +.apple.xyz
-+.appleaccount.n+.aaa
 +.appleaccount.net
 +.appleafrica.com
 +.appleantilles.com
@@ -1731,6 +1731,7 @@
 +.arctosia.com
 +.area120.com
 +.areca-backup.org
++.arena.com
 +.arewereadyyet.com
 +.areyoucreditwise.com
 +.argotunnel.com
@@ -19677,6 +19678,7 @@
 +.vpejey.xyz
 +.vpn.cjb.net
 +.vpn.net
++.vpn.net000webhost.com
 +.vpn4all.com
 +.vpnaccount.org
 +.vpnaccounts.com
