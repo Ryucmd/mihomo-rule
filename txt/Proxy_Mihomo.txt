@@ -1,5 +1,3 @@
-+.# NAME: Proxy
-+..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -157,6 +155,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -4219,7 +4218,6 @@
 +.cherrypimps.com
 +.cherrypornhd.com
 +.cherrysave.com
-+.cheserefoundation.org
 +.chhongbi.org
 +.chianxv.buzz
 +.chicagolandbmw.com
@@ -7907,7 +7905,6 @@
 +.fzh999.net
 +.fzlm.com
 +.fzlm.net
-+.g
 +.g-area.org
 +.g-queen.com
 +.g-technology.com
@@ -8686,7 +8683,6 @@
 +.h0930.com
 +.h18ani1.vip
 +.h1n1china.org
-+.h1password.drift.click
 +.h2porn.com
 +.h528.com
 +.h5dm.com
@@ -8873,7 +8869,6 @@
 +.helixstudios.net
 +.helloandroid.com
 +.helloavgirls.com
-+.helloavgirls.com9094.com
 +.hellokittybeats.com
 +.helloqueer.com
 +.hellosmartbook.com
@@ -14265,7 +14260,6 @@
 +.openwrt.org.cn
 +.opera-mini.net
 +.opera.com
-+.opface.com
 +.opinionjournal.com
 +.oppai-doga.info
 +.oppainorakuen.com
@@ -17745,7 +17739,6 @@
 +.suroot.com
 +.surrenderat20.net
 +.suruga-ya.com
-+.susbeatsbydrehut.com
 +.sushi.com
 +.sushi.ski
 +.susiewildin.com
@@ -18705,6 +18698,7 @@
 +.tsctv.net
 +.tsemtulku.com
 +.tsescortsdirectory.com
++.tsfromfacebook.com
 +.tsmodelstube.com
 +.tspline.com
 +.tsplines.com
@@ -19425,6 +19419,7 @@
 +.vietdaikynguyen.com
 +.viewerswives.net
 +.viewgals.com
++.viewpoin000webhost.com
 +.viewpointsfromfacebook.com
 +.vig
 +.vijayatemple.org
@@ -20294,7 +20289,6 @@
 +.wvm0agb4.me
 +.ww9094.com
 +.wwapple.net
-+.wwbusinesscatalyst.com
 +.wwe.com
 +.wwe9.com
 +.wwitv.com
