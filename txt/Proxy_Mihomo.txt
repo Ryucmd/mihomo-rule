@@ -565,7 +565,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1238,6 +1237,7 @@
 +.amazonlaunchpad.com
 +.amazonliterarypartnership.com
 +.amazonlumberyard.wang
++.amazonpay.c+.aaa
 +.amazonpay.com
 +.amazonprimevideos.com
 +.amazonsdi.com
@@ -4781,6 +4781,7 @@
 +.cpan.org
 +.cpedge.com
 +.cpj.org
++.cpu-monkey.com
 +.cqcorea.com
 +.cr
 +.crabporn.com
