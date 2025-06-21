@@ -1295,6 +1295,7 @@
 +.amsterdamhotescort.com
 +.amsterdamluxescort.com
 +.amtb-taipei.org
++.amuletmc.com
 +.amytele.com
 +.amzn.asia
 +.amzn.com
@@ -4461,6 +4462,7 @@
 +.clickserve.cc-dt.com
 +.clickserver.googleads.com
 +.clien.net
++.climate-lab-000webhost.com
 +.climate-server.com
 +.clinical-videos.com
 +.clinicalkey.com
