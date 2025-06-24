@@ -565,6 +565,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1470,7 +1471,6 @@
 +.ap-tokyo.tencentcos.com
 +.ap-tokyo.tencentcos.com.cn
 +.ap.org
-+.ap000webhost.com
 +.ap0le.com
 +.apa.org
 +.apache.org
@@ -3209,7 +3209,6 @@
 +.bmw-classic.com
 +.bmw-clubs-international.com
 +.bmw-connected-drive.com
-+.bmw-connecteddrive.aeoramerica.org
 +.bmw-connecteddrive.com
 +.bmw-corporate-sales.com
 +.bmw-diplomatic-sales.com
@@ -5422,7 +5421,6 @@
 +.disney-studio.com
 +.disney-studio.net
 +.disney.asia
-+.disney.col
 +.disney.com
 +.disney.com.hk
 +.disneyadsales.com
@@ -6220,7 +6218,6 @@
 +.eltondisney.com
 +.emaga.com
 +.emanna.com
-+.emascommend.net
 +.embase.com
 +.embed-cdn.com
 +.embedly.com
@@ -7453,7 +7450,6 @@
 +.foxnebraska.com
 +.foxneo.com
 +.foxneodigital.com
-+.foxnetw
 +.foxnetworks.info
 +.foxnetworksinfo.com
 +.foxnews.cc
@@ -9553,7 +9549,6 @@
 +.hrw.org
 +.hrweb.org
 +.hsbc
-+.hsbc-transactionservic.com
 +.hsbc.com
 +.hsbc.com.cn
 +.hsbc.com.hk
@@ -10896,7 +10891,6 @@
 +.jpg4us.net
 +.jpopforum.net
 +.jprs
-+.jpslideshare.com
 +.jpvhub.com
 +.jquery.com
 +.jquerymobile.com
@@ -11525,7 +11519,6 @@
 +.link69.com
 +.linkedin.com
 +.linkideo.com
-+.linkj-gtvq61aiijy0b.xn--hxt814e
 +.linkjunkies.com
 +.linksalpha.com
 +.linkshit.com
@@ -12310,7 +12303,6 @@
 +.microsoft-sbs-domains.com
 +.microsoft.com
 +.microsoft.net
-+.microsoft.pewhatsnext.com
 +.microsoft.red
 +.microsoft.tv
 +.microsoft365.com
@@ -14897,7 +14889,6 @@
 +.pixelmator.com
 +.pixelqi.com
 +.pixfs.net
-+.pixiv-reayvietnam.net
 +.pixiv-recommend.net
 +.pixiv.help
 +.pixiv.me
@@ -16190,7 +16181,6 @@
 +.ronjoneswriter.com
 +.roodo.com
 +.rootsigning.com
-+.rootsigningorksinfo.com
 +.rosechina.net
 +.rosemarydoll.com
 +.roshy.tv
@@ -17171,7 +17161,7 @@
 +.sn
 +.snap-dev.net
 +.snap.com
-+.snapads.com+.aaa
++.snapads.com
 +.snapchat.com
 +.snapdragon.cn
 +.snapdragonbooth.com
@@ -19106,7 +19096,6 @@
 +.universalstudioshollywood.com
 +.universitypressscholarship.com
 +.unix100.com
-+.unkies.com
 +.unknownspace.org
 +.unkoscene.com
 +.unlocklimitlesslearning.com
@@ -20675,7 +20664,6 @@
 +.xn--yfro4i67o
 +.xn--ygbi2ammx
 +.xn--ztsq84g.cn
-+.xn-.hao123.com
 +.xnalgas.com
 +.xnertv.shop
 +.xnostars.com
