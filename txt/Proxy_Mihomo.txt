@@ -565,7 +565,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -7431,6 +7430,7 @@
 +.foxdeportes.com
 +.foxdeportes.net
 +.foxdeportes.tv
++.foxdigi+.aaa
 +.foxdigitalmovies.com
 +.foxdoua.com
 +.foxentertainment.com
@@ -17935,6 +17935,7 @@
 +.talkcc.com
 +.talkonly.net
 +.talksport.com
++.talmovies.com
 +.tamilsexvideos.cc
 +.tampabay.com
 +.tanc.org
