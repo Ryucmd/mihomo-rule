@@ -1742,6 +1742,7 @@
 +.arnoldrenderer.com
 +.arphic.com
 +.arphic.com.cn
++.arstechnica.net
 +.art1lib.com
 +.art4tibet1998.org
 +.artcam.com
@@ -2418,8 +2419,8 @@
 +.bbqm1.xyz
 +.bbs-tw.com
 +.bbs.boingboing.net
-+.bbs.naixi.net
 +.bbs.sina.com
++.bbs.tuitui.info
 +.bbsdigest.com
 +.bbsfeed.com
 +.bbsland.com
@@ -4042,7 +4043,6 @@
 +.cdn-telegram.org
 +.cdn-terapeak.com
 +.cdn.angruo.com
-+.cdn.arstechnica.net
 +.cdn.js7k.com
 +.cdn.segment.com
 +.cdn77.com
@@ -4567,7 +4567,6 @@
 +.cnet.com
 +.cnex.org.cn
 +.cnineu.com
-+.cnitter.com
 +.cnix-gov-cn.com
 +.cnn.com
 +.cnnamador.com
@@ -10030,7 +10029,6 @@
 +.imdb
 +.imdb.com
 +.imessage.tv
-+.img.picgo.net
 +.imgasd.com
 +.imgbb.com
 +.imgchili.net
@@ -12106,7 +12104,6 @@
 +.maturewifeporn.cc
 +.maturewomenanal.com
 +.maturexxxvideos.cc
-+.maven.neoforged.net
 +.maven.org
 +.max.com
 +.maxgo.com
@@ -13275,6 +13272,7 @@
 +.naijauncut.com
 +.nailedhard.com
 +.naitik.net
++.naixi.net
 +.naizitv.top
 +.naked-asian-porn.com
 +.naked-girls.me
@@ -13407,6 +13405,7 @@
 +.nenitas.club
 +.nentindo.net
 +.neo-miracle.com
++.neoforged.net
 +.neotokyo.supertop-100.com
 +.neowin.net
 +.nepusoku.com
@@ -13816,7 +13815,6 @@
 +.no-ip.org
 +.nobelprize.org
 +.nodejs.org
-+.nodeloc.com
 +.nodeseek.com
 +.nodesnoop.com
 +.nodesource.com
@@ -14839,6 +14837,7 @@
 +.picasaweb.com
 +.picasaweb.net
 +.picasaweb.org
++.picgo.net
 +.pichunter.com
 +.picidae.net
 +.picjs.xyz
@@ -18814,7 +18813,6 @@
 +.tuibeitu.net
 +.tuidang.net
 +.tuidang.org
-+.tuitui.info
 +.tuitwit.com
 +.tukaani.org
 +.tukif.com
@@ -20341,7 +20339,6 @@
 +.www.imdb.com
 +.www.msn.com
 +.www.pxcc.com
-+.www.xicons.org
 +.www1.biz
 +.www8-hp.com
 +.wwwapple.com
@@ -20503,6 +20500,7 @@
 +.xiaoshuobb.life
 +.xiaoyaoge.xyz
 +.xiaxiaoqiang.net
++.xicons.org
 +.xie56.xyz
 +.xiezhua.com
 +.xin21.xyz
