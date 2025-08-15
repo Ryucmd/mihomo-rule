@@ -6461,7 +6461,7 @@
 +.clickserve.cc-dt.com
 +.clickserver.googleads.com
 +.clien.net
-+.cliffcollege.ac.uNot Foundk
++.cliffcollege.ac.uk
 +.climate-lab-book.ac.uk
 +.climate-server.com
 +.climatechangewales.ac.uk
@@ -10904,7 +10904,6 @@
 +.freedomcollection.org
 +.freedomhongkong.org
 +.freedomhouse.org
-+.freedominr.io
 +.freedomplatform.tv
 +.freedomsherald.org
 +.freefacebook.com
@@ -11467,7 +11466,6 @@
 +.gbnews.uk
 +.gbs3trial.ac.uk
 +.gbxml.net
-+.gc.ba
 +.gca.ac.uk
 +.gcadt.ac.uk
 +.gcal.ac.uk
@@ -18097,7 +18095,6 @@
 +.midplus.ac.uk
 +.midrib.ac.uk
 +.mie.co.jp
-+.mietaccess.com
 +.miexnoviadesnuda.com
 +.mihe.ac.uk
 +.mihk.hk
@@ -22589,7 +22586,6 @@
 +.prismlive.com
 +.prisoneralert.com
 +.pritunl.com
-+.priva
 +.privacybox.de
 +.privacysandbox.com
 +.privacysimplified.com
@@ -22598,7 +22594,6 @@
 +.privatebrowsingmyths.com
 +.privatecasting-x.com
 +.privateclassics.com
-+.privateintern.org.hk
 +.privateinternetaccess.com
 +.privatemarketplaces.net
 +.privatemarketplaces.us
@@ -23717,7 +23712,6 @@
 +.rul.ac.uk
 +.rulaisc-tv.buzz
 +.rule34.xxx
-+.rule34.xxx.com
 +.rule34h.com
 +.rule34pornvids.com
 +.rule34video.com
@@ -24183,7 +24177,6 @@
 +.search25.ac.uk
 +.searchtruth.com
 +.searx.me
-+.searx.menghui.or.kr
 +.seas.ac.uk
 +.seasidestory.tokyo
 +.seatguru.com
@@ -25751,7 +25744,6 @@
 +.static9.net.au
 +.statically.io
 +.staticflickr.com
-+.staticflickrte.com
 +.statistics.ac.uk
 +.statsmakemecry.com
 +.statstutor.ac.uk
@@ -27025,7 +27017,6 @@
 +.tibetcharity.in
 +.tibetchild.org
 +.tibetcity.com
-+.tibetcity.project.net
 +.tibetcollection.com
 +.tibetcorps.org
 +.tibetexpress.net
