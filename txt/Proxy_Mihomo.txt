@@ -456,7 +456,6 @@
 +.64wiki.com
 +.66.ca
 +.666kb.com
-+.666pool.cn
 +.66lu.link
 +.66wwmm.com
 +.66xing.cc
@@ -560,7 +559,6 @@
 +.91moxiong.com
 +.91oo.xyz
 +.91porn.best
-+.91porn.com
 +.91pornplus.com
 +.91porny.com
 +.91porny.store
@@ -621,7 +619,6 @@
 +.9xav.cc
 +.9xlove.xyz
 +.9zipai.net
-+.Not Found000webhost.com
 +.a-bank.jp
 +.a-hentai.tv
 +.a-msedge.net
@@ -847,7 +844,6 @@
 +.addthiscdn.com
 +.addthisedge.com
 +.addtoany.com
-+.addyoutube.com
 +.adelaidebbs.com
 +.adelaidenow.com.au
 +.adeptt.ac.uk
@@ -1084,7 +1080,6 @@
 +.agilebits.com
 +.agnesb.fr
 +.agocg.ac.uk
-+.agoogleaday.com
 +.agrd.eu
 +.agrd.io
 +.agressofinanceroyalholloway.ac.uk
@@ -1943,7 +1938,6 @@
 +.app0le.com
 +.app756.com
 +.appadvice.com
-+.appbrain.com
 +.appbridge.ca
 +.appbridge.io
 +.appbridge.it
@@ -2304,7 +2298,6 @@
 +.aqi.aqicn.org
 +.aqmen.ac.uk
 +.aquinas.ac.uk
-+.ar.hao123.com
 +.arabianchicks.com
 +.arabidopsis.org
 +.arabnek.com
@@ -2638,8 +2631,6 @@
 +.auroraoss.com
 +.ausbeatsbydrdre.com
 +.auth0.com
-+.authorizeddns.net
-+.authorizeddns.org
 +.authorxml.com
 +.authy.com
 +.autocad-schulungen.com
@@ -3629,7 +3620,6 @@
 +.berkscollag.ac.uk
 +.berlincompanions.com
 +.berlinerbericht.de
-+.berlintwitterwall.com
 +.berm.co.nz
 +.bern.ac.uk
 +.bernards.ac.uk
@@ -3703,7 +3693,6 @@
 +.bestporngames.com
 +.bestpornsites.eu
 +.bestpornsites.guide
-+.bestpornstardb.com
 +.bestporntube.me
 +.bestpremiumpornsite.com
 +.bestrecipes.com.au
@@ -4093,7 +4082,6 @@
 +.blog.kangye.org
 +.blog.qooza.hk
 +.blogblog.com
-+.blogcatalog.com
 +.blogcdn.com
 +.blogcity.me
 +.blogdns.org
@@ -4102,7 +4090,6 @@
 +.bloggrowup.com
 +.blogimg.jp
 +.blogjav.net
-+.bloglines.com
 +.bloglovin.com
 +.blogoverflow.com
 +.blogs.com
@@ -4116,7 +4103,6 @@
 +.blogspot.bg
 +.blogspot.bj
 +.blogspot.ca
-+.blogspot.cat
 +.blogspot.cf
 +.blogspot.ch
 +.blogspot.cl
@@ -5464,7 +5450,6 @@
 +.can.ac.uk
 +.canada-beatsbydre.com
 +.canadameet.com
-+.canalporno.com
 +.cancerandsociety.ac.uk
 +.candi.ac.uk
 +.candidforum-videos.com
@@ -5554,7 +5539,6 @@
 +.cao.im
 +.caobian.info
 +.caochangqing.com
-+.caoporn.us
 +.cap.org.hk
 +.cape.ac.uk
 +.capel.ac.uk
@@ -6246,7 +6230,6 @@
 +.christusrex.org
 +.christymarks.com
 +.chrlawyers.hk
-+.chrlawyers.rg
 +.chrome.com
 +.chromebook.com
 +.chromecast.com
@@ -6603,7 +6586,6 @@
 +.cnet.com
 +.cnet.de
 +.cnetfrance.fr
-+.cnex.org.cn
 +.cnineu.com
 +.cnivogue.com.au
 +.cnix-gov-cn.com
@@ -6867,7 +6849,6 @@
 +.coova.net
 +.coova.org
 +.copac.ac.uk
-+.copilot.microsoft.com
 +.copim.ac.uk
 +.copior.ac.uk
 +.copro.pw
@@ -7442,7 +7423,6 @@
 +.dassh.ac.uk
 +.dastanhisexy.cc
 +.dastrassi.org
-+.dat
 +.dat.foundation
 +.data-archive.ac.uk
 +.data-intensive-cdt.ac.uk
@@ -7472,7 +7452,6 @@
 +.dawangidc.com
 +.dawngate.com
 +.dawngatechronicles.com
-+.daxa.cn
 +.day24.ir
 +.dayabook.com
 +.daylenerio.com
@@ -7511,13 +7490,6 @@
 +.ddi.ac.uk
 +.dditsadn.com
 +.dditscdn.com
-+.ddns.info
-+.ddns.me.uk
-+.ddns.mobi
-+.ddns.ms
-+.ddns.name
-+.ddns.net
-+.ddns.us
 +.de-montfort.ac.uk
 +.de-sci.org
 +.de1lib.org
@@ -8059,7 +8031,6 @@
 +.dlsite.jp
 +.dlsitenews.com
 +.dlsitestudio.com
-+.dlyoutube.com
 +.dm-event.net
 +.dm530.net
 +.dma.mil
@@ -8093,14 +8064,12 @@
 +.dns2.us
 +.dns2go.com
 +.dnscrypt.org
-+.dnset.com
 +.dnsimple.com
 +.dnsrd.com
 +.dnssec.net
 +.dnsserver1.de
 +.dnsserver2.de
 +.dnsvisa.com
-+.dnvod.tv
 +.dnvodcdn.me
 +.do.co
 +.dobbyporn.com
@@ -8564,7 +8533,6 @@
 +.dynacw.com.hk
 +.dynacw.com.tw
 +.dynafleetonline.com
-+.dynamic-dns.net
 +.dynamicdialects.ac.uk
 +.dynamicdns.biz
 +.dynamicdns.co.uk
@@ -8972,7 +8940,6 @@
 +.edisebay.com
 +.editorx.com
 +.edlab.ac.uk
-+.edmontonchina.cn
 +.edmontonservice.com
 +.edninfo.com
 +.edns.biz
@@ -9757,7 +9724,6 @@
 +.facebook.ca
 +.facebook.cc
 +.facebook.com
-+.facebook.de
 +.facebook.design
 +.facebook.hu
 +.facebook.in
@@ -9850,7 +9816,6 @@
 +.facebookporn.org
 +.facebookporno.net
 +.facebookportal.com
-+.facebookquotes4u.com
 +.facebooks.com
 +.facebooksafety.com
 +.facebooksecurity.net
@@ -10358,7 +10323,6 @@
 +.fimfiction.net
 +.finalcutpro.com
 +.financeleadsonline.com
-+.financetwitter.com
 +.financialadvisoriq.com
 +.financialexpress.com
 +.financialsoccer.ca
@@ -10379,8 +10343,6 @@
 +.findtubes.com
 +.findvrporn.com
 +.findyourlimits.com
-+.findyoutube.com
-+.findyoutube.net
 +.fine-art-nude.org
 +.fineart.ac.uk
 +.fineartteens.com
@@ -10898,8 +10860,6 @@
 +.freechinaforum.org
 +.freechinaweibo.com
 +.freecodecamp.org
-+.freeddns.com
-+.freeddns.org
 +.freedirecttvspecial.com
 +.freedl.org
 +.freedomchina.info
@@ -11192,6 +11152,7 @@
 +.full:rsshub.umzzz.com
 +.full:rsshub.woodland.cafe
 +.full:rsshub2.asailor.org
++.full:scholar.google.cn
 +.full:servd-anthropic-website.b-cdn.net
 +.full:ssl-lvlt.cdn.ea.com
 +.full:tesla-cdn.thron.com
@@ -11610,7 +11571,6 @@
 +.getfreedur.com
 +.getgom.com
 +.geti2p.net
-+.getiton.com
 +.getjetso.com
 +.getlantern.org
 +.getmalus.com
@@ -11710,7 +11670,6 @@
 +.gigaporn.org
 +.gigaxvideos.com
 +.gigjam.com
-+.gigporno.ru
 +.gimsig.ac.uk
 +.gimy.cc
 +.gimy.co
@@ -12044,7 +12003,6 @@
 +.google.ci
 +.google.cl
 +.google.cm
-+.google.cn
 +.google.co
 +.google.co.ao
 +.google.co.bw
@@ -12104,7 +12062,6 @@
 +.google.com.mx
 +.google.com.my
 +.google.com.na
-+.google.com.nf
 +.google.com.ng
 +.google.com.ni
 +.google.com.np
@@ -12147,7 +12104,6 @@
 +.google.gg
 +.google.gl
 +.google.gm
-+.google.gp
 +.google.gr
 +.google.gy
 +.google.hn
@@ -12207,7 +12163,6 @@
 +.google.st
 +.google.td
 +.google.tg
-+.google.tk
 +.google.tl
 +.google.tm
 +.google.tn
@@ -12227,12 +12182,10 @@
 +.googleapps-cn.com
 +.googleapps.com
 +.googlearth.com
-+.googleartproject.com
 +.googleblog.com
 +.googlebot.com
 +.googlecapital.com
 +.googlecert.net
-+.googlechinawebmaster.com
 +.googlecode.com
 +.googlecommerce.com
 +.googlecompare.co.uk
@@ -12245,20 +12198,14 @@
 +.googlefiber.net
 +.googlefinland.com
 +.googleflights-cn.net
-+.googlegroups.com
-+.googlehosted.com
-+.googleideas.com
-+.googleinsidesearch.com
 +.googlemail.com
 +.googlemaps.com
-+.googlemashups.com
 +.googleoptimize-cn.com
 +.googleoptimize.com
 +.googlepagecreator.com
 +.googlephotos.com
 +.googleplay.com
 +.googleplus.com
-+.googlescholar.com
 +.googlesource.com
 +.googlestore.com
 +.googlesverige.com
@@ -12274,7 +12221,6 @@
 +.googlevads-cn.com
 +.googleventures.com
 +.googlevideo.com
-+.googleweblight.com
 +.googlezip.net
 +.googlr.com
 +.goole-college.ac.uk
@@ -13422,7 +13368,6 @@
 +.hornyjav.com
 +.hornytrip.com
 +.hornywhores.net
-+.horrorporn.com
 +.horse-cum.net
 +.horse4sex.com
 +.horsecock.guru
@@ -13453,7 +13398,6 @@
 +.hotcool.tw
 +.hotcuckoldwife.com
 +.hotcumporn.com
-+.hotels.cn
 +.hotescortdusseldorf.com
 +.hotfiesta.com
 +.hotfrog.com.tw
@@ -13996,7 +13940,6 @@
 +.ibeats-uk.com
 +.ibeatsbydre.cc
 +.ibeatsbydre.com
-+.ibiblio.oitonmsn.com
 +.ibiblio.org
 +.ibis.ac.uk
 +.ibkr.ca
@@ -14537,7 +14480,6 @@
 +.incestporn.xxx
 +.incestvidz.com
 +.incezt.net
-+.incloak.com
 +.inclusion.ac.uk
 +.inclusivegrowthscore.com
 +.incommon-rsa.org
@@ -14923,7 +14865,6 @@
 +.internationalstaff.ac.uk
 +.internationalstudies.ac.uk
 +.internet.org
-+.internetdefenseleague.org
 +.internetdownloadmanager.com
 +.internetexplorer.co
 +.internetexplorer.com
@@ -16106,7 +16047,6 @@
 +.kirkley.ac.uk
 +.kisharon.ac.uk
 +.kismia.com
-+.kissbbao.cn
 +.kisscos.net
 +.kissjav.com
 +.kissjav.li
@@ -16313,9 +16253,7 @@
 +.lanniser-ylo.shop
 +.lantern.io
 +.lanternal.com
-+.lanterncn.cn
 +.lantosfoundation.org
-+.laod.cn
 +.laogai.org
 +.laogairesearch.org
 +.laomiu.com
@@ -16451,7 +16389,6 @@
 +.lede-project.org
 +.leder.ac.uk
 +.ledger.com
-+.leeao.com.cn
 +.leecountytimes.com
 +.leeds-art.ac.uk
 +.leeds-ecampus.ac.uk
@@ -16476,7 +16413,6 @@
 +.lefora.com
 +.left21.hk
 +.legacy.ac.uk
-+.legalporno.com
 +.legalscholars.ac.uk
 +.legaltech.law.com
 +.legaltracker.com
@@ -16628,7 +16564,6 @@
 +.lighten.org.tw
 +.lighthouselearningtrust.ac.uk
 +.lighti.me
-+.lightnovel.cn
 +.lightxxxtube.com
 +.lightyearvpn.com
 +.lih.kg
@@ -16733,7 +16668,6 @@
 +.listen-up.ac.uk
 +.listenbrainz.org
 +.listennotes.com
-+.listentoyoutube.com
 +.listerpostgraduate.ac.uk
 +.listinganalytics.net
 +.listorious.com
@@ -18836,7 +18770,6 @@
 +.mr-tireman.jp
 +.mradx.net
 +.mray.club
-+.mrbasic.com
 +.mrbdsm.com
 +.mrbonus.com
 +.mrc.ac.uk
@@ -19080,7 +19013,6 @@
 +.mycould.com
 +.mydad.info
 +.mydati.com
-+.myddns.com
 +.mydirectgroove.com
 +.mydirectvchannels.com
 +.mydirtyhobby.com
@@ -20880,7 +20812,6 @@
 +.onlinesurveys.ac.uk
 +.onlineteenhub.com
 +.onlinexxxgames.com
-+.onlineyoutube.com
 +.onlinm.ac.uk
 +.only-xxx-porn.com
 +.only-xxx.com
@@ -20908,7 +20839,6 @@
 +.onmoon.net
 +.onmypc.biz
 +.onmypc.info
-+.onmypc.net
 +.onmypc.org
 +.onmypc.us
 +.onsalekey.com
@@ -20987,7 +20917,6 @@
 +.openweave.io
 +.openwebster.com
 +.openwrt.org
-+.openwrt.org.cn
 +.opera-archive.ac.uk
 +.opera.com
 +.opinionjournal.com
@@ -21208,7 +21137,6 @@
 +.pads.ac.uk
 +.paerosnen.club
 +.page.link
-+.page2rss.com
 +.page3.com
 +.pagecdn.com
 +.pagecdn.io
@@ -21306,9 +21234,7 @@
 +.particlephysics.ac.uk
 +.partmaker.com
 +.partneriaethaberbangor.ac.uk
-+.partycasino.com
 +.partylikeits1986.org
-+.partypoker.com
 +.pascherbeatsmonster.com
 +.pase.ac.uk
 +.pashtovoa.com
@@ -21346,7 +21272,6 @@
 +.paygonline.com
 +.payhulu.com
 +.paylike.com
-+.payments-jp.amazon.com
 +.paypa1.com
 +.paypa1.org
 +.paypaal.com
@@ -22107,7 +22032,6 @@
 +.porn.com
 +.porn.to
 +.porn.xxx
-+.porn2.com
 +.porn2012.com
 +.porn300.com
 +.porn300.online
@@ -22115,7 +22039,6 @@
 +.porn3dgalleries.com
 +.porn4days.cc
 +.porn4fap.com
-+.porn5.com
 +.porn555.com
 +.porn5f.com
 +.porn62.com
@@ -22133,7 +22056,6 @@
 +.pornaroma.com
 +.pornav.co
 +.pornaxo.com
-+.pornbase.org
 +.pornbest.org
 +.pornbit.cc
 +.pornbl.com
@@ -22364,7 +22286,6 @@
 +.pornproxy.app
 +.pornqd.com
 +.pornrabbit.com
-+.pornrapidshare.com
 +.pornreactor.cc
 +.pornrips.cc
 +.pornrox.com
@@ -22372,7 +22293,6 @@
 +.pornscum.com
 +.pornsexer.com
 +.pornshare.biz
-+.pornsharing.com
 +.pornsites.com
 +.pornsites.xxx
 +.pornsitesnow.com
@@ -22381,7 +22301,6 @@
 +.pornsos.com
 +.pornspark.com
 +.pornstarbyface.com
-+.pornstarclub.com
 +.pornstreams.tv
 +.pornstripgames.com
 +.porntea.com
@@ -22393,10 +22312,8 @@
 +.porntry.com
 +.porntsunami.com
 +.porntube.com
-+.porntubenews.com
 +.porntubent.com
 +.porntv.com
-+.porntvblog.com
 +.pornuj.cz
 +.pornultras.com
 +.pornv.org
@@ -22407,7 +22324,6 @@
 +.pornvideotop.com
 +.pornvideotube.online
 +.pornvidhd.club
-+.pornvisit.com
 +.pornvr.me
 +.pornwatchers.com
 +.pornwebmasters.com
@@ -22765,7 +22681,6 @@
 +.purextc.com
 +.puripuriunkomura.com
 +.purplelotus.org
-+.purpose.nike.com
 +.pursglove.ac.uk
 +.pursuestar.com
 +.pururin.to
@@ -22855,7 +22770,6 @@
 +.qingse.one
 +.qise100.com
 +.qiwen.lu
-+.qixianglu.cn
 +.qkshare.com
 +.qlink.to
 +.qmap.pub
@@ -23101,7 +23015,6 @@
 +.ravensbourneuniversitylondon.ac.uk
 +.ravm.tv
 +.rawgit.com
-+.rawgithub.com
 +.razer.com
 +.razerofficial.com
 +.razersupport.com
@@ -24639,7 +24552,6 @@
 +.shenyuncreations.com
 +.shenyunperformingarts.org
 +.shenyunshop.com
-+.shenzhoufilm.com
 +.shenzhouzhengdao.org
 +.sheppeycollege.ac.uk
 +.shequ8.cam
@@ -24808,7 +24720,6 @@
 +.silvergatebank.com
 +.silversluts.com
 +.simbios.ac.uk
-+.simbolostwitter.com
 +.simcity-buildit.com
 +.simcity.com
 +.simg.jp
@@ -24990,7 +24901,6 @@
 +.sldolls.com
 +.sleaford.ac.uk
 +.sleazydream.com
-+.sleazyfork.o# NAME: Proxy
 +.sleazyfork.org
 +.sleazyneasy.com
 +.sleepandwakefulnessresearch.ac.uk
@@ -25380,7 +25290,6 @@
 +.southkent.ac.uk
 +.southmongolia.org
 +.southnews.com.tw
-+.southpark.cc.com
 +.southport-college.ac.uk
 +.southport.ac.uk
 +.southsefton6thform.ac.uk
@@ -25540,7 +25449,7 @@
 +.squirrelgroup.net
 +.squirrelvpn.com
 +.sqyzh-dh.sbs
-+.sr.hhk
++.sr.ht
 +.src.ac.uk
 +.srebrenica360.com
 +.srf.ac.uk
@@ -26568,7 +26477,6 @@
 +.telegram.me
 +.telegram.org
 +.telegram.space
-+.telegramdownload.com
 +.telegraph.co.uk
 +.telekom.com
 +.telekom.de
@@ -26972,7 +26880,6 @@
 +.tiantang.today
 +.tianti.io
 +.tiantibooks.org
-+.tianyantong.org.cn
 +.tianzhu.org
 +.tiava.com
 +.tiava1.com
@@ -27168,7 +27075,6 @@
 +.tnntoday.com
 +.tnp.org
 +.tnt-ea.com
-+.to-porno.com
 +.tochigibank.co.jp
 +.todoist.com
 +.toget.com.tw
@@ -27181,7 +27087,6 @@
 +.tokenlon.im
 +.tokyo-247.com
 +.tokyo-hot.com
-+.tokyo-porn-tube.com
 +.tokyo-sports.co.jp
 +.tokyo-tosho.net
 +.tokyocn.com
@@ -27255,7 +27160,6 @@
 +.topsexhdvideos.com
 +.topsexygames.com
 +.topshareware.com
-+.topsy.com
 +.toptip.ca
 +.toptoon.net
 +.toptoonsites.com
@@ -27765,19 +27669,11 @@
 +.twitter.biz
 +.twitter.com
 +.twitter.jp
-+.twitter4j.org
 +.twittercommunity.com
-+.twittercounter.com
-+.twitterfeed.com
 +.twitterflightschool.com
-+.twittergadget.com
 +.twitterinc.com
-+.twitterkr.com
-+.twittermail.com
 +.twitteroauth.com
-+.twitterrific.com
 +.twitterstat.us
-+.twittertim.es
 +.twitthat.com
 +.twitturk.com
 +.twitturly.com
@@ -27785,7 +27681,6 @@
 +.twitzap.com
 +.twiyia.com
 +.twkan.com
-+.twlailamavisit.org.nz
 +.twlegs.com
 +.twline5.com
 +.twnextdigital.com
@@ -27853,7 +27748,6 @@
 +.uas.ac.uk
 +.ub0.cc
 +.ubdc.ac.uk
-+.ubddns.org
 +.ubel-dtp.ac.uk
 +.uber-assets.com
 +.uber.com
@@ -28079,7 +27973,6 @@
 +.umtc.ac.uk
 +.un.org
 +.unblock-us.com
-+.unblock.cn.com
 +.unblockdmm.com
 +.unblocker.yt
 +.unblocksit.es
@@ -28311,7 +28204,6 @@
 +.uun98.com
 +.uun99.com
 +.uup76.com
-+.uupool.cn
 +.uusexdoll.com
 +.uusextoy.com
 +.uux68.com
@@ -28385,7 +28277,6 @@
 +.van001.com
 +.van698.com
 +.vancouverbmwretailers.ca
-+.vanemu.cn
 +.vanilla-jp.com
 +.vanish.at
 +.vanish.be
@@ -28665,7 +28556,6 @@
 +.vicarious.ac.uk
 +.victimsofcommunism.org
 +.victoriacountyhistory.ac.uk
-+.vid.me
 +.vidble.com
 +.video-jav.net
 +.video-one.com
@@ -29577,7 +29467,6 @@
 +.weekmag.info
 +.wefightcensorship.org
 +.wefong.com
-+.wego.here.com
 +.weiboleak.com
 +.weihuo.org
 +.weijingsheng.org
@@ -29791,7 +29680,6 @@
 +.wikaba.com
 +.wikawika.xyz
 +.wiki.esu.im
-+.wiki.keso.cn
 +.wiki.kfd.me
 +.wikia.com
 +.wikia.nocookie.net
@@ -30043,7 +29931,6 @@
 +.wowhead.com
 +.wowindianporn.com
 +.wowlegacy.ml
-+.wowporn.com
 +.wowpornlist.xyz
 +.wowrk.com
 +.wowstars.com
@@ -30131,9 +30018,7 @@
 +.www-paypal.us
 +.www-sms-apple.com
 +.www.destinationurl.com
-+.www.imdb.com
 +.www.lamenhu.com
-+.www.msn.com
 +.www.orchidbbs.com
 +.www.pxcc.com
 +.www.sb
@@ -31467,7 +31352,6 @@
 +.zhoushuguang.com
 +.zhreader.com
 +.zhtv01.com
-+.zhuanxing.cn
 +.zhuatieba.com
 +.zhuichaguoji.org
 +.zhujiget.com
@@ -31483,7 +31367,6 @@
 +.zingtruyen.net
 +.zinio.com
 +.zipcine.com
-+.ziporn.com
 +.zippyshare.com
 +.zishy.com
 +.zkaip.com
@@ -31492,7 +31375,6 @@
 +.zlibcdn.com
 +.zlibcdn2.com
 +.zmedia.com.tw
-+.zmw.cn
 +.zndsk.com
 +.zodgame.us
 +.zodgame.xyz
