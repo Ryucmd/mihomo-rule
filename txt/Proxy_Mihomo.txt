@@ -621,7 +621,7 @@
 +.9xav.cc
 +.9xlove.xyz
 +.9zipai.net
-+.Not Found000webhost.com
++.Not FoundNot Found000webhost.com
 +.a-bank.jp
 +.a-hentai.tv
 +.a-msedge.net
@@ -11685,6 +11685,7 @@
 +.ggpht.com
 +.ggsrv.com
 +.ggssl.com
++.gh.io
 +.ghanely.me
 +.ghbi.ir
 +.ghcr.io
@@ -13227,7 +13228,6 @@
 +.hjd2048.com
 +.hk-pub.com
 +.hk.file.myqcloud.com
-+.hk.gels.com
 +.hk.hao123img.com
 +.hk.weibo.com
 +.hk01.com
@@ -15177,7 +15177,6 @@
 +.islam.org.hk
 +.islamawareness.net
 +.islamhouse.com
-+.islamhouse.covideojs.com
 +.islamic-college.ac.uk
 +.islamicacademy.ac.uk
 +.islamiccenterofnewlondon.com
@@ -20709,7 +20708,6 @@
 +.oculusrift.com
 +.oculusvr.com
 +.ocvc.ac.uk
-+.odycdn.ru
 +.odysee.com
 +.oecd-ilibrary.org
 +.oed.com
@@ -23006,7 +23004,6 @@
 +.racked.com
 +.rad-sat.ac.uk
 +.rada.ac.uk
-+.radconnection.com
 +.radeon.com
 +.radgametools.com
 +.radian6.com
@@ -24213,7 +24210,6 @@
 +.seda.ac.uk
 +.sedc.ac.uk
 +.sedg.ac.uk
-+.see.com
 +.see.xxx
 +.seecoll.ac.uk
 +.seed4.me
@@ -27429,7 +27425,7 @@
 +.trs.ac.uk
 +.trt.net.tr
 +.trtc.com.tw
-+.trueamateurmod000webhost.com
++.trueamateurmodels.com
 +.trueamateurs.com
 +.trueanal.com
 +.truebeachporn.com
@@ -27940,6 +27936,7 @@
 +.udnbkk.com
 +.udndata.com
 +.udnfunlife.com
++.udomain.hk
 +.udtrucksmeena.com
 +.uea.ac.uk
 +.ueberamazon.de
@@ -28681,6 +28678,7 @@
 +.videodesexo.blog
 +.videodetective.com
 +.videoindexer.ai
++.videojs.com
 +.videolan.org
 +.videoleak.me
 +.videomega.tv
@@ -28973,6 +28971,7 @@
 +.vkuseraudio.com
 +.vkuseraudio.net
 +.vkuseraudio.ru
++.vkusercdn.ru
 +.vkuserlive.net
 +.vkuserphoto.ru
 +.vkuservideo.com
