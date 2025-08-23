@@ -4463,7 +4463,6 @@
 +.clickserve.cc-dt.com
 +.clickserver.googleads.com
 +.clien.net
-+.cliffcollege.ac.uedin.com
 +.climate-server.com
 +.clinical-videos.com
 +.clinicalkey.com
@@ -11538,7 +11537,6 @@
 +.link2galleries.com
 +.link69.com
 +.linkedin.com
-+.linkg-movies.com
 +.linkideo.com
 +.linkjunkies.com
 +.linksalpha.com
