@@ -565,7 +565,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -13352,6 +13351,7 @@
 +.navisworks.com
 +.navisworks.net
 +.naweeklytimes.com
++.naydex.net
 +.nba
 +.nbabot.net
 +.nbc.co
@@ -13948,7 +13948,6 @@
 +.nudespree.com
 +.nudeteen.org
 +.nudeteenboys.net
-+.nudeteenladies.c# NAME: Proxy
 +.nudeteenladies.com
 +.nudevietnam.com
 +.nudevista.best
@@ -15481,6 +15480,7 @@
 +.premproxy.com
 +.prepsure.com
 +.presentationzen.com
++.presid+.aaa
 +.press.vin
 +.prestige-av.com
 +.pretty-ass.xyz
@@ -17220,6 +17220,7 @@
 +.sneakerskick.com
 +.sneakme.net
 +.snjulebu.com
++.snk-corp.info
 +.snkplaymore.info
 +.snow.me
 +.snowcorp.com
@@ -18814,6 +18815,8 @@
 +.tubevintageporn.com
 +.tubewolf.com
 +.tubexclips.com
++.tubi.tv
++.tubi.video
 +.tubinge.com
 +.tubitv.com
 +.tubous.com
@@ -21007,6 +21010,7 @@
 +.yandex-bank.net
 +.yandex-images.clstorage.net
 +.yandex.aero
++.yandex.cloud
 +.yandex.com
 +.yandex.jobs
 +.yandex.net
