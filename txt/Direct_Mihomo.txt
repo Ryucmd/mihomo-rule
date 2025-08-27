@@ -10311,6 +10311,7 @@
 +.afarway.com
 +.afca-asia.org
 +.afcec.com
++.afcs.dell.com
 +.afdian.com
 +.afdian.net
 +.afdiancdn.com
@@ -23848,6 +23849,7 @@
 +.client.amplifi.com
 +.client51.com
 +.clientflow.apple.com
++.clientperipherals.dell.com
 +.clientservices.googleapis.com
 +.clifford-hospital.org
 +.cliffordtrading.com
@@ -25785,7 +25787,6 @@
 +.copl.com.hk
 +.copperalliance.asia
 +.copperhome.net
-+.copy-manga.com
 +.copyedu.com
 +.copyfuture.com
 +.copyswisswatches.com
@@ -27480,6 +27481,7 @@
 +.cusdvs.com
 +.cusdvs.net
 +.custeel.com
++.customization-cdn.dell.com
 +.customizedfasteners.com
 +.customsapp.com
 +.custouch.com
@@ -29092,6 +29094,7 @@
 +.ddpai.com
 +.ddpoc.com
 +.ddqcw.com
++.dds.dell.com
 +.ddsaas.com
 +.ddsiojf.xyz
 +.ddsk.la
@@ -29300,6 +29303,7 @@
 +.delixidrive.com
 +.deliyun.com
 +.dell-alw.com
++.dell-brand.com
 +.dell027.com
 +.dellecs.com
 +.dellemc-solution.com
@@ -30521,6 +30525,7 @@
 +.dl-rc.com
 +.dl-vip.pcfaster.baidu.co.th
 +.dl.delivery.mp.microsoft.com
++.dl.dell.com
 +.dl.google.com
 +.dl.l.google.com
 +.dl0728.com
@@ -32616,6 +32621,9 @@
 +.ea-china.com
 +.ea-retina.com
 +.ea-xing.com
++.ea2cn-dev-outlet.dell.com
++.ea2cn-prod-outlet.dell.com
++.ea2cn-staging-outlet.dell.com
 +.ea360.com
 +.ea3w.com
 +.eabax.com
@@ -35396,6 +35404,7 @@
 +.fcpowerup.com
 +.fcqjc.com
 +.fcrc114.com
++.fcs.dell.com
 +.fcs1.com
 +.fcsc.com
 +.fcsccz.com
@@ -37220,7 +37229,11 @@
 +.ft3e.com
 +.ft77.com
 +.ft98.com
++.fta.dell.com
++.ftaapj.dell.com
++.ftaemea.dell.com
 +.ftaro.com
++.ftasitapj.dell.com
 +.ftbj.net
 +.ftcoaster.com
 +.ftd.nz
@@ -37396,6 +37409,7 @@
 +.functionads.com
 +.functionaltextilesshanghai.com
 +.functioncool.com
++.functiongraph.run
 +.fund001.com
 +.fundebug.com
 +.fundebug.net
@@ -38366,6 +38380,8 @@
 +.gbtranswins.com
 +.gbvh.com
 +.gbw114.com
++.gbxgateway-dev.dell.com
++.gbxgateway.dell.com
 +.gc-zb.com
 +.gc0771.com
 +.gc1616.com
@@ -68161,9 +68177,7 @@
 +.manfen5.com
 +.manfred-auto.com
 +.manfrottoclub.com
-+.mangacopy.com
 +.mangafuna.xyz
-+.mangafunb.fun
 +.manganesenanhai.com
 +.mangg.com
 +.mangguo.com
@@ -77737,6 +77751,7 @@
 +.plateno.com
 +.platenogroup.com
 +.platform-cn.com
++.platform.dell.com
 +.platinum-traveller.com
 +.platinumchina.com
 +.play-analytics.com
@@ -82697,6 +82712,7 @@
 +.robam.com
 +.robei.com
 +.roboeyeai.com
++.robomaster.com
 +.roboo.com
 +.robook.com
 +.robopeak.net
@@ -84236,6 +84252,7 @@
 +.sceeo.com
 +.sceia.org
 +.scemrq.com
++.scene7-cdn.dell.com
 +.scengine.com
 +.scenictc.com
 +.scensmart.com
@@ -87996,6 +88013,7 @@
 +.si-era.com
 +.si-in.com
 +.si-win.com
++.si.cdn.dell.com
 +.sia1995.net
 +.siad-c.com
 +.siaedu.net
@@ -88982,6 +89000,7 @@
 +.sm-check.com
 +.sm-cq.com
 +.sm-main.com
++.sm.dell.com
 +.sm0.fun
 +.sm160.com
 +.sm160.net
@@ -89294,6 +89313,8 @@
 +.snowkey.com
 +.snowlotusgroup.com
 +.snowyimall.com
++.snp.cdn.dell.com
++.snpi.dell.com
 +.snps.tech
 +.snptc.com
 +.snrat.com
@@ -91153,6 +91174,7 @@
 +.supplywater.com
 +.support-cn.samsung.com
 +.support.apple.com
++.supportassist.dell.com
 +.supreme-oe.com
 +.supuvalve.com
 +.supwisdom.com
@@ -103569,6 +103591,7 @@
 +.www-4466666.com
 +.www-666789.com
 +.www-76244.com
++.www-csb.dell.com
 +.www-google-analytics.l.google.com
 +.www-googletagmanager.l.google.com
 +.www.adobe.com
@@ -103576,7 +103599,6 @@
 +.www.bing.com
 +.www.cg
 +.www.com.my
-+.www.dell-brand.com
 +.www.dell.com
 +.www.destinationurl.com
 +.www.djivideos.com

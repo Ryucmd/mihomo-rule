@@ -179,6 +179,7 @@
 +.2017.hk
 +.2019baidu.xyz
 +.2021hkcharter.com
++.2025copy.com
 +.2047.name
 +.2047.one
 +.2049bbs.xyz
@@ -565,6 +566,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -847,8 +849,10 @@
 +.aetna
 +.aex.com
 +.af
++.af-east-201.myhuaweicloud.com
 +.af-north-1.myhuaweicloud.com
 +.af-south-1.myhuaweicloud.com
++.af-west-202.myhuaweicloud.com
 +.afantibbs.com
 +.afappyending.com
 +.afewmomentswith.com
@@ -1066,6 +1070,10 @@
 +.alibabacloud.com.hk
 +.alicloud.com
 +.aliengu.com
++.alienware.biz
++.alienware.com
++.alienware.hk
++.alienware.net
 +.alihealth.hk
 +.alipay.hk
 +.alipaymo.com
@@ -1453,6 +1461,7 @@
 +.ap-mumbai.tencentcos.cn
 +.ap-mumbai.tencentcos.com
 +.ap-mumbai.tencentcos.com.cn
++.ap-northeast-201.myhuaweicloud.com
 +.ap-seoul.myqcloud.com
 +.ap-seoul.tencentcos.cn
 +.ap-seoul.tencentcos.com
@@ -1463,8 +1472,12 @@
 +.ap-singapore.tencentcos.com.cn
 +.ap-southeast-1.myhuaweicloud.com
 +.ap-southeast-2.myhuaweicloud.com
++.ap-southeast-201.myhuaweicloud.com
++.ap-southeast-202.myhuaweicloud.com
++.ap-southeast-203.myhuaweicloud.com
 +.ap-southeast-3.myhuaweicloud.com
 +.ap-southeast-4.myhuaweicloud.com
++.ap-southeast-5.myhuaweicloud.com
 +.ap-tokyo.myqcloud.com
 +.ap-tokyo.tencentcos.cn
 +.ap-tokyo.tencentcos.com
@@ -1761,6 +1774,10 @@
 +.artsy.net
 +.arxiv.org
 +.as
++.as-south-0.myhuaweicloud.com
++.as-south-201.myhuaweicloud.com
++.as-south-205.myhuaweicloud.com
++.as-south-207.myhuaweicloud.com
 +.asacp.org
 +.asagaku.com
 +.asahi.com
@@ -3755,7 +3772,9 @@
 +.bypasscensorship.org
 +.byrut.org
 +.byspotify.com
++.byteglb.com
 +.byteoversea.com
++.byteoversea.net
 +.bytick.com
 +.bz
 +.bzazi.com
@@ -3774,6 +3793,7 @@
 +.c4rex.co
 +.c4slive.com
 +.ca
++.ca-east-201.myhuaweicloud.com
 +.ca.file.myqcloud.com
 +.cableav.tv
 +.cableav.xyz
@@ -4727,6 +4747,9 @@
 +.coova.org
 +.copilot.microsoft.com
 +.copro.pw
++.copy-manga.com
++.copy20.com
++.copy2000.online
 +.coqnu.com
 +.corbinfisher.com
 +.cordcloud.org
@@ -5082,6 +5105,7 @@
 +.data.com
 +.data.flurry.com
 +.databank.worldbank.org
++.dataframeworks.com
 +.datalabour.com
 +.dataliberation.org
 +.datasheets360.com
@@ -5164,6 +5188,7 @@
 +.degruyter.com
 +.deiightfuidates.net
 +.deja.com
++.del.com
 +.delcam-ams.com
 +.delcam-electrode.com
 +.delcam-na.com
@@ -5181,9 +5206,28 @@
 +.dell
 +.dell-brand.com
 +.dell.com
++.dell.com.co
++.dell.com.hk
++.dell.net
++.dell.tv
 +.dellcdn.com
++.dellcommunity.com
++.dellcomunidade.com
++.dellcustomerservice.com
++.delldesignsystem.com
++.delldrivers.com
++.dellemc.com
++.dellemcevents.com
++.delloutlet.com
++.dellpoweredge.com
++.dellpowersolutions.com
++.dellprecision.com
++.dellprinter.com
 +.dellsupportcenter.com
++.delltechcenter.com
 +.delltechnologies.com
++.delltechnologiescapital.com
++.delltechnologiesworld.com
 +.deloitte
 +.delta
 +.deluxe.com.hk
@@ -5928,6 +5972,7 @@
 +.earphonescheapest.com
 +.earpod.net
 +.earthcam.com
++.earthdell.com
 +.earthvpn.com
 +.easic.com
 +.easports.com
@@ -6460,6 +6505,8 @@
 +.etvonline.hk
 +.etwealth.com
 +.eu
++.eu-central-201.myhuaweicloud.com
++.eu-central-202.myhuaweicloud.com
 +.eu-consumer-empowerment.com
 +.eu-frankfurt.myqcloud.com
 +.eu-frankfurt.tencentcos.cn
@@ -6469,8 +6516,11 @@
 +.eu-moscow.tencentcos.cn
 +.eu-moscow.tencentcos.com
 +.eu-moscow.tencentcos.com.cn
++.eu-north-201.myhuaweicloud.com
 +.eu-west-0.myhuaweicloud.com
++.eu-west-1.myhuaweicloud.com
 +.eu-west-101.myhuaweicloud.com
++.eu-west-201.myhuaweicloud.com
 +.eu.org
 +.eubluecardvisa.com
 +.eucasino.com
@@ -7846,6 +7896,7 @@
 +.full:ssl-lvlt.cdn.ea.com
 +.full:tesla-cdn.thron.com
 +.full:time.apple.com
++.full:time.asia.apple.com
 +.full:time.euro.apple.com
 +.full:time.facebook.com
 +.full:time1.facebook.com
@@ -9737,6 +9788,7 @@
 +.i-book.com
 +.i-book.net
 +.i-cable.com
++.i-cablecomm.com
 +.i-o-u.info
 +.i-scmp.com
 +.i.jeded.com
@@ -11284,6 +11336,7 @@
 +.la
 +.la-forum.org
 +.la-north-2.myhuaweicloud.com
++.la-north-205.myhuaweicloud.com
 +.la-south-2.myhuaweicloud.com
 +.labiennale.org
 +.lacaixa
@@ -11353,6 +11406,7 @@
 +.lazymike.com
 +.lb
 +.lbank.info
++.lbctrl.com
 +.lbfmaddiction.com
 +.lbkrs.com
 +.lbtube.com
@@ -11685,6 +11739,7 @@
 +.londonreal.tv
 +.lonestarnaughtygirls.com
 +.longbridge.cloud
++.longbridge.com
 +.longbridge.global
 +.longbridge.hk
 +.longbridgeapp.com
@@ -11954,8 +12009,11 @@
 +.manga-mill.com
 +.manga18.art
 +.mangabz.com
++.mangacopy.com
 +.mangafox.com
 +.mangafox.me
++.mangafuna.xyz
++.mangafunb.fun
 +.mangahentai.me
 +.mangahome.com
 +.mangmang.run
@@ -12173,6 +12231,9 @@
 +.mdpj-mov.shop
 +.mdpjoin.buzz
 +.me-east-1.myhuaweicloud.com
++.me-east-205.myhuaweicloud.com
++.me-east-208.myhuaweicloud.com
++.me-east-209.myhuaweicloud.com
 +.me-gay.com
 +.me.com
 +.me.me
@@ -13257,6 +13318,7 @@
 +.na-ashburn.tencentcos.com
 +.na-ashburn.tencentcos.com.cn
 +.na-att-idns.net
++.na-east-0.myhuaweicloud.com
 +.na-mexico-1.myhuaweicloud.com
 +.na-siliconvalley.myqcloud.com
 +.na-siliconvalley.tencentcos.cn
@@ -14778,6 +14840,7 @@
 +.perfectvpn.net
 +.periscope.tv
 +.perl.org
++.perplexity.com
 +.persagg.com
 +.persecutionblog.com
 +.persianepochtimes.com
@@ -15480,7 +15543,6 @@
 +.premproxy.com
 +.prepsure.com
 +.presentationzen.com
-+.presid+.aaa
 +.press.vin
 +.prestige-av.com
 +.pretty-ass.xyz
@@ -16268,6 +16330,7 @@
 +.ru
 +.ru-moscow-1.myhuaweicloud.com
 +.ru-northwest-2.myhuaweicloud.com
++.ru-northwest-201.myhuaweicloud.com
 +.ruanyifeng.com
 +.ruby-lang.org
 +.rubygems.org
@@ -16286,6 +16349,8 @@
 +.rumah123.com
 +.rumble.com
 +.rumporn.com
++.rumt-sg.com
++.rumt-us.com
 +.runbtx.com
 +.rundf665.cyou
 +.runnike.com
@@ -16341,6 +16406,8 @@
 +.sa.com
 +.sa.hao123.com
 +.saarland
++.saasexch.cc
++.saasexch.co
 +.saasexch.com
 +.saboom.com
 +.sabuibo.net
@@ -16935,6 +17002,7 @@
 +.shoestop2.com
 +.shooshtime.com
 +.shop-headphones.net
++.shopalienware.com
 +.shopbeatsdre.com
 +.shopbmwmotorcycles.com
 +.shopbmwusa.com
@@ -17283,6 +17351,7 @@
 +.solidaritetibet.org
 +.solidfiles.com
 +.solostudioksale.com
++.solutionstation.com
 +.solv.finance
 +.solveforx.com
 +.somanylolies.com
@@ -17341,6 +17410,7 @@
 +.soul-plus.net
 +.soulcaliburhentai.net
 +.soumo.info
++.soundcloud.cloud
 +.soundcloud.com
 +.soundofhope.org
 +.soupofmedia.com
@@ -17690,6 +17760,7 @@
 +.strongwindpress.com
 +.studentsforafreetibet.org
 +.studiobeatsbydrdre.com
++.studiodell.com
 +.studiofow.com
 +.studiolico.com
 +.studioluxus.com
@@ -19202,6 +19273,7 @@
 +.urlparser.com
 +.urukawa.com
 +.us
++.us-east-1.myhuaweicloud.com
 +.us.weibo.com
 +.usa-beatsbydreheadphonesonsale.net
 +.usacn.com
@@ -19322,6 +19394,7 @@
 +.vbstatic.co
 +.vc
 +.vcanedge.com
++.vce.com
 +.vcf-online.org
 +.vcfbuilder.org
 +.vcloudair.net
@@ -21061,6 +21134,7 @@
 +.yeyuehuachao11.com
 +.yeyuehuachao12.com
 +.yeyuehuachao13.com
++.yfsp.tv
 +.ygto.com
 +.ygugu4.com
 +.yhcw.net
