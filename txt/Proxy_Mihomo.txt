@@ -155,6 +155,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -4103,7 +4104,6 @@
 +.cenkei.com
 +.centerforhumanreprod.com
 +.centos.org
-+.centra1password.drift.click
 +.centralnation.com
 +.centralvalidation.com
 +.centrino.com
@@ -5427,7 +5427,6 @@
 +.dirtyship.com
 +.disco-api.com
 +.discoins.com
-+.discom
 +.discomax.com
 +.disconnect.me
 +.discord-activities.com
@@ -5707,7 +5706,6 @@
 +.download.qpdp1.net
 +.downloadpass.com
 +.downloadsforipod.com
-+.dpdns.org
 +.dphk.org
 +.dpool.top
 +.dpr.info
@@ -8421,7 +8419,6 @@
 +.go2av.com
 +.goagent.biz
 +.goagentplus.com
-+.goazure-dns.org
 +.gobeatsye.com
 +.gobet.cc
 +.gobianywhere.com
@@ -9345,7 +9342,6 @@
 +.honawalaan.com
 +.honda
 +.honestpornreviews.com
-+.honestpornreviews.sdrive.com
 +.honeynet.org
 +.hongjie10.xyz
 +.hongjie11.xyz
