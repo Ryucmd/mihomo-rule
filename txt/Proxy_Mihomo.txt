@@ -3629,6 +3629,8 @@
 +.bsxm1213.pro
 +.bt
 +.bt2mag.com
++.bt4g.org
++.bt4gprx.com
 +.bt95.com
 +.btaia.com
 +.btbit.net
@@ -8505,6 +8507,7 @@
 +.google.cn
 +.google.co
 +.google.com
++.google.com.bnmobi
 +.google.com.co
 +.google.com.hk
 +.google.me
