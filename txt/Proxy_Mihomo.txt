@@ -8507,7 +8507,6 @@
 +.google.cn
 +.google.co
 +.google.com
-+.google.com.bnmobi
 +.google.com.co
 +.google.com.hk
 +.google.me
@@ -10422,6 +10421,7 @@
 +.iphoneunlockimei.com
 +.iphonexs.tv
 +.iphoto.wang
++.ipify.org
 +.ipiranga
 +.ipjetable.net
 +.ipleadership.org
