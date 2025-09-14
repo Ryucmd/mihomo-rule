@@ -12223,6 +12223,7 @@
 +.mcrouter.net
 +.mcrouter.org
 +.mcstories.com
++.mcusercontent.com
 +.md
 +.md-t.org
 +.mdbankpublic.com
@@ -18020,6 +18021,7 @@
 +.talentlens.com
 +.taleofthenight.com
 +.talk853.com
++.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
 +.talkonly.net
