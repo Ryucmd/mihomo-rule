@@ -679,6 +679,7 @@
 +.ad
 +.ad69.com
 +.adanaatikhaber.com
++.adazim.com
 +.adbecrsl.com
 +.adbkm.com
 +.adblockcdn.com
