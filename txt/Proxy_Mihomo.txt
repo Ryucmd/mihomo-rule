@@ -3504,6 +3504,7 @@
 +.boyztube.com
 +.br
 +.br.hao123.com
++.br.me
 +.bradesco
 +.braeburncapital.com
 +.braintreegateway.com
@@ -6148,6 +6149,7 @@
 +.ebonywebcamhub.com
 +.eboobstore.com
 +.ebookbrowse.com
++.ebookee.c000webhost.com
 +.ebookee.com
 +.ebookforipad.com
 +.ebsco.com
@@ -19669,6 +19671,7 @@
 +.vivthomas.com
 +.vixen.com
 +.vizvaz.com
++.vizvaz.ne.com
 +.vjav.com
 +.vjmedia.com.hk
 +.vk-apps.com
