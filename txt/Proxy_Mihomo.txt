@@ -566,7 +566,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1222,6 +1221,7 @@
 +.amazon-adsystem.com
 +.amazon-fashions.com
 +.amazon-jp-recruiting.com
++.amazon-lantern.c+.aaa
 +.amazon-lantern.com
 +.amazon-launchpad.com
 +.amazon.co
@@ -3504,7 +3504,6 @@
 +.boyztube.com
 +.br
 +.br.hao123.com
-+.br.me
 +.bradesco
 +.braeburncapital.com
 +.braintreegateway.com
@@ -6149,7 +6148,6 @@
 +.ebonywebcamhub.com
 +.eboobstore.com
 +.ebookbrowse.com
-+.ebookee.c000webhost.com
 +.ebookee.com
 +.ebookforipad.com
 +.ebsco.com
@@ -19671,7 +19669,6 @@
 +.vivthomas.com
 +.vixen.com
 +.vizvaz.com
-+.vizvaz.ne.com
 +.vjav.com
 +.vjmedia.com.hk
 +.vk-apps.com
