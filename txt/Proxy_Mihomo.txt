@@ -4905,6 +4905,7 @@
 +.ctexcel.com.hk
 +.ctfassets.net
 +.ctfriend.net
++.ctinets.com
 +.ctinews.com
 +.ctotires.com
 +.ctowc.org
@@ -7774,7 +7775,6 @@
 +.fstopimages.com
 +.fsurf.com
 +.ft.com
-+.ft.me
 +.ftadviser.com
 +.ftcdn.net
 +.ftchinese.com
@@ -7832,6 +7832,7 @@
 +.full:anime-rule34-world.b-cdn.net
 +.full:api.viu.now.com
 +.full:apple-tv-plus-press.apple.com
++.full:azure.microsoft.com
 +.full:azuremarketplace.microsoft.com
 +.full:bbs.boingboing.net
 +.full:bybit.ada.support
@@ -9796,7 +9797,6 @@
 +.i-cable.com
 +.i-cablecomm.com
 +.i-o-u.info
-+.i-rlando.com
 +.i-scmp.com
 +.i.jeded.com
 +.i.org
@@ -10342,6 +10342,7 @@
 +.internetofeverything.com
 +.internetpopculture.com
 +.interracial-sites.com
++.interseclab.org
 +.intescort.com
 +.intgram.com
 +.inthenameofconfuciusmovie.com
@@ -13496,7 +13497,6 @@
 +.net-fits.pro
 +.netacad.com
 +.netacad.net
-+.netalernespaol-brb.com
 +.netalert.me
 +.netarabic.com
 +.netbank
@@ -13845,7 +13845,6 @@
 +.ninecommentaries.com
 +.nineteentube.com
 +.ning.com
-+.ninja.com
 +.ninjacloak.com
 +.ninjaproxy.ninja
 +.ninpu.cyou
@@ -15522,7 +15521,6 @@
 +.powerofresolve.com
 +.powerphoto.org
 +.powerpointninja.com
-+.powerpointull:azure.microsoft.com
 +.powershape-e.com
 +.powershape.com
 +.powershellgallery.com
@@ -19224,7 +19222,6 @@
 +.unity.com
 +.unity3d.com
 +.universalorlando.com
-+.universalostusrex.org
 +.universalpictures.com
 +.universalpicturesinternational.com
 +.universalstudioshollywood.com
@@ -20769,7 +20766,6 @@
 +.xn--oiq.cc
 +.xn--p1ai
 +.xn--pearsonenespaol-brb.com
-+.xn--pearsonescmp.com
 +.xn--pgbs0dh
 +.xn--q41am8x.com
 +.xn--q7ce6a
