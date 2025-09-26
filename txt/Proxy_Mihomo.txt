@@ -155,7 +155,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -566,7 +565,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -598,6 +596,7 @@
 +.abellalist.com
 +.abema-tv.com
 +.abema.tv
++.abertaydundee.ac.uoundcloud.cloud
 +.abgsp1.buzz
 +.abigass.com
 +.able
@@ -1075,6 +1074,7 @@
 +.alienware.hk
 +.alienware.net
 +.alihealth.hk
++.aliom
 +.alipay.hk
 +.alipaymo.com
 +.aliveipc.com
@@ -4632,6 +4632,7 @@
 +.codespot.com
 +.codethemicrobit.com
 +.codivorexxx.com
++.cods-nursing.ac+.aaa
 +.coedcherry.com
 +.coinalyze.net
 +.coinbase.com
@@ -16403,6 +16404,7 @@
 +.s-xoom.com
 +.s.team
 +.s1heng.com
++.s1password.drift.click
 +.s1s1s1.com
 +.s2stagehance.com
 +.s4miniarchive.com
