@@ -9343,7 +9343,6 @@
 +.homesexmade.com
 +.homestylerapp.com
 +.homestylernews.com
-+.hometrack.com# NAME: Proxy
 +.hominis.media
 +.honawalaan.com
 +.honda
@@ -11320,7 +11319,6 @@
 +.kun66.xyz
 +.kundun1069.com
 +.kuokgroup
-+.kurashi.com
 +.kurashsultan.com
 +.kurtmunger.com
 +.kusocity.com
@@ -16910,7 +16908,6 @@
 +.sgp1.fun
 +.sgpstatp.com
 +.sgspt.buzz
-+.sguide.com
 +.sgwritings.com
 +.sgzhan.com
 +.sh
