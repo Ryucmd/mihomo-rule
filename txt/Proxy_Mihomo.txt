@@ -155,7 +155,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1131,6 +1130,7 @@
 +.alphabet.biz
 +.alphabet.com
 +.alphabet.info
++.alphabet1password.drift.click
 +.alphabetfinance.net
 +.alphaporno.com
 +.alphera-finance.com.hk
@@ -13585,6 +13585,7 @@
 +.newmonst1erbeatsto1re.com
 +.newmonsterbeatsheadphones.com
 +.newpppp.com
++.news.com
 +.news18.com
 +.newsamerica.com
 +.newsancai.com
