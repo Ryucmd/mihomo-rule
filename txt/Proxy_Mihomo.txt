@@ -155,6 +155,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -350,6 +351,7 @@
 +.520aa.tv
 +.520avtv.com
 +.520cc.cc
++.523+.aaa
 +.5238.me
 +.5278.cc
 +.5299.tv
@@ -565,7 +567,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -676,6 +677,7 @@
 +.activeteachonline.com
 +.activpn.com
 +.ad
++.ad.rexroth
 +.ad69.com
 +.adanaatikhaber.com
 +.adbecrsl.com
@@ -1130,7 +1132,6 @@
 +.alphabet.biz
 +.alphabet.com
 +.alphabet.info
-+.alphabet1password.drift.click
 +.alphabetfinance.net
 +.alphaporno.com
 +.alphera-finance.com.hk
@@ -13585,7 +13586,6 @@
 +.newmonst1erbeatsto1re.com
 +.newmonsterbeatsheadphones.com
 +.newpppp.com
-+.news.com
 +.news18.com
 +.newsamerica.com
 +.newsancai.com
@@ -14115,6 +14115,7 @@
 +.oath.com
 +.oauth.net
 +.oauthz.com
++.obess.com
 +.obi
 +.objectarx.com
 +.observable.net
@@ -16201,7 +16202,6 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
-+.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
