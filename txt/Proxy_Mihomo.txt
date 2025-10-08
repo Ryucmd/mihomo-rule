@@ -567,6 +567,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -6698,7 +6699,6 @@
 +.facebook-login.com
 +.facebook-newsroom.com
 +.facebook-newsroom.org
-+.facebook-pmdce+.aaa
 +.facebook-pmdcenter.com
 +.facebook-pmdcenter.net
 +.facebook-pmdcenter.org
@@ -13979,7 +13979,6 @@
 +.ntdtv.org
 +.ntdtvla.com
 +.ntdvn.com
-+.nter.net
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
 +.ntp1.ntp-servers.net
