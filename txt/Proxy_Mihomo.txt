@@ -1,3 +1,4 @@
++.-lantern.com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -155,7 +156,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -567,6 +567,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -911,7 +912,6 @@
 +.aicoin.com
 +.aig
 +.aimei133.com
-+.aimhighernw.ac+.aaa
 +.aimoon.com
 +.aimsciences.org
 +.aiosearch.com
@@ -1245,6 +1245,7 @@
 +.amazonfctours.com
 +.amazonianblog.com
 +.amazonimages.com
++.amazonketchappsources.com
 +.amazonlaunchpad.com
 +.amazonliterarypartnership.com
 +.amazonlumberyard.wang
@@ -7661,6 +7662,7 @@
 +.freegaypornfinder.com
 +.freegaypornhdtube.com
 +.freegaysexgames.com
++.freegpt.tech
 +.freehentaipic.com
 +.freehentaistream.com
 +.freehongkong.org
@@ -16404,6 +16406,7 @@
 +.s-xoom.com
 +.s.team
 +.s1heng.com
++.s1password.drift.click
 +.s1s1s1.com
 +.s2stagehance.com
 +.s4miniarchive.com
