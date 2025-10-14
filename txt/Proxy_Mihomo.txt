@@ -6234,7 +6234,6 @@
 +.ekolojik.org
 +.eksisozluk.com
 +.el-ladies.com
-+.el.cn
 +.elastic.co
 +.elastic.com
 +.elasticbeanstalk.com
