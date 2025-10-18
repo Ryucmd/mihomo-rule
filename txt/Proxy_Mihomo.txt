@@ -3386,6 +3386,7 @@
 +.bnn.co
 +.bnpparibas
 +.bnrmetal.com
++.bntrace.com
 +.bo
 +.boardreader.com
 +.boboporn.com
@@ -4475,6 +4476,8 @@
 +.classicalguitarblog.net
 +.classicnike.com
 +.classymomsex.com
++.claude.com
++.claudemcpclient.com
 +.claudeusercontent.com
 +.clb.org.hk
 +.clco.cc
@@ -7857,6 +7860,7 @@
 +.full:download.visualstudio.microsoft.com
 +.full:faronics.kayako.com
 +.full:firstsearch.oclc.org
++.full:github-api.arkoselabs.com
 +.full:hls-amt.itunes.apple.com
 +.full:hls.itunes.apple.com
 +.full:hpstore.corpmerchandise.com
@@ -8331,6 +8335,7 @@
 +.git-scm.com
 +.gitbook.com
 +.githack.com
++.github-api.arkoselabs.com
 +.github.blog
 +.github.com
 +.github.community
@@ -12088,6 +12093,7 @@
 +.markzuckerberg.com
 +.marranazas.com
 +.marriott
++.marscode.com
 +.marshalls
 +.martau.com
 +.martincartoons.com
@@ -13664,6 +13670,7 @@
 +.nfscdict.com
 +.nfscofficial.com
 +.nfsworld.com
++.nftstatic.com
 +.nftstorage.link
 +.ng
 +.ngensis.com
