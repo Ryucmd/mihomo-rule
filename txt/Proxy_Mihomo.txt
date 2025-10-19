@@ -5328,6 +5328,7 @@
 +.dhlestudio.com.co
 +.diablo3.com
 +.diabloimmortal.com
++.diabrowser.com
 +.dialga.com
 +.dialogflow.com
 +.diamantewebcam.com
@@ -5655,6 +5656,7 @@
 +.domains
 +.domywife.com
 +.donatecarsoh.org
++.donationalerts.com
 +.donga.com
 +.dongtaiwang.com
 +.dongtaiwang.net
@@ -8712,6 +8714,7 @@
 +.guangming.org
 +.guangnianvpn.com
 +.guaranitermal.com
++.guardarian.com
 +.guardianapis.com
 +.guardianproject.info
 +.guardster.com
@@ -12311,6 +12314,7 @@
 +.meltoday.com
 +.meme
 +.meme111.com
++.memealerts.com
 +.memehk.com
 +.memorybbs.com
 +.memri.org
@@ -16471,10 +16475,15 @@
 +.samsung.com
 +.samsungapps.com
 +.samsungcloud.com
++.samsungconsent.com
 +.samsungdm.com
 +.samsunggalaxyfriends.com
++.samsunghealth.com
++.samsungiotcloud.com
 +.samsungknox.com
++.samsungosp.com
 +.samsungqbe.com
++.samsungrs.com
 +.sandisk.com
 +.sandisk.hk
 +.sandscotaicentral.com
