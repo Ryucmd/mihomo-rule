@@ -4495,7 +4495,7 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404: Not Found404: Not Found265.com
++.404: Not Found265.com
 +.404mzk.com
 +.404wan.com
 +.404youxi.com
@@ -7641,7 +7641,7 @@
 +.7sown.com
 +.7soyo.com
 +.7soyo.net
-+.7su.com
++.7su.com404: Not Found
 +.7syc.com
 +.7t9.com
 +.7tapp.com

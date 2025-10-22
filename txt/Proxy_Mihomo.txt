@@ -1134,6 +1134,7 @@
 +.alphabet.info
 +.alphabetfinance.net
 +.alphaporno.com
++.alphaxiv.org
 +.alphera-finance.com.hk
 +.alphera.com
 +.alphera.com.hk
@@ -1354,6 +1355,9 @@
 +.androidtv.com
 +.andygod.com
 +.andysparis.com
++.anexia-engine.com
++.anexia-it.com
++.anexia.com
 +.anfutong.com
 +.angel-gto.com
 +.angelfire.com
@@ -2104,6 +2108,7 @@
 +.av6k.vip
 +.avaaz.org
 +.avail.googleflights.net
++.avast.com
 +.avatara.com
 +.avbebe.com
 +.avbody.tv
@@ -2135,6 +2140,7 @@
 +.avidemux.org
 +.avinetworks.com
 +.avinin.com
++.avira.com
 +.avizoon.site
 +.avizoone.com
 +.avjb.com
@@ -3065,6 +3071,7 @@
 +.bitcoin.org
 +.bitcointalk.org
 +.bitcoinworld.com
++.bitdefender.com
 +.bitfinex.com
 +.bitflyer.com
 +.bitget.com
@@ -4464,6 +4471,7 @@
 +.ckck.fun
 +.ckss98.com
 +.cl
++.clamwin.com
 +.claravenger.com
 +.clarionproject.org
 +.clarivate.com
@@ -6473,6 +6481,9 @@
 +.escort24h.net
 +.escortamsterdam1.com
 +.escortdude.com
++.eset.com
++.eset.systems
++.esetsoftware.com
 +.eskimotube.com
 +.eslite.com
 +.esm.run
@@ -6635,6 +6646,7 @@
 +.f-dro1d.org
 +.f-droid.com
 +.f-droid.org
++.f-secure.com
 +.f2pool.com
 +.f5pf.com
 +.f6988.com
@@ -7204,6 +7216,7 @@
 +.fido
 +.fifastreet.com
 +.fifastreet3.com
++.fifthns.com
 +.fiftythree.com
 +.fightforux.com
 +.figma.com
@@ -7283,6 +7296,7 @@
 +.firstasianpussy.com
 +.firstfivefollowers.com
 +.firstgynexam.com
++.firstns.cc
 +.firstory.me
 +.firstpelvicexam.com
 +.firstpost.com
@@ -7430,6 +7444,7 @@
 +.fotoscaserasx.com
 +.foundationdb.org
 +.fourthinternational.org
++.fourthns.systems
 +.fox
 +.fox-corporation.com
 +.fox-news.com
@@ -9424,6 +9439,7 @@
 +.hotbeatsonsale.com
 +.hotcandyland.com
 +.hotcoin.com
++.hotcrp.com
 +.hotcuckoldwife.com
 +.hotcumporn.com
 +.hotels.cn
@@ -11120,6 +11136,8 @@
 +.karmapa.org
 +.karupsha.com
 +.karupspc.com
++.kaspersky-labs.com
++.kaspersky.com
 +.kastatic.org
 +.katestube.com
 +.kavkazr.com
@@ -12220,6 +12238,7 @@
 +.mbheadphone.com
 +.mc
 +.mcadforums.com
++.mcafee.com
 +.mcd
 +.mcd.com
 +.mcdindia.com
@@ -13931,6 +13950,7 @@
 +.nordvpn.com
 +.norsk.mobi
 +.norton
++.norton.com
 +.notepad-plus-plus.org
 +.notion-static.com
 +.notion.com
@@ -14356,6 +14376,7 @@
 +.openmaps.org
 +.openreality.com
 +.openresty.org
++.openreview.net
 +.opensource.guide
 +.openssl.org
 +.openstreetmap.com
@@ -14574,6 +14595,7 @@
 +.pandanet-igs.com
 +.pandapow.co
 +.pandapow.net
++.pandasecurity.com
 +.pandavpn-jp.com
 +.pandavpnpro.com
 +.pandora.com
@@ -16299,6 +16321,7 @@
 +.ronjoneswriter.com
 +.roodo.com
 +.rootsigning.com
++.ros000webhost.com
 +.rosechina.net
 +.rosemarydoll.com
 +.roshy.tv
@@ -17103,6 +17126,7 @@
 +.siege-amazon.com
 +.sierrafriendsoftibet.org
 +.sifangclub.com
++.sigcomm.org
 +.sigmoidoscopeexam.com
 +.signal.art
 +.signal.group
@@ -17114,6 +17138,7 @@
 +.signalprocessingsociety.org
 +.signalr.net
 +.signalusers.org
++.sigops.org
 +.sijihuisuo.club
 +.sijihuisuo.com
 +.sikiswap.com
@@ -19318,6 +19343,7 @@
 +.uscnpm.org
 +.usefreevpn.com
 +.uselessjunk.com
++.usenix.org
 +.useplannr.com
 +.userapi.com
 +.usertrust.com
