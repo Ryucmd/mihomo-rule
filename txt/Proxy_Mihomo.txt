@@ -5128,6 +5128,7 @@
 +.dataframeworks.com
 +.datalabour.com
 +.dataliberation.org
++.datarouter.apps.netherrealm.com
 +.datasheets360.com
 +.datawav.club
 +.date2night.xyz
@@ -5626,6 +5627,7 @@
 +.dockerhub.com
 +.dockerizer.com
 +.dockerstatic.com
++.dockerstatus.com
 +.docleradn.com
 +.doclercdn.com
 +.docs.cfw.lbyczf.com
@@ -7869,6 +7871,7 @@
 +.full:crl.microsoft.com
 +.full:crl.versign.net
 +.full:databank.worldbank.org
++.full:datarouter.apps.netherrealm.com
 +.full:default.exp-tas.com
 +.full:deutschewelle.h-cdn.com
 +.full:developer.microsoft.com
@@ -7924,6 +7927,7 @@
 +.full:rsshub2.asailor.org
 +.full:servd-anthropic-website.b-cdn.net
 +.full:ssl-lvlt.cdn.ea.com
++.full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.full:tesla-cdn.thron.com
 +.full:time.apple.com
 +.full:time.asia.apple.com
@@ -16321,7 +16325,6 @@
 +.ronjoneswriter.com
 +.roodo.com
 +.rootsigning.com
-+.ros000webhost.com
 +.rosechina.net
 +.rosemarydoll.com
 +.roshy.tv
@@ -17781,6 +17784,8 @@
 +.straightouttasomewhere.com
 +.straightpornstuds.com
 +.straitstimes.com
++.straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
++.straitsx.com
 +.stranabg.com
 +.straplessdildo.com
 +.stream-mydirtyhobby.biz
@@ -20017,6 +20022,7 @@
 +.warehouse333.com
 +.wariolandshakeit.com
 +.wariowarediy.com
++.warnerbrosgames.com
 +.warp.plus
 +.warroom.org
 +.wasdj.com
@@ -20053,8 +20059,11 @@
 +.waybig.com
 +.waymo.com
 +.waze.com
++.wbagora.com
 +.wballiance.com
 +.wbdnbo.net
++.wbgames.com
++.wbinsights.com
 +.wbrks.com
 +.wbvm4s.com
 +.wd.com
