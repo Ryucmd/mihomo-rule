@@ -4549,6 +4549,7 @@
 +.cloudflarepartners.com
 +.cloudflareportal.com
 +.cloudflarepreview.com
++.cloudflareregistrar.com
 +.cloudflareresolve.com
 +.cloudflaressl.com
 +.cloudflarestatus.com
@@ -4697,6 +4698,7 @@
 +.comicunivers.com
 +.comicuniverse.org
 +.comixzilla.com
++.comm-verse.com
 +.commandandconquer.com
 +.commandarms.com
 +.commbank
@@ -5200,6 +5202,7 @@
 +.deepfreeze.com
 +.deepfreeze.net
 +.deepfreeze.tech
++.deepin.org
 +.deepl.com
 +.deepmind.com
 +.deezer.com
@@ -5568,6 +5571,7 @@
 +.dmcdn.net
 +.dmed.technology
 +.dmhy.org
++.dml-lang.org
 +.dmm-extension.com
 +.dmm.com
 +.dmmapis.com
@@ -6172,6 +6176,7 @@
 +.ebsco.com
 +.ebscohost.com
 +.ebtcbank.com
++.ebuyer.com
 +.ebuyheadphones.com
 +.ec
 +.ecert.gov.hk
@@ -7614,6 +7619,11 @@
 +.fracebook.com
 +.fragment.com
 +.fragrancebay.com
++.framer.com
++.framer.website
++.framercanvas.com
++.framerstatic.com
++.framerusercontent.com
 +.francecasquebeatssolde.com
 +.francemail.com
 +.frank2019.me
@@ -8803,6 +8813,7 @@
 +.hackerguardian.com
 +.hackfacebook.com
 +.hackfacebookid.com
++.hackharassment.com
 +.hacklang.org
 +.hackthatphone.net
 +.hackthedrive.com
@@ -10246,6 +10257,7 @@
 +.insiderdevtour.com
 +.insiderintelligence.com
 +.insidevoa.com
++.insight.tech
 +.instaadder.com
 +.instabang.com
 +.instachecker.com
@@ -10314,7 +10326,9 @@
 +.intel-research.net
 +.intel-university-collaboration.net
 +.intel.cc
++.intel.co
 +.intel.com
++.intel.com.cn
 +.intel.com.co
 +.intel.com.hk
 +.intel.hk
@@ -10347,7 +10361,10 @@
 +.intelnet.component
 +.intelplay.com
 +.intelquark.com
++.intelrealsense.cn
 +.intelrealsense.com
++.intelrealsense.net
++.intelreimbursement.com
 +.intelrxt.com
 +.intelsalestraining.com
 +.intelsecurity.com
@@ -12007,6 +12024,7 @@
 +.maif
 +.maiio.net
 +.mail-archive.com
++.mail.com
 +.mailchimp.com
 +.maildns.xyz
 +.maileoch.com
@@ -12287,6 +12305,7 @@
 +.meadjohnson.net
 +.meansys.com
 +.mearki.com
++.meccontroller.com
 +.media-amazon.com
 +.media-imdb.com
 +.media.org.hk
@@ -12964,6 +12983,7 @@
 +.movetv.com
 +.movidius.com
 +.movidius.net
++.movidius.org
 +.movie-erog.com
 +.movie1000.xyz
 +.moviefap.com
@@ -14648,6 +14668,7 @@
 +.passion.com
 +.passiontimes.hk
 +.passport.net
++.passwordday.org
 +.pastahealth.com
 +.pastebin.com
 +.pastie.org
@@ -15121,6 +15142,7 @@
 +.pm.me
 +.pmatehunter.com
 +.pmates.com
++.pmem.org
 +.pn
 +.pnas.org
 +.pnc
@@ -15666,6 +15688,7 @@
 +.projectapex.com
 +.projectara.com
 +.projectbaseline.com
++.projectcircuitbreaker.com
 +.projecteuclid.org
 +.projectjav.com
 +.projectmurphy.net
@@ -16193,6 +16216,7 @@
 +.religioustolerance.org
 +.remirepo.net
 +.renchead.com
++.renderingtoolkit.org
 +.renderos.com
 +.reneerossvideos.com
 +.renminbao.com
@@ -17142,9 +17166,12 @@
 +.signalr.net
 +.signalusers.org
 +.sigops.org
++.sigopt.com
 +.sijihuisuo.club
 +.sijihuisuo.com
 +.sikiswap.com
++.silicon-mobility.com
++.siliconmobility.com
 +.silkbook.com
 +.silkengirl.com
 +.silverchair-cdn.com
@@ -17299,10 +17326,15 @@
 +.smallteenpussy.com
 +.smart
 +.smart-edge.com
++.smart-edge.info
++.smart-edge.net
++.smart-edge.org
++.smart-edge.systems
 +.smartcommunitiescoalition.com
 +.smartcommunitiescoalition.org
 +.smartdnsoutside.com
 +.smartdnsproxy.com
++.smartedge.info
 +.smartexpos.com
 +.smartfea.com
 +.smarthide.com
@@ -17548,6 +17580,7 @@
 +.spiritofecstasy.com
 +.spizoo.com
 +.splatoon2tournament.com
++.splunk.com
 +.spo-msedge.net
 +.spore.com
 +.sportsfacebook.com
@@ -17772,6 +17805,7 @@
 +.stonefoxproductions.com
 +.stoporganharvesting.org
 +.stoptibetcrisis.net
++.storageclassmemory.org
 +.storagenewsletter.com
 +.store-bridgestonesports.com
 +.storesense.com
@@ -18471,6 +18505,7 @@
 +.thotbook.tv
 +.thottok.com
 +.thotvids.com
++.threadingbuildingblocks.org
 +.threadreaderapp.com
 +.threads.com
 +.threads.net
@@ -19225,7 +19260,9 @@
 +.uhtube.me
 +.uhub.com
 +.ui.com
++.uicdn.com
 +.uighurbiz.net
++.uimserv.net
 +.uiporn.com
 +.uisp.com
 +.ujapanesesex.com
@@ -19275,6 +19312,7 @@
 +.universalorlando.com
 +.universalpictures.com
 +.universalpicturesinternational.com
++.universalscalablefirmware.org
 +.universalstudioshollywood.com
 +.universitypressscholarship.com
 +.unix100.com
