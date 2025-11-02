@@ -10154,6 +10154,7 @@
 +.imkev.com
 +.imlive.co
 +.imlive.com
++.immersivetranslate.com
 +.immidio.com
 +.immxd.com
 +.imod.com
@@ -18265,6 +18266,7 @@
 +.tellmewhygame.com
 +.temasek
 +.temetube.xyz
++.temu.com
 +.tenacy.com
 +.tenbyfotolia.com
 +.tencent.com.hk
