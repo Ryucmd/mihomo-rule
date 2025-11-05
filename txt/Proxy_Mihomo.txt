@@ -560,6 +560,7 @@
 +.a-msedge.net
 +.a-normal-day.com
 +.a-teenz.com
++.a000webhost.com
 +.a0pple.net
 +.a1av.xyz
 +.a2z.com
@@ -909,7 +910,6 @@
 +.ai91porn.cc
 +.aiaa.org
 +.aibaobei.me
-+.aicoin.com
 +.aig
 +.aimei133.com
 +.aimoon.com
@@ -1541,6 +1541,7 @@
 +.appcloud.com
 +.appdomain.cloud
 +.appdownloader.net
++.appdynamicicoin.com
 +.appdynamics.com
 +.appdynamics.info
 +.appdynamics.org
@@ -1570,6 +1571,7 @@
 +.apple-store.net
 +.apple-store.wang
 +.apple-usa.net
++.apple.cnet.com.hk
 +.apple.co
 +.apple.com
 +.apple.com.co
@@ -2593,6 +2595,7 @@
 +.beatsbydrecustomwireless.com
 +.beatsbydrecybermondaydeals2013.com
 +.beatsbydrecybermondaydeals2013.net
++.beatsbydrecybm
 +.beatsbydredanmarks.com
 +.beatsbydredealsblackfriday.com
 +.beatsbydredealscybermonday.com
@@ -4260,6 +4263,7 @@
 +.chicagolandbmw.com
 +.chicagoncmtv.com
 +.chickstagram.com
++.chickteases.
 +.chickteases.com
 +.chihair-straightener.com
 +.chikiporn.com
@@ -6568,6 +6572,7 @@
 +.europalibera.org
 +.europeansustainabledesign.com
 +.europeansustainabledesign.net
++.europeansustainabledesigncouncil.co
 +.europeansustainabledesigncouncil.com
 +.europeansustainabledesigncouncil.net
 +.europepmc.org
@@ -9356,6 +9361,7 @@
 +.holloporn.com
 +.hollyrandall.com
 +.hololens.com
++.holycrermondaydeals2013.com
 +.holymountaincn.com
 +.holyspiritspeaks.org
 +.home-made-porn-movies.com
