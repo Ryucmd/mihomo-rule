@@ -567,7 +567,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -611,6 +610,7 @@
 +.aboutgfw.com
 +.aboutmcdonalds.com
 +.aboutporno.net
++.aboutschwab.com
 +.aboutyourmini.com
 +.abpchina.org
 +.abplive.com
@@ -1546,6 +1546,7 @@
 +.appdynamics.org
 +.appe-store.com
 +.appexchange.com
++.appl+.aaa
 +.appl-e.com
 +.appl.com
 +.appl4e.com
@@ -4355,6 +4356,7 @@
 +.chosun.com
 +.chrdnet.com
 +.christianfreedom.org
++.christianfreedom.orge
 +.christianstudy.com
 +.christiantimes.org.hk
 +.christusrex.org
@@ -4389,6 +4391,7 @@
 +.ciattackers.com
 +.cici.com
 +.ciciai.com
++.ciciaicdn.com
 +.cienen.com
 +.cilk.com
 +.cilk.net
@@ -4639,6 +4642,7 @@
 +.code1984.com
 +.codeberg.org
 +.codecademy.com
++.codeforces.cocom
 +.codeforces.com
 +.codeish.co
 +.codeplex.com
@@ -5661,6 +5665,7 @@
 +.dojinmanga.net
 +.dojinwatch.com
 +.dok-forum.net
++.dola.com
 +.dolf.org.hk
 +.dollarfotoclub.com
 +.dollarphotoclub.com
@@ -6272,6 +6277,7 @@
 +.elephantsdream.org
 +.elephanttube.com
 +.elephanttubenew.com
++.elevenlabs.com
 +.elgaronline.com
 +.elifesciences.org
 +.elite.com
@@ -7337,6 +7343,7 @@
 +.fleshbot.com
 +.fleshlyx.com
 +.fleursdeslettres.com
++.flexclip.com
 +.flexibits.com
 +.flexsig.com
 +.flgjustice.org
@@ -8000,12 +8007,20 @@
 +.futanarihq.com
 +.futhead.com
 +.futpromos.com
++.futuesop.com
++.futufin.com
++.futuhk.com
++.futuhn.com
++.futuholdings.com
 +.futunited.com
++.futuniuniu.com
++.futunn.com
 +.futurechinaforum.org
 +.futuremessage.org
 +.futureofbritishmanufacturing.com
 +.futureofbusinesssurvey.org
 +.futureofmaktingthings.com
++.futustatic.com
 +.fux.com
 +.fuxporn.com
 +.fuyin.net
@@ -10594,6 +10609,9 @@
 +.itgonglun.com
 +.ithaisex.com
 +.itiger.com
++.itigergrowth.com
++.itigergrowtha.com
++.itigerup.com
 +.itnel.com
 +.itools.info
 +.itripto.com
@@ -12953,6 +12971,9 @@
 +.monthlyav.com
 +.moodstocks.com
 +.moodyz.com
++.moomoo.com
++.moomooequity.com
++.moomootrustee.com
 +.moonbbs.com
 +.moonbbs.info
 +.moonbingo.com
@@ -14158,6 +14179,7 @@
 +.nylon-angel.com
 +.nylonstockingsonline.com
 +.nym97.net
++.nypost.c000webhost.com
 +.nypost.com
 +.nypost.help
 +.nypostreprints.com
@@ -15622,6 +15644,7 @@
 +.prayforchina.net
 +.prcleader.org
 +.pre-bmwgroup.jobs
++.predb.me
 +.predictivetechnologies.com
 +.premeforwindows7.com
 +.premium-beauty.com
@@ -16646,6 +16669,10 @@
 +.schiffvitamins.com
 +.schmidt
 +.scholarpedia.org
++.schwab.com
++.schwab.com.hk
++.schwabassetmanagement.com
++.schwabplan.com
 +.schwarz
 +.sci-hub.mksa.top
 +.sci.hubg.org
@@ -19688,6 +19715,7 @@
 +.vimeogoods.com
 +.vimeoondemand.com
 +.vimeostatus.com
++.vimperator.oe.com
 +.vimperator.org
 +.vincnd.com
 +.vine.co
@@ -19893,6 +19921,7 @@
 +.volvogroup.com
 +.volvomerchandise.com
 +.volvopenta.com
++.volvopenta.s# NAME: Proxy
 +.volvospares.com
 +.volvotrucks.com
 +.volvotrucks.com.co
