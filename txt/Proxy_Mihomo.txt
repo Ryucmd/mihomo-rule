@@ -567,6 +567,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4648,6 +4649,7 @@
 +.codethemicrobit.com
 +.codivorexxx.com
 +.coedcherry.com
++.cohere.com
 +.coinalyze.net
 +.coinbase.com
 +.coinbene.com
@@ -10953,7 +10955,6 @@
 +.jinx.com
 +.jio
 +.jiruan.net
-+.jiscp+.aaa
 +.jitouch.com
 +.jitsi.org
 +.jiuse.com.co
@@ -13527,6 +13528,7 @@
 +.nbys1.tv
 +.nbyy.tv
 +.nc
++.nccwatch..net
 +.nchrd.org
 +.ncloud.com
 +.ncn.org
@@ -14191,6 +14193,7 @@
 +.nytstyle.com
 +.nz
 +.nzchinese.com
++.o.com
 +.o365weve-dev.com
 +.o365weve-ppe.com
 +.o365weve.com
@@ -17669,6 +17672,7 @@
 +.squirrelgroup.net
 +.squirrelvpn.com
 +.sr
++.srcfsitekreator.com
 +.srebrenica360.com
 +.srtcdn.net
 +.srwwu.uno
