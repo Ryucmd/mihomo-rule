@@ -13528,7 +13528,6 @@
 +.nbys1.tv
 +.nbyy.tv
 +.nc
-+.nccwatch..net
 +.nchrd.org
 +.ncloud.com
 +.ncn.org
@@ -14193,7 +14192,6 @@
 +.nytstyle.com
 +.nz
 +.nzchinese.com
-+.o.com
 +.o365weve-dev.com
 +.o365weve-ppe.com
 +.o365weve.com
@@ -17672,7 +17670,6 @@
 +.squirrelgroup.net
 +.squirrelvpn.com
 +.sr
-+.srcfsitekreator.com
 +.srebrenica360.com
 +.srtcdn.net
 +.srwwu.uno
