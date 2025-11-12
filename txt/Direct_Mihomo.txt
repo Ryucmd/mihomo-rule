@@ -60775,6 +60775,18 @@
 +.ksmmed.com
 +.ksmobile.com
 +.ksmq5a9kxzmr.com
++.ksn-cinfo.geoksn.kaspersky.com
++.ksn-crypto-wifiplus.geoksn.kaspersky.com
++.ksn-dc1-cert.geoksn.kaspersky.com
++.ksn-dc1-file.geoksn.kaspersky.com
++.ksn-dc1.geoksn.kaspersky.com
++.ksn-file.geoksn.kaspersky.com
++.ksn-info.geoksn.kaspersky.com
++.ksn-kas.geoksn.kaspersky.com
++.ksn-mdr.geoksn.kaspersky.com
++.ksn-tcert.geoksn.kaspersky.com
++.ksn-url.geoksn.kaspersky.com
++.ksn-verdict.geoksn.kaspersky.com
 +.ksndsa.com
 +.ksnows.com
 +.ksoapp.com
@@ -73917,7 +73929,6 @@
 +.oohdear.com
 +.ooiii.com
 +.oojsq.com
-+.ooklaserver.net
 +.oolap.com
 +.oomake.com
 +.ooniu.com
@@ -91312,7 +91323,6 @@
 +.tapsvc.com
 +.taptap-api.com
 +.taptap.com
-+.taptap.io
 +.taptapcode.com
 +.taptapdada.com
 +.tapulsads.ru
