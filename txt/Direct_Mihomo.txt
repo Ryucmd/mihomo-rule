@@ -27266,6 +27266,7 @@
 +.cztv.cc
 +.cztv.com
 +.cztv.tv
++.cztvcdn.com
 +.cztvcloud.com
 +.cztzkg.com
 +.czur.com
@@ -38132,6 +38133,7 @@
 +.geekmaker.com
 +.geekman.vip
 +.geeknev.com
++.geekpark
 +.geekpark.net
 +.geekpwn.org
 +.geeksblog.cc
