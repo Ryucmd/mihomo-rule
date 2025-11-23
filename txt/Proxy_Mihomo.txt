@@ -9227,6 +9227,7 @@
 +.heyzo.com
 +.hf-iphone.com
 +.hf.co
++.hf.space
 +.hg.cool
 +.hgamer.pro
 +.hgsacx.com
@@ -11336,6 +11337,7 @@
 +.kinkypeepz.com
 +.kinmen.travel
 +.kinokuniya.com
++.kinopoisk-ru.clstorage.net
 +.kir2kos.net
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
@@ -13510,6 +13512,7 @@
 +.namgyal.org
 +.namgyalmonastery.org
 +.namsisi.com
++.namu.wiki
 +.nan-net.com
 +.nanonamad.com
 +.nanopool.org
@@ -15079,6 +15082,7 @@
 +.pickshoesclothes.com
 +.picnik.com
 +.picpost.com
++.picsart.com
 +.picsee.co
 +.picsee.pro
 +.pictet
@@ -20264,6 +20268,8 @@
 +.webtoons.com
 +.webtoonscorp.com
 +.webtype.com
++.webvisor.com
++.webvisor.org
 +.webwarper.net
 +.webworkerdaily.com
 +.wechatlawsuit.com
@@ -21277,6 +21283,7 @@
 +.yaburi.men
 +.yaddal.tv
 +.yadori.club
++.yads.tech
 +.yaeby.info
 +.yaeby.pro
 +.yahoo
@@ -21312,6 +21319,7 @@
 +.yandexadexchange.net
 +.yandexcloud.net
 +.yandexcom.net
++.yandexmetrica.com
 +.yandexwebcache.org
 +.yanghengjun.com
 +.yangjianli.com
@@ -21327,6 +21335,7 @@
 +.yarininsuyu.com
 +.yarnpkg.com
 +.yasarang.net
++.yastat.net
 +.yastatic.net
 +.yatong.info
 +.yavtube.com
