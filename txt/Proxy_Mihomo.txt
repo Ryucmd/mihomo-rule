@@ -1355,7 +1355,6 @@
 +.ancensored.com
 +.anchorfree.com
 +.ancsconf.org
-+.and
 +.andfaraway.net
 +.android
 +.android-x86.org
@@ -4036,7 +4035,6 @@
 +.cbart.net
 +.cbn
 +.cbre
-+.cbs
 +.cbs.com
 +.cbsaavideo.com
 +.cbscorporation.com
@@ -12339,11 +12337,9 @@
 +.mc
 +.mcadforums.com
 +.mcafee.com
-+.mcd
 +.mcd.com
 +.mcdindia.com
 +.mcdindonesia.com
-+.mcdonalds
 +.mcdonalds-online.com
 +.mcdonalds.com
 +.mcdonalds.com.hk
@@ -17232,7 +17228,6 @@
 +.shotwithgeforce.com
 +.showhaotu.com
 +.shownote.com
-+.showtime
 +.showtime.com
 +.showtimeanytime.com
 +.showup.tv
@@ -18499,7 +18494,6 @@
 +.thegithubshop.com
 +.thegly.com
 +.thegooglestore.com
-+.theguardian
 +.theguardian.com
 +.theguardiandns.com
 +.thehabibshow.com
