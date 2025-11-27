@@ -9394,6 +9394,7 @@
 +.hochi.news
 +.hochu.tv
 +.hockeyapp.net
++.hodanhq.com
 +.hoes.com
 +.hoge.7jp.info
 +.hola.com
@@ -14122,6 +14123,7 @@
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
 +.ntp1.ntp-servers.net
++.ntp1.plala.or.j000webhost.com
 +.ntp1.wakwak.com
 +.ntp2.ntp-servers.net
 +.ntp2.wakwak.com
@@ -17629,6 +17631,7 @@
 +.soylent.com
 +.soylentnews.org
 +.sp.cool
++.sp.org
 +.spaceexplored.com
 +.spacemail.com
 +.spaceship.com
