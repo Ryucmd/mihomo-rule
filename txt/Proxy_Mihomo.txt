@@ -14337,6 +14337,8 @@
 +.okex.com
 +.okinawa
 +.okkisokuho.com
++.okko.sport
++.okko.tv
 +.okpool.me
 +.okx-dns.com
 +.okx-dns1.com
