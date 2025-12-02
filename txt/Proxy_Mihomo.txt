@@ -3944,6 +3944,7 @@
 +.canonproprinters.com
 +.cantonese.asia
 +.canva.com
++.canvastatus.com
 +.canyu.org
 +.caobian.info
 +.caochangqing.com
@@ -8856,6 +8857,8 @@
 +.h528.com
 +.h5dm.com
 +.h5galgame.me
++.habr.com
++.habrastorage.org
 +.hacg.club
 +.hacg.me
 +.hacg.red
@@ -12479,6 +12482,7 @@
 +.metacafe.com
 +.metacloud.com
 +.metacpan.org
++.metacritic.com
 +.metacubex.one
 +.metafilter.com
 +.metalpha.finance
@@ -18373,6 +18377,7 @@
 +.tellmewhygame.com
 +.temasek
 +.temetube.xyz
++.temp-mail.org
 +.temu.com
 +.tenacy.com
 +.tenbyfotolia.com
@@ -19616,6 +19621,8 @@
 +.vaultify.com
 +.vaultify.info
 +.vaultify.net
++.vbcdn.com
++.vbcdn.net
 +.vbejeyv.shop
 +.vbstatic.co
 +.vc
@@ -19727,7 +19734,9 @@
 +.viacom.com
 +.viacomcbs.com
 +.viacomcbspressexpress.com
++.viber.co
 +.viber.com
++.viber.me
 +.vica.info
 +.victimsofcommunism.org
 +.vid.me
