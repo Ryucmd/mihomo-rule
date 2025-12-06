@@ -158,7 +158,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -571,6 +570,7 @@
 +.a-msedge.net
 +.a-normal-day.com
 +.a-teenz.com
++.a.com
 +.a0pple.net
 +.a1av.xyz
 +.a2z.com
@@ -617,6 +617,7 @@
 +.ablwang.com
 +.aboluowang.com
 +.about.me
++.aboutamasproexapi.com
 +.aboutamazon.com
 +.aboutfacebook.com
 +.aboutgfw.com
@@ -1249,6 +1250,7 @@
 +.amazonalexavoxcon.com
 +.amazonauthorinsights.com
 +.amazonaws-china.com
++.amazonaws.1password.drift.click
 +.amazonaws.biz
 +.amazonaws.com
 +.amazonaws.info
@@ -1353,6 +1355,7 @@
 +.analytictech.com
 +.anandtech.com
 +.anatomy.tv
++.anatsbydrecheap-outletstore.com
 +.anb.org
 +.ancensored.com
 +.anchorfree.com
@@ -1504,6 +1507,7 @@
 +.ap-tokyo.tencentcos.cn
 +.ap-tokyo.tencentcos.com
 +.ap-tokyo.tencentcos.com.cn
++.ap.com
 +.ap.org
 +.ap0le.com
 +.apa.org
@@ -2888,6 +2892,7 @@
 +.bestvpnforchina.net
 +.bestvpnserver.com
 +.bestvpnservice.com
++.bestvpnses.com
 +.bestvpnusa.com
 +.bestxxxsites.com
 +.besuty99.com
@@ -3526,6 +3531,7 @@
 +.boylove.cc
 +.boylove.com
 +.boylove.live
++.boylove.livs.net
 +.boylove1.cc
 +.boyloves.cc
 +.boypost.com
@@ -3822,6 +3828,7 @@
 +.c-span.org
 +.c-spanvideo.org
 +.c.mi.com
++.c.net
 +.c0930.com
 +.c100tibet.org
 +.c2cx.com
@@ -4305,6 +4312,7 @@
 +.chinachange.org
 +.chinachannel.hk
 +.chinaclothesstore.com
++.chinaclothesstore.lutv258.xyz
 +.chinacomments.org
 +.chinadecoding.com
 +.chinademocrats.org
@@ -5125,6 +5133,7 @@
 +.danskpornofilm.com
 +.dansmovies.com
 +.danwei.org
++.dao
 +.daoc.net
 +.daolan.net
 +.daozhongxing.org
@@ -5196,6 +5205,7 @@
 +.ddd-smart.net
 +.ddff66.com
 +.ddff77.com
++.ddff77droidpolice.com
 +.ddg.co
 +.ddhw.info
 +.dditsadn.com
@@ -8710,6 +8720,7 @@
 +.governmentengineer.com
 +.govforce.com
 +.gp
++.gplestore.cc
 +.gpstheseries.com
 +.gputechconf.com
 +.gqzmnav.cc
@@ -11305,6 +11316,7 @@
 +.kicksnike1.com
 +.kicu.tv
 +.kidgrid.tv
++.kidsnikesho-buy-cheap.com
 +.kidsnikeshoes.com
 +.kik.com
 +.kikdirty.com
@@ -13894,6 +13906,7 @@
 +.nikeconfluence.com
 +.nikecraft.com
 +.nikedawn.com
++.nikedunkerver.com
 +.nikedunks.net
 +.nikedunksshoes.com
 +.nikeelite.com
@@ -18750,6 +18763,7 @@
 +.tig-ol-bitties.live
 +.tigervpn.com
 +.tik-tokapi.com
++.tiktok-row.net
 +.tiktok.com
 +.tiktokcdn-eu.com
 +.tiktokcdn-us.com
@@ -18757,6 +18771,7 @@
 +.tiktokd.net
 +.tiktokd.org
 +.tiktokeu-cdn.com
++.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
 +.tiktokv.com
 +.tiltbrush.com
@@ -19789,6 +19804,7 @@
 +.videosporno.life
 +.videosxxxnicaragua.top
 +.videoxxxporn.biz
++.videoxxxporn.bizcom
 +.videozzz.com
 +.vidinfo.org
 +.vidmpreview.com
@@ -21799,6 +21815,7 @@
 +.zopim.com
 +.zorglist.com
 +.zorrovpn.com
++.zotero.org
 +.zozotown.com
 +.zqqpwz.com
 +.zsdxzk.com
