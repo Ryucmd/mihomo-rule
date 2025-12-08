@@ -1518,7 +1518,6 @@
 +.api.mixpanel.com
 +.api.nebula-emby.com
 +.api.news
-+.api.palworldgame.com
 +.api.waqi.info
 +.apibay.org
 +.apigee.com
@@ -10183,6 +10182,7 @@
 +.imagebam.com
 +.imagecurl.com
 +.imagecurl.org
++.imagedelivery.net
 +.imagefap.com
 +.imageflea.com
 +.imageglass.org
@@ -14719,6 +14719,7 @@
 +.paljorpublications.com
 +.palmislife.com
 +.paltalk.com
++.palworldgame.com
 +.panasonic
 +.panasonic.com
 +.pancakeswap.finance
