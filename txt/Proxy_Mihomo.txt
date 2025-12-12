@@ -578,7 +578,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3809,6 +3808,7 @@
 +.bypasscensorship.org
 +.byrut.org
 +.byspotify.com
++.bytedapm.com
 +.byteglb.com
 +.byteoversea.com
 +.byteoversea.net
@@ -5119,6 +5119,7 @@
 +.damplips.com
 +.dandalinvoa.com
 +.dandanzan.cc
++.danemarket.c+.aaa
 +.danemarket.com
 +.danke4china.net
 +.danmarkbeatsbydrdre.com
@@ -7964,6 +7965,10 @@
 +.full:practivate.adobe.newoa
 +.full:practivate.adobe.ntp
 +.full:public-us-pingsx.api.clonoth.com
++.full:roovza-launches.appsflyersdk.com
++.full:roovza.inapps.appsflyersdk.com
++.full:roovza.launches.appsflyersdk.com
++.full:roovza.skadsdk.appsflyersdk.com
 +.full:rss.4040940.xyz
 +.full:rss.littlebaby.life
 +.full:rss.wudifeixue.com
@@ -13801,6 +13806,7 @@
 +.nextwork.com.hk
 +.nextwork.hk
 +.nexus
++.nexus-cdn.com
 +.nexusmods.com
 +.nf
 +.nfjtyd.com
@@ -16493,6 +16499,10 @@
 +.ronjoneswriter.com
 +.roodo.com
 +.rootsigning.com
++.roovza-launches.appsflyersdk.com
++.roovza.inapps.appsflyersdk.com
++.roovza.launches.appsflyersdk.com
++.roovza.skadsdk.appsflyersdk.com
 +.rosechina.net
 +.rosemarydoll.com
 +.roshy.tv
@@ -18760,6 +18770,7 @@
 +.tig-ol-bitties.live
 +.tigervpn.com
 +.tik-tokapi.com
++.tiktok-minis.com
 +.tiktok-row.net
 +.tiktok.com
 +.tiktokcdn-eu.com
