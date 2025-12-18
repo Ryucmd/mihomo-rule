@@ -4495,7 +4495,7 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404: Not Found404: Not Found265.com
++.404: Not Found265.com
 +.404mzk.com
 +.404wan.com
 +.404youxi.com
@@ -68200,6 +68200,7 @@
 +.mi1.cc
 +.mi72.net
 +.mia.com
++.miaibox.com
 +.mian520.com
 +.mianbao.com
 +.miancp.com
@@ -74281,6 +74282,7 @@
 +.openssw.com
 +.opentrust.net
 +.openuc.com
++.openvela.com
 +.openwbs.com
 +.openwrt.ai
 +.openwrt.pro
@@ -103439,6 +103441,7 @@
 +.xiaomiflash.com
 +.xiaomiinc.com
 +.xiaomiinc.net
++.xiaomimimo.com
 +.xiaomimobile.com
 +.xiaominet.com
 +.xiaominfo.com
