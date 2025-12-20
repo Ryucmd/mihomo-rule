@@ -8636,7 +8636,6 @@
 +.google-syndication.com
 +.google.cn
 +.google.co
-+.google.co.krsexy-more.com
 +.google.com
 +.google.com.co
 +.google.com.hk
@@ -14844,6 +14843,7 @@
 +.parstream.net
 +.parstream.org
 +.partmaker.com
++.partnerstack.xyz
 +.partycasino.com
 +.partylikeits1986.org
 +.partypoker.com
