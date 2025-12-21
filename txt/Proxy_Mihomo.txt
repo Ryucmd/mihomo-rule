@@ -579,7 +579,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5089,6 +5088,7 @@
 +.d2bay.com
 +.d2mrry2to5rg.com
 +.d2pass.com
++.da+.aaa
 +.da-files.com
 +.daboja18.com
 +.dabr.me
@@ -6426,6 +6426,7 @@
 +.entrust.com
 +.entrust.net
 +.entrustdatacard.com
++.eotarchive.org
 +.epicbrowser.com
 +.epicgames.com
 +.epicgamescdn.com
@@ -8398,6 +8399,7 @@
 +.ghanely.me
 +.ghettotube.com
 +.ghidra-sre.org
++.ghostarchive.org
 +.ghostgames.com
 +.ghostnoteapp.com
 +.ghostpath.com
@@ -11567,6 +11569,7 @@
 +.ladyboygold.com
 +.ladyboypornonly.com
 +.lagranepoca.com
++.lailama80.org
 +.lalulalu.com
 +.lamayeshe.com
 +.lamborghini
@@ -12524,6 +12527,7 @@
 +.meme111.com
 +.memealerts.com
 +.memehk.com
++.mementoweb.org
 +.memorybbs.com
 +.memri.org
 +.memrijttm.org
@@ -15101,6 +15105,7 @@
 +.perfectvpn.net
 +.periscope.tv
 +.perl.org
++.perma.cc
 +.perplexity.com
 +.persagg.com
 +.persecutionblog.com
@@ -20379,6 +20384,7 @@
 +.webcammedellin.co
 +.webcams.tv
 +.webcamtubexxx.com
++.webcitation.org
 +.weber
 +.webevader.org
 +.webex.com
