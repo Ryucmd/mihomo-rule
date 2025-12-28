@@ -8378,6 +8378,7 @@
 +.gfw.press
 +.gfw.report
 +.gfwatch.org
++.gfwbao.com
 +.gfwlist.end
 +.gfwlist.start
 +.gfycat.com
@@ -18006,6 +18007,7 @@
 +.steamdb.info
 +.steamdeck.com
 +.steamgames.com
++.steamladder.com
 +.steamofporn.com
 +.steampowered.com
 +.steamserver.net
