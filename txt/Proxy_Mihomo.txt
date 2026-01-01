@@ -579,6 +579,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1393,7 +1394,6 @@
 +.animalsporn.tv
 +.animalzoosex.me
 +.anime-pictures.net
-+.anime-rule34-world.b-cdn.net
 +.anime-tube.pw
 +.animecrazy.net
 +.animedao-tv.com
@@ -2308,6 +2308,7 @@
 +.azuresmartspaces.net
 +.azurestackvalidation.com
 +.azurewebsites.net
++.b-cdn.net
 +.b-eroland.net
 +.b-ok.asia
 +.b-ok.cc
@@ -2600,6 +2601,7 @@
 +.beatsbydre411.com
 +.beatsbydre4usales.com
 +.beatsbydreauofficial.com
++.beatsbydreaus000webhost.com
 +.beatsbydreausale.net
 +.beatsbydreaustralia-sale.com
 +.beatsbydreaustraliaonline.com
@@ -3724,6 +3726,8 @@
 +.bumptop.org
 +.bumptunes.com
 +.bunbunhk.com
++.bunny.net
++.bunnycdn.com
 +.bunnylust.com
 +.burningcamel.com
 +.burstly.net
@@ -5184,6 +5188,7 @@
 +.dataframeworks.com
 +.datalabour.com
 +.dataliberation.org
++.dataliberation.orgpress.com
 +.datarouter.apps.netherrealm.com
 +.datasheets360.com
 +.datawav.club
@@ -7682,6 +7687,7 @@
 +.fpmt-osel.org
 +.fpmt.org
 +.fpmtmexico.org
++.fpmtmexico.orgtraliaonlines.com
 +.fptolia.com
 +.fqcebook.com
 +.fqok.org
@@ -7936,7 +7942,6 @@
 +.fulione.com
 +.full:1password.drift.click
 +.full:adobeereg.com
-+.full:anime-rule34-world.b-cdn.net
 +.full:api.viu.now.com
 +.full:apple-tv-plus-press.apple.com
 +.full:azure.microsoft.com
@@ -8011,7 +8016,6 @@
 +.full:rsshub.umzzz.com
 +.full:rsshub.woodland.cafe
 +.full:rsshub2.asailor.org
-+.full:servd-anthropic-website.b-cdn.net
 +.full:ssl-lvlt.cdn.ea.com
 +.full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.full:tesla-cdn.thron.com
@@ -8024,7 +8028,6 @@
 +.full:time3.facebook.com
 +.full:time4.facebook.com
 +.full:time5.facebook.com
-+.full:tmdb-image-prod.b-cdn.net
 +.full:uts-api.itunes.apple.com
 +.full:vsmarketplacebadge.apphb.com
 +.full:wetv.qq.com
@@ -10526,6 +10529,7 @@
 +.inventor-certified.com
 +.inventorfusion.com
 +.inventorseries.com
++.investigating.wordcom
 +.investing.com
 +.inxian.com
 +.inxporn.com
@@ -12430,7 +12434,6 @@
 +.mbeats-tech.com
 +.mbheadphone.com
 +.mc
-+.mc+.aaa
 +.mcadforums.com
 +.mcafee.com
 +.mcd.com
@@ -17004,7 +17007,6 @@
 +.serialssolutions.com
 +.serlucap.lol
 +.serlutv258.xyz
-+.servd-anthropic-website.b-cdn.net
 +.servebom.com
 +.servehttp.com
 +.serverfault.com
@@ -18927,7 +18929,6 @@
 +.tm
 +.tmagazine.com
 +.tmblr.co
-+.tmdb-image-prod.b-cdn.net
 +.tmdb.org
 +.tmdfish.com
 +.tmei-taoyuan.com
