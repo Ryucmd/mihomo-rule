@@ -4220,7 +4220,6 @@
 +.cftfc.com
 +.cfwives.com
 +.cg
-+.cgdepot.oanyang.com
 +.cgdepot.org
 +.cgkate.jinvod.com
 +.ch
@@ -7724,7 +7723,6 @@
 +.fpmt-osel.org
 +.fpmt.org
 +.fpmtmexico.org
-+.fpmtmexico.orgthasintent.org
 +.fptolia.com
 +.fqcebook.com
 +.fqok.org
@@ -9354,7 +9352,6 @@
 +.hiddify.com
 +.hide.me
 +.hidecloud.com
-+.hidecloud.cr.net
 +.hidein.net
 +.hideipvpn.com
 +.hideman.net
@@ -13615,7 +13612,6 @@
 +.mz
 +.mzed.com
 +.mzstatic.com
-+.n000webhost.com
 +.n0vadesktop.com
 +.n15zev3w.shop
 +.n26.com
@@ -17461,7 +17457,6 @@
 +.si
 +.siam.org
 +.sibreal.org
-+.siddharrg
 +.siddharthasintent.org
 +.sidelinesnews.com
 +.sidelinessportseatery.com
@@ -20586,7 +20581,6 @@
 +.whitexxxtube.com
 +.who.int
 +.whodns.xyz
-+.whoe
 +.whoer.net
 +.wholecitiesfoundation.org
 +.wholefoods.com
