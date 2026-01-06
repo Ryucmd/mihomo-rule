@@ -938,6 +938,7 @@
 +.ai
 +.ai-kan.net
 +.ai-wen.net
++.ai.studio
 +.ai7995.site
 +.ai91porn.cc
 +.aiaa.org
@@ -16745,6 +16746,7 @@
 +.rust-lang.org
 +.rustdesk.com
 +.rusvpn.com
++.rutor.info
 +.rutracker.cc
 +.rutracker.me
 +.rutracker.net
@@ -20970,6 +20972,7 @@
 +.xbtce.com
 +.xcafe.com
 +.xcams.com
++.xcancel.com
 +.xcg123.com
 +.xchina.co
 +.xchina.fun
