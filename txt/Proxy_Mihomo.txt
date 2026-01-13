@@ -579,7 +579,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3680,6 +3679,7 @@
 +.brotli.org
 +.brourou.com
 +.browser.kagi.com
++.browser.run
 +.browserleaks.com
 +.brucewang.net
 +.brussels
@@ -4214,6 +4214,7 @@
 +.cfargotunnel.com
 +.cfblob.com
 +.cfd-tv.com
++.cfdata.org
 +.cfdesign.com
 +.cfhks.org.hk
 +.cfna.com
@@ -4617,26 +4618,33 @@
 +.cloudflare-gateway.com
 +.cloudflare-ipfs.com
 +.cloudflare-quic.com
++.cloudflare-terms-of-service-abuse.com
 +.cloudflare.com
 +.cloudflare.net
 +.cloudflare.tv
 +.cloudflareaccess.com
 +.cloudflareapps.com
 +.cloudflarebolt.com
++.cloudflarebrowser.com
++.cloudflarechallenge.com
 +.cloudflareclient.com
++.cloudflarecp.com
 +.cloudflareinsights.com
 +.cloudflareok.com
 +.cloudflarepartners.com
 +.cloudflareportal.com
 +.cloudflarepreview.com
 +.cloudflareregistrar.com
++.cloudflareresearch.com
 +.cloudflareresolve.com
 +.cloudflaressl.com
 +.cloudflarestatus.com
 +.cloudflarestorage.com
 +.cloudflarestream.com
++.cloudflaresupport.com
 +.cloudflaretest.com
 +.cloudflarewarp.com
++.cloudflareworkers.com
 +.cloudfront.com
 +.cloudfront.net
 +.cloudfunctions.net
@@ -5090,6 +5098,7 @@
 +.cwcams.com
 +.cws.conviva.com
 +.cx
++.cxacg.com
 +.cy
 +.cy22.tv
 +.cyber-bay.info
@@ -6424,6 +6433,7 @@
 +.enablementadobe.com
 +.encoretvb.com
 +.encrypt.me
++.encryptedsni.com
 +.encuentroscasualesoecuador.com
 +.encyclopedia.com
 +.enema-porn.com
@@ -8176,6 +8186,7 @@
 +.game-platform.net
 +.game-repack.site
 +.game735.com
++.gameapps.hk
 +.gamebeforethegame.com
 +.gamejolt.com
 +.gameloft.com
@@ -10419,6 +10430,7 @@
 +.innovations-i.com
 +.inoreader.com
 +.inporn.com
++.inquirer.net
 +.insder.co
 +.insecam.org
 +.inshot.cc
@@ -13038,6 +13050,7 @@
 +.modmyi.com
 +.modrinth.com
 +.moe
++.moedigi.com
 +.moeero-library.com
 +.moeerolibrary.com
 +.moefuns.co
@@ -16523,6 +16536,7 @@
 +.renyurenquan.org
 +.renzhe.cloud
 +.repe21.com
++.repotama.com
 +.repsneakermall.com
 +.repswing.com
 +.rerouted.org
@@ -16784,6 +16798,7 @@
 +.s-nbcnews.com
 +.s-rewards.hk
 +.s-xoom.com
++.s.com
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
@@ -17942,6 +17957,7 @@
 +.spyjinx.com
 +.sqlite.org
 +.sqlserveronlinux.com
++.sqool.net
 +.squ1.com
 +.squadbusters.com
 +.squarecapital.com
@@ -18444,6 +18460,7 @@
 +.talksport.com
 +.tamilsexvideos.cc
 +.tampabay.com
++.tampermonkey.net
 +.tamtam.chat
 +.tanc.org
 +.tandberg-china.com
@@ -19138,6 +19155,7 @@
 +.towngain.com
 +.townofsins.com
 +.toy-cadcam.com
++.toy-people.com
 +.toycadcam.com
 +.toyota
 +.toythieves.com
@@ -19942,6 +19960,7 @@
 +.via0.com
 +.viacbs.com
 +.viacom.com
++.viacomcb+.aaa
 +.viacomcbs.com
 +.viacomcbspressexpress.com
 +.viber.co
@@ -19985,7 +20004,6 @@
 +.vidmpreview.com
 +.vidown.com
 +.vidspornoduro.com
-+.vie.com
 +.viet69.link
 +.viet69.news
 +.vietdaikynguyen.com
