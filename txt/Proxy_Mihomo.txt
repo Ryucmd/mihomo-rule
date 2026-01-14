@@ -579,6 +579,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5488,6 +5489,7 @@
 +.digitaltrends.com
 +.diigo.com
 +.dilcdn.com
++.dinopoloclub.com
 +.dinotube.com
 +.dipity.com
 +.dirctv.com
@@ -14270,6 +14272,7 @@
 +.nowtorrents.com
 +.nowtv
 +.noxinfluencer.com
++.noxygames.com
 +.noypf.com
 +.np
 +.npm.community
@@ -16335,6 +16338,8 @@
 +.rawgit.com
 +.rawgithub.com
 +.raxcdn.com
++.rayark.download
++.rayark.net
 +.razer.com
 +.razerofficial.com
 +.razersupport.com
@@ -16798,7 +16803,6 @@
 +.s-nbcnews.com
 +.s-rewards.hk
 +.s-xoom.com
-+.s.com
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
@@ -19960,7 +19964,6 @@
 +.via0.com
 +.viacbs.com
 +.viacom.com
-+.viacomcb+.aaa
 +.viacomcbs.com
 +.viacomcbspressexpress.com
 +.viber.co
