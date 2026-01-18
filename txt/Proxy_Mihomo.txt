@@ -8046,6 +8046,7 @@
 +.full:practivate.adobe.ipp
 +.full:practivate.adobe.newoa
 +.full:practivate.adobe.ntp
++.full:pubg1.battleye.com
 +.full:public-us-pingsx.api.clonoth.com
 +.full:roovza-launches.appsflyersdk.com
 +.full:roovza.inapps.appsflyersdk.com
@@ -11569,6 +11570,7 @@
 +.kpptoto.info
 +.kqes.net
 +.kr
++.kraftonde.com
 +.kraken.com
 +.kraken.onl
 +.krakenjs.com
@@ -15375,6 +15377,7 @@
 +.playapex.com
 +.playartifact.com
 +.playbar.biz
++.playbattlegrounds.com
 +.playboy.com
 +.playboyplus.com
 +.playbydurex.com
@@ -16052,6 +16055,7 @@
 +.ptwxz.com
 +.ptzwx.com
 +.pu82.vip
++.pubg.com
 +.public-sex-porn.com
 +.public-trust.com
 +.public-us-pingsx.api.clonoth.com
