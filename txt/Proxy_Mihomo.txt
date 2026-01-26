@@ -2784,6 +2784,7 @@
 +.beijing1989.com
 +.beijing2022.art
 +.beijingnike.com
++.beijingnike.com# NAME: Proxy
 +.beijingspring.com
 +.beijingzx.org
 +.beiyongzhan1.com
