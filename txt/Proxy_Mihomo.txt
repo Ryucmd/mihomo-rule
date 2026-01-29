@@ -1761,6 +1761,8 @@
 +.argo-bdp.com
 +.argotunnel.com
 +.arirangmeari.com
++.arma3.com
++.armaplatform.com
 +.armorgames.com
 +.armovs.com
 +.arnoldrenderer.com
@@ -2422,6 +2424,7 @@
 +.battlefrontii.com
 +.battlelog.com
 +.battlenet.com
++.battleye.com
 +.bauhaus
 +.baxsound.com
 +.bayareabmw.com
@@ -3071,6 +3074,7 @@
 +.bipic.net
 +.biqle.org
 +.bisq.network
++.bistudio.com
 +.bit-z.com
 +.bit.com
 +.bit.no.com
@@ -3423,6 +3427,7 @@
 +.bodyfluids-jav.com
 +.boehringer
 +.bofa
++.bohemia.net
 +.bokep.net
 +.bokepseks.org
 +.bokepvidz.com
@@ -4917,6 +4922,7 @@
 +.crit-staging.com
 +.critiquebrainz.org
 +.crittercism.com
++.crixet.com
 +.crl.versign.net
 +.crmdynint-gcc.com
 +.crmdynint.com
@@ -5196,6 +5202,7 @@
 +.dayone.me
 +.daytonbmw.com
 +.daytontrucktires.com
++.dayz.com
 +.dazn-api.com
 +.dazn.com
 +.dazndn.com
@@ -7973,7 +7980,6 @@
 +.full:practivate.adobe.ipp
 +.full:practivate.adobe.newoa
 +.full:practivate.adobe.ntp
-+.full:pubg1.battleye.com
 +.full:public-us-pingsx.api.clonoth.com
 +.full:roovza-launches.appsflyersdk.com
 +.full:roovza.inapps.appsflyersdk.com
@@ -12189,6 +12195,7 @@
 +.maizhong.org
 +.makaan.com
 +.makeanything.com
++.makearmanotwar.com
 +.makebettercode.com
 +.makecode.org
 +.makeeu.com
@@ -15950,7 +15957,6 @@
 +.ptzwx.com
 +.pu82.vip
 +.pubg.com
-+.pubg1.battleye.com
 +.public-sex-porn.com
 +.public-trust.com
 +.public-us-pingsx.api.clonoth.com
@@ -17407,6 +17413,7 @@
 +.sijihuisuo.club
 +.sijihuisuo.com
 +.sikiswap.com
++.silicagame.com
 +.silicon-mobility.com
 +.siliconmobility.com
 +.silkbook.com
@@ -19908,6 +19915,7 @@
 +.viewgals.com
 +.viewpointsfromfacebook.com
 +.vig
++.vigorgame.com
 +.vijayatemple.org
 +.vikacg.com
 +.viking
@@ -21554,6 +21562,7 @@
 +.yiyechat.com
 +.yizhihongxing.com
 +.yjcontentdelivery.com
++.ylands.com
 +.ymail.com
 +.ymhsf.top
 +.ymhsf1.top
