@@ -580,7 +580,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1663,6 +1662,7 @@
 +.applepay.tv
 +.applepaycash.net
 +.applepaycash.tv
++.applepaymerchants+.aaa
 +.applepaymerchantsupplies.info
 +.applepaysupplies.com
 +.applepaysupplies.info
@@ -1883,11 +1883,13 @@
 +.athenaeizou.com
 +.athleta
 +.atkgallery.com
++.atl-paas.net
 +.atlanta168.com
 +.atlantaminidealers.com
 +.atlasdmt.com
 +.atlasonepoint.com
 +.atlaspost.com
++.atlassian-dev.net
 +.atlassian.com
 +.atlassian.net
 +.atnext.com
@@ -7511,6 +7513,9 @@
 +.fotolja.com
 +.fotoscaserasx.com
 +.foundationdb.org
++.foundationdns.com
++.foundationdns.net
++.foundationdns.org
 +.fourthinternational.org
 +.fourthns.systems
 +.fox
@@ -9287,6 +9292,7 @@
 +.hgamer.pro
 +.hgsacx.com
 +.hgseav.com
++.hgzzle.com
 +.hh-content.com
 +.hhdcb3office.org
 +.hhtdq17.com
@@ -11006,6 +11012,7 @@
 +.jhelab.org
 +.jhxl.org
 +.jhzyw.xyz
++.ji000webhost.com
 +.jiangweiping.com
 +.jiaochuanba25.buzz
 +.jiaochuanba26.buzz
@@ -11038,6 +11045,7 @@
 +.jintian.net
 +.jinx.com
 +.jio
++.jira.com
 +.jiruan.net
 +.jitouch.com
 +.jitsi.org
@@ -14094,6 +14102,7 @@
 +.niosii.com
 +.niosii.net
 +.nirsoft.net
++.niseav.com
 +.nissan
 +.nissay
 +.nitter.cc
@@ -15289,6 +15298,7 @@
 +.playmation.com
 +.playmeow.com
 +.playnintendo.com
++.playnke-fr.com
 +.playno1.com
 +.playoverwatch.com
 +.playparagon.com
@@ -16976,6 +16986,7 @@
 +.selfloversworld.com
 +.sellclassics.com
 +.sellercommunity.com
++.selo1.com
 +.semanticscholar.org
 +.sendsmtp.com
 +.sendspace.com
@@ -17880,6 +17891,7 @@
 +.srtcdn.net
 +.srwwu.uno
 +.ss
++.ss-inf.net
 +.ss-link.com
 +.ssdevrd.com
 +.ssglobal.co
@@ -19619,6 +19631,7 @@
 +.uplust.com
 +.uplynk.com
 +.upornia.com
++.upplies.info
 +.uproxy.org
 +.uptodown.com
 +.upwill.org
@@ -19878,6 +19891,7 @@
 +.video-jav.net
 +.video-one.com
 +.video01.org
++.videoag.org
 +.videobam.com
 +.videobreakdown.com
 +.videochampion.com
@@ -20814,6 +20828,7 @@
 +.www.imdb.com
 +.www.msn.com
 +.www.pxcc.com
++.www.sciencemfloversworld.com
 +.www1.biz
 +.www8-hp.com
 +.wwwapple.com
