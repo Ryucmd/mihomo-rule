@@ -580,6 +580,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1383,6 +1384,7 @@
 +.anfutong.com
 +.angel-gto.com
 +.angelfire.com
++.angidc.com
 +.angola.org
 +.angulardart.org
 +.angularjs.org
@@ -1662,7 +1664,6 @@
 +.applepay.tv
 +.applepaycash.net
 +.applepaycash.tv
-+.applepaymerchants+.aaa
 +.applepaymerchantsupplies.info
 +.applepaysupplies.com
 +.applepaysupplies.info
@@ -5193,6 +5194,7 @@
 +.daumpcbang.com
 +.david-kilgour.com
 +.david-laserscanner.com
++.daw000webhost.com
 +.dawangidc.com
 +.dawngate.com
 +.dawngatechronicles.com
@@ -9292,7 +9294,6 @@
 +.hgamer.pro
 +.hgsacx.com
 +.hgseav.com
-+.hgzzle.com
 +.hh-content.com
 +.hhdcb3office.org
 +.hhtdq17.com
@@ -11012,7 +11013,6 @@
 +.jhelab.org
 +.jhxl.org
 +.jhzyw.xyz
-+.ji000webhost.com
 +.jiangweiping.com
 +.jiaochuanba25.buzz
 +.jiaochuanba26.buzz
@@ -14102,7 +14102,6 @@
 +.niosii.com
 +.niosii.net
 +.nirsoft.net
-+.niseav.com
 +.nissan
 +.nissay
 +.nitter.cc
@@ -15298,7 +15297,6 @@
 +.playmation.com
 +.playmeow.com
 +.playnintendo.com
-+.playnke-fr.com
 +.playno1.com
 +.playoverwatch.com
 +.playparagon.com
@@ -16986,7 +16984,6 @@
 +.selfloversworld.com
 +.sellclassics.com
 +.sellercommunity.com
-+.selo1.com
 +.semanticscholar.org
 +.sendsmtp.com
 +.sendspace.com
@@ -19631,7 +19628,6 @@
 +.uplust.com
 +.uplynk.com
 +.upornia.com
-+.upplies.info
 +.uproxy.org
 +.uptodown.com
 +.upwill.org
@@ -19891,7 +19887,6 @@
 +.video-jav.net
 +.video-one.com
 +.video01.org
-+.videoag.org
 +.videobam.com
 +.videobreakdown.com
 +.videochampion.com
@@ -20828,7 +20823,6 @@
 +.www.imdb.com
 +.www.msn.com
 +.www.pxcc.com
-+.www.sciencemfloversworld.com
 +.www1.biz
 +.www8-hp.com
 +.wwwapple.com
