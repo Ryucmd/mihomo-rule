@@ -1384,7 +1384,6 @@
 +.anfutong.com
 +.angel-gto.com
 +.angelfire.com
-+.angidc.com
 +.angola.org
 +.angulardart.org
 +.angularjs.org
@@ -2444,6 +2443,7 @@
 +.bbc.co
 +.bbc.com
 +.bbc.mp-pxcdn.com
++.bbc.pdn.tritondigital.com
 +.bbcchinese.com
 +.bbchat.tv
 +.bbcpersian.com
@@ -5194,7 +5194,6 @@
 +.daumpcbang.com
 +.david-kilgour.com
 +.david-laserscanner.com
-+.daw000webhost.com
 +.dawangidc.com
 +.dawngate.com
 +.dawngatechronicles.com
@@ -11983,6 +11982,7 @@
 +.lotsawahouse.org
 +.lotte
 +.lotuslight.org.hk
++.louisvuitton.com
 +.love4porn.com
 +.love6.tv
 +.love7.xyz
