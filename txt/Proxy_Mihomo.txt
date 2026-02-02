@@ -3656,6 +3656,7 @@
 +.brutaltgp.com
 +.bs
 +.bs-adreview.com
++.bsappapi.com
 +.bsersd.xyz
 +.bsky.network
 +.bsky.social
@@ -7981,6 +7982,7 @@
 +.full:ocsp.microsoft.com
 +.full:oneocsp.microsoft.com
 +.full:ood.opsource.net
++.full:packages.microsoft.com
 +.full:play-edge.itunes.apple.com
 +.full:practivate.adobe
 +.full:practivate.adobe.ipp
@@ -18341,6 +18343,7 @@
 +.taiav.com
 +.tail-f.com
 +.tailf.com
++.tails.net
 +.tailscale.com
 +.tailwindtraders.com
 +.taipei
