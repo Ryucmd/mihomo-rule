@@ -6030,7 +6030,6 @@
 +.e-gold.com
 +.e-hentai.org
 +.e-hentaidb.com
-+.e-traderland.neam.com
 +.e-traderland.net
 +.e-tugra.com
 +.e-zone.com.hk
@@ -13564,6 +13563,7 @@
 +.na-toronto.myqcloud.com
 +.na-toronto.tencentcos.com
 +.naacoalition.org
++.naacoalition.org000webhost.com
 +.naaktevrouwenporno.com
 +.nab
 +.nabble.com
@@ -16759,6 +16759,7 @@
 +.salebeatslasteststyle4you.com
 +.saleblackfridaydrebeats.com
 +.salecheaphandbags.com
++.salesforce-setup.com
 +.salesforce.com
 +.salesforce.org
 +.salesforceiq.com
