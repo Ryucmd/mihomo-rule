@@ -341,7 +341,6 @@
 +.4tube.com
 +.4tubefree.net
 +.4u4c.com
-+.5+.aaa
 +.5-d.com
 +.500caocao.com
 +.500px.com
@@ -581,6 +580,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -998,6 +998,7 @@
 +.aka-ai.com
 +.aka-ai.net
 +.akacrypto.net
++.akadailynews.com
 +.akadeem.net
 +.akademiye.org
 +.akadns.com
@@ -1858,6 +1859,7 @@
 +.asproex.com
 +.asproexapi.com
 +.asredas.com
++.ass.org
 +.ass4all.com
 +.assembla.com
 +.assemblesystems.com
@@ -2376,6 +2378,7 @@
 +.bangkokbangers.com
 +.bangkokpost.com
 +.bangkokstreetwhores.com
++.bangtickeraction.com
 +.bangumi.tv
 +.bangyoulater.com
 +.bangyourwife.com
@@ -4371,6 +4374,7 @@
 +.chinese-memorial.org
 +.chinese-porn-videos.com
 +.chinese-xnxx.com
++.chinese000webhost.com
 +.chinesedaily.com
 +.chinesedailynews.com
 +.chinesedemocracy.com
@@ -4687,6 +4691,8 @@
 +.codecademy.com
 +.codeforces.com
 +.codeish.co
++.codeium.com
++.codeiumdata.com
 +.codeplex.com
 +.codeskulptor.org
 +.codespot.com
@@ -8023,6 +8029,7 @@
 +.full:uts-api.itunes.apple.com
 +.full:vsmarketplacebadge.apphb.com
 +.full:widgets.stripst.com
++.full:yandex-pogoda.static-storage.net
 +.fulldesisex.com
 +.fullerconsideration.com
 +.fullfuli.com
@@ -8112,6 +8119,7 @@
 +.gacebook.com
 +.gaeproxy.com
 +.gaforum.org
++.gaforummainewzealand.com
 +.gagaoolala.com
 +.gaito.xyz
 +.gal
@@ -9869,6 +9877,7 @@
 +.hughes
 +.huhaitai.com
 +.huhamhire.com
++.huhamhoass.com
 +.huhangfei.com
 +.huiav.com
 +.huj-pizda.com
@@ -10635,6 +10644,7 @@
 +.iranianboobs.com
 +.iransextv.com
 +.iranx.net
++.ire.com
 +.iredmail.org
 +.irish
 +.iromod91.info
@@ -11461,6 +11471,7 @@
 +.kodi.wiki
 +.kodingen.com
 +.koeln
++.kokpost.com
 +.komatsu
 +.kompoz.com
 +.kompoz2.com
@@ -11578,10 +11589,8 @@
 +.lanmdh.net
 +.lanniser-ylo.shop
 +.lanternal.com
-+.lanterncn.cn
 +.lantosfoundation.org
 +.lanxess
-+.laod.cn
 +.laogai.org
 +.laogairesearch.org
 +.laomiu.com
@@ -11660,7 +11669,6 @@
 +.lecoin.cc
 +.lede-project.org
 +.ledger.com
-+.leeao.com.cn
 +.leecountytimes.com
 +.leetcode.com
 +.lefora.com
@@ -16980,6 +16988,7 @@
 +.sego8.cc
 +.sego8.co
 +.sego8.xyz
++.sehuatang.# NAME: Proxy
 +.sehuatang.net
 +.sehuatang.org
 +.seiroganmania.com
@@ -18067,6 +18076,7 @@
 +.stockholm
 +.stocking-tease.com
 +.stockingfetishvideo.com
++.stodeskuniversity.com
 +.stonefoxlingerie.com
 +.stonefoxproductions.com
 +.stoporganharvesting.org
@@ -20653,6 +20663,8 @@
 +.windowsuem.com
 +.windowsupdate.com
 +.windscribe.com
++.windsurf.build
++.windsurf.com
 +.windy.com
 +.wine
 +.wingamestore.com
@@ -21499,6 +21511,7 @@
 +.yandex
 +.yandex-bank.net
 +.yandex-images.clstorage.net
++.yandex-pogoda.static-storage.net
 +.yandex.aero
 +.yandex.cloud
 +.yandex.com
