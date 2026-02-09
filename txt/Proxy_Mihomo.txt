@@ -225,7 +225,10 @@
 +.2gayboys.com
 +.2k.com
 +.2kcoretech.online
++.2kct.onl
 +.2kgames.com
++.2ksports.com
++.2kweb.online
 +.2lib.org
 +.2lipstube.com
 +.2mdn-cn.net
@@ -656,6 +659,7 @@
 +.acer-group.com
 +.acer.com
 +.aceros-de-hispania.com
++.acesofthunder.net
 +.acevpn.com
 +.acg.rip
 +.acg18.me
@@ -689,6 +693,7 @@
 +.acs.org
 +.actalis.com
 +.actfortibet.org
++.activematter.game
 +.activeteachonline.com
 +.activpn.com
 +.ad
@@ -998,7 +1003,6 @@
 +.aka-ai.com
 +.aka-ai.net
 +.akacrypto.net
-+.akadailynews.com
 +.akadeem.net
 +.akademiye.org
 +.akadns.com
@@ -1786,6 +1790,7 @@
 +.artstation.com
 +.artstationmedia.com
 +.artstor.org
++.artstorm.com
 +.artsy.net
 +.arxiv.org
 +.as
@@ -1859,7 +1864,6 @@
 +.asproex.com
 +.asproexapi.com
 +.asredas.com
-+.ass.org
 +.ass4all.com
 +.assembla.com
 +.assemblesystems.com
@@ -2378,7 +2382,6 @@
 +.bangkokbangers.com
 +.bangkokpost.com
 +.bangkokstreetwhores.com
-+.bangtickeraction.com
 +.bangumi.tv
 +.bangyoulater.com
 +.bangyourwife.com
@@ -4374,7 +4377,6 @@
 +.chinese-memorial.org
 +.chinese-porn-videos.com
 +.chinese-xnxx.com
-+.chinese000webhost.com
 +.chinesedaily.com
 +.chinesedailynews.com
 +.chinesedemocracy.com
@@ -4942,6 +4944,7 @@
 +.crossborderexpansion.com
 +.crossfitfirestone.com
 +.crossmediapanel.com
++.crossout.net
 +.crossthewall.net
 +.crossvpn.net
 +.crosswalk-project.com
@@ -4953,6 +4956,7 @@
 +.crr.com
 +.crrev.com
 +.crs
++.crsed.net
 +.crtsgfb1.top
 +.crucial.com
 +.cruel-furies.com
@@ -4988,6 +4992,7 @@
 +.ctyun.online
 +.cu
 +.cubicmotion.com
++.cubicodyssey.game
 +.cuckfilmswifefuck.com
 +.cuckold69.com
 +.cuckoldfuck.com
@@ -6424,6 +6429,7 @@
 +.englishpen.org
 +.enjoyasianporn.com
 +.enjoyfuck.com
++.enlisted.net
 +.enpirion.com
 +.enspireformula.com
 +.entensity.net
@@ -8119,8 +8125,9 @@
 +.gacebook.com
 +.gaeproxy.com
 +.gaforum.org
-+.gaforummainewzealand.com
 +.gagaoolala.com
++.gaijin.net
++.gaijinent.com
 +.gaito.xyz
 +.gal
 +.galaxyappstore.com
@@ -9877,7 +9884,6 @@
 +.hughes
 +.huhaitai.com
 +.huhamhire.com
-+.huhamhoass.com
 +.huhangfei.com
 +.huiav.com
 +.huj-pizda.com
@@ -10644,7 +10650,6 @@
 +.iranianboobs.com
 +.iransextv.com
 +.iranx.net
-+.ire.com
 +.iredmail.org
 +.irish
 +.iromod91.info
@@ -11471,7 +11476,6 @@
 +.kodi.wiki
 +.kodingen.com
 +.koeln
-+.kokpost.com
 +.komatsu
 +.kompoz.com
 +.kompoz2.com
@@ -12980,6 +12984,7 @@
 +.modelsfreecams.com
 +.modeltv.com
 +.modernchinastudies.org
++.modernwarships.com
 +.modmyi.com
 +.modrinth.com
 +.moe
@@ -16590,6 +16595,7 @@
 +.rocksdb.org
 +.rocksextube.com
 +.rockstargames.com
++.rockstarnorth.com
 +.roco.qq.com
 +.rogers
 +.rojo.com
@@ -16988,7 +16994,6 @@
 +.sego8.cc
 +.sego8.co
 +.sego8.xyz
-+.sehuatang.# NAME: Proxy
 +.sehuatang.net
 +.sehuatang.org
 +.seiroganmania.com
@@ -17966,6 +17971,7 @@
 +.standwithhk.org
 +.staples
 +.star-brasil.com
++.star-conflict.com
 +.star-latam.com
 +.starbucks-stars.com
 +.starbucks.com
@@ -18076,7 +18082,6 @@
 +.stockholm
 +.stocking-tease.com
 +.stockingfetishvideo.com
-+.stodeskuniversity.com
 +.stonefoxlingerie.com
 +.stonefoxproductions.com
 +.stoporganharvesting.org
@@ -20364,6 +20369,7 @@
 +.warnerbrosgames.com
 +.warp.plus
 +.warroom.org
++.warthunder.com
 +.wasdj.com
 +.waselpro.com
 +.washa.tv
@@ -20815,6 +20821,7 @@
 +.wtc
 +.wtf
 +.wtfpeople.com
++.wtmobile.com
 +.wto.org
 +.wuerkaixi.com
 +.wufafangwen.com
@@ -21986,6 +21993,9 @@
 +.zwtvusa.com
 +.zynaima.com
 +.zynamics.com
++.zynga.com
++.zyngaplayersupport.com
++.zyngapoker.com
 +.zyns.com
 +.zyxel.com
 +.zyzc9.com
