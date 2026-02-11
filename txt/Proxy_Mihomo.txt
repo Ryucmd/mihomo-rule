@@ -1964,8 +1964,6 @@
 +.ausbeatsbydrdre.com
 +.auspost
 +.auth0.com
-+.authorizeddns.net
-+.authorizeddns.org
 +.authorxml.com
 +.authy.com
 +.autocad-schulungen.com
@@ -4657,7 +4655,6 @@
 +.cncrivals.com
 +.cnd.org
 +.cnet.com
-+.cnex.org.cn
 +.cnineu.com
 +.cnix-gov-cn.com
 +.cnn.com
@@ -5239,10 +5236,6 @@
 +.ddhw.info
 +.dditsadn.com
 +.dditscdn.com
-+.ddns.info
-+.ddns.mobi
-+.ddns.name
-+.ddns.net
 +.de
 +.de-sci.org
 +.de1lib.org
@@ -6284,7 +6277,6 @@
 +.edicypages.com
 +.edisebay.com
 +.editorx.com
-+.edmontonchina.cn
 +.edmontonservice.com
 +.edninfo.com
 +.edns.biz
@@ -7753,8 +7745,6 @@
 +.freechinaforum.org
 +.freechinaweibo.com
 +.freecodecamp.org
-+.freeddns.com
-+.freeddns.org
 +.freedirecttvspecial.com
 +.freedl.org
 +.freedomchina.info
@@ -8653,6 +8643,7 @@
 +.google.com
 +.google.com.co
 +.google.com.hk
++.google.hk
 +.google.me
 +.google.net
 +.google.org
@@ -9596,7 +9587,6 @@
 +.hotcrp.com
 +.hotcuckoldwife.com
 +.hotcumporn.com
-+.hotels.cn
 +.hotescortdusseldorf.com
 +.hotfiesta.com
 +.hotfucktube.com
@@ -11441,7 +11431,6 @@
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
 +.kismia.com
-+.kissbbao.cn
 +.kisscos.net
 +.kissjav.com
 +.kiwi
@@ -13409,7 +13398,6 @@
 +.mycould.com
 +.mydad.info
 +.mydati.com
-+.myddns.com
 +.mydirectgroove.com
 +.mydirectvchannels.com
 +.mydirtyhobby.com
@@ -14623,7 +14611,6 @@
 +.openweathermap.org
 +.openwebster.com
 +.openwrt.org
-+.openwrt.org.cn
 +.opera-mini.net
 +.opera.com
 +.opinionjournal.com
@@ -15923,6 +15910,7 @@
 +.projectvasari.com
 +.projectvoyeur.com
 +.promonsterbeatsbydre.com
++.prompthero.com
 +.pron.guru
 +.propertysex.com
 +.proporn.com
@@ -16002,6 +15990,7 @@
 +.pugpig-dev.com
 +.pugpig-stage.com
 +.pugpig.com
++.pullfolio.co
 +.pullfolio.com
 +.pullstring.net
 +.punishbang.com
@@ -16107,7 +16096,6 @@
 +.qingenporn.net
 +.qingse.one
 +.qise100.com
-+.qixianglu.cn
 +.qkjuyet.com
 +.qkshare.com
 +.qmap.pub
@@ -18822,7 +18810,6 @@
 +.tianlawoffice.com
 +.tiantang.today
 +.tiantibooks.org
-+.tianyantong.org.cn
 +.tianzhu.org
 +.tiava.com
 +.tiava1.com
@@ -19773,7 +19760,6 @@
 +.van001.com
 +.van698.com
 +.vana
-+.vanemu.cn
 +.vanguard
 +.vanilla-jp.com
 +.vanish.com.co
@@ -20611,7 +20597,6 @@
 +.wiivc.net
 +.wikaba.com
 +.wikawika.xyz
-+.wiki.keso.cn
 +.wiki.kfd.me
 +.wikia.com
 +.wikia.nocookie.net
@@ -21891,7 +21876,6 @@
 +.zhreader.com
 +.zhtv01.com
 +.zhuangbi.me
-+.zhuanxing.cn
 +.zhuatieba.com
 +.zhuichaguoji.org
 +.zhujiget.com

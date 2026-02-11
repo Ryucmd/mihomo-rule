@@ -28366,6 +28366,7 @@
 +.ddcdn.com
 +.ddcheshi.com
 +.ddcits.com
++.ddcorp.net
 +.ddcsjw.com
 +.ddcwl.com
 +.ddd-china.com
@@ -28382,6 +28383,7 @@
 +.ddedush.com
 +.ddfans.com
 +.ddfchina.com
++.ddfresh.net
 +.ddfzb.com
 +.ddgjjj.com
 +.ddguanhuai.com
@@ -28405,7 +28407,9 @@
 +.ddky.com
 +.ddle.cc
 +.ddlequ.com
++.ddmaicai.net
 +.ddmap.com
++.ddmc.mobi
 +.ddmer.com
 +.ddmogo.com
 +.ddnddn.com
@@ -52188,6 +52192,7 @@
 +.imags-google.com
 +.imahui.com
 +.imaibo.net
++.imaicai.mobi
 +.imaijia.com
 +.imaitu.com
 +.imalljoy.com
@@ -112987,6 +112992,7 @@
 +.zhipianbang.vip
 +.zhipin.com
 +.zhipingke.com
++.zhipucn.com
 +.zhipuzi.com
 +.zhiqi.info
 +.zhiqiang.org
