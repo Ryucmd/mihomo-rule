@@ -1,3 +1,4 @@
++..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -2461,7 +2462,6 @@
 +.bbqm1.xyz
 +.bbs-tw.com
 +.bbs.boingboing.net
-+.bbs.sina.com
 +.bbs.tuitui.info
 +.bbsdigest.com
 +.bbsfeed.com
@@ -5124,7 +5124,6 @@
 +.dailymail.com
 +.dailymailonline.com
 +.dailymotion.com
-+.dailynews.sina.com
 +.dailyporn.club
 +.dailysabah.com
 +.daindianporn.com
@@ -9484,7 +9483,6 @@
 +.home-sex-tapes.com
 +.home-song.com
 +.home.saxo
-+.home.sina.com
 +.homealonemilfs.com
 +.homebox.com
 +.homeboxoffice.com
@@ -9792,7 +9790,6 @@
 +.hrichina.org
 +.hrntt.org
 +.hrsaz.com
-+.hrtsea.com
 +.hrw.org
 +.hrweb.org
 +.hsbc
@@ -9874,6 +9871,7 @@
 +.hughes
 +.huhaitai.com
 +.huhamhire.com
++.huhamhirelicefiles.org
 +.huhangfei.com
 +.huiav.com
 +.huj-pizda.com
