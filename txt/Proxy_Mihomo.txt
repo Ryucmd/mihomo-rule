@@ -159,7 +159,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -583,7 +582,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -621,6 +619,7 @@
 +.ablmm.com
 +.ablwang.com
 +.aboluowang.com
++.aboluplesurveys.com
 +.about.me
 +.aboutamazon.com
 +.aboutfacebook.com
@@ -2040,6 +2039,7 @@
 +.autodeskfashionstyler.com
 +.autodeskforgames.com
 +.autodeskforge.com
++.autodeskformest
 +.autodeskformit.com
 +.autodeskfoundation.com
 +.autodeskfusionlifecycle.com
@@ -5576,7 +5576,7 @@
 +.disneymusicpromotion.com
 +.disneynewseries.com
 +.disneynow.com
-+.disneypeo000webhost.com
++.disneypeo1password.drift.click
 +.disneypeoplesurveys.com
 +.disneyplus.bn5x.net
 +.disneyplus.com
@@ -8787,6 +8787,7 @@
 +.grapheneos.org
 +.grapheneos.social
 +.graphql.org
++.grapowang.com
 +.gravatar.com
 +.gravitytank.com
 +.greasespot.net
@@ -10699,6 +10700,7 @@
 +.isuntv.com
 +.isupportuyghurs.org
 +.it
++.it.com
 +.ita-do.com
 +.itaboo.info
 +.itaeromanga.com
@@ -12071,6 +12073,7 @@
 +.luke54.com
 +.luke54.org
 +.lululu.one
++.lunchwi+.aaa
 +.lunchwithpype.com
 +.lundbeck
 +.luoli.info
@@ -15333,7 +15336,6 @@
 +.pleasurebabe.com
 +.pleasuregirl.net
 +.pleasuremore.com
-+.plesurveys.com
 +.plexvpn.pro
 +.plixi.com
 +.plm.org.hk
@@ -18790,6 +18792,7 @@
 +.thotbook.tv
 +.thottok.com
 +.thotvids.com
++.thpype.com
 +.threadingbuildingblocks.org
 +.threadreaderapp.com
 +.threads.com
@@ -18997,6 +19000,7 @@
 +.tomp3.cc
 +.tomsguide.com
 +.tomshardware.com
++.ton.org
 +.tonec.com
 +.tonicmovies.com
 +.tonyyan.net
@@ -20322,6 +20326,7 @@
 +.wallpapercasa.com
 +.wallproxy.com
 +.wallsttv.com
++.wallzhihu.com
 +.walmart
 +.walmart-content.com
 +.walmart.com
