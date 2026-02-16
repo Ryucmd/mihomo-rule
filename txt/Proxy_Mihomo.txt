@@ -159,6 +159,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -222,6 +223,7 @@
 +.2drdrebeats.com
 +.2du5.com
 +.2gayboys.com
++.2gis.com
 +.2k.com
 +.2kcoretech.online
 +.2kct.onl
@@ -330,6 +332,7 @@
 +.4ksex.me
 +.4kup.net
 +.4mydomain.com
++.4mylongtailvideo.com
 +.4myminicard.com
 +.4pcdn.org
 +.4pig.com
@@ -597,6 +600,7 @@
 +.aave.com
 +.aavs.xyz
 +.abb
++.abb.travel
 +.abbott
 +.abbvie
 +.abbywintersfree.com
@@ -613,13 +617,13 @@
 +.abellalist.com
 +.abema-tv.com
 +.abema.tv
++.abening.com
 +.abgsp1.buzz
 +.abigass.com
 +.able
 +.ablmm.com
 +.ablwang.com
 +.aboluowang.com
-+.aboluplesurveys.com
 +.about.me
 +.aboutamazon.com
 +.aboutfacebook.com
@@ -643,6 +647,7 @@
 +.acces-vod.com
 +.accessfacebookfromschool.com
 +.accim.org
++.accomable.com
 +.account-paypal.info
 +.account-paypal.net
 +.account-paypal.org
@@ -956,6 +961,14 @@
 +.airasia.com
 +.airav.cc
 +.airav.wiki
++.airbnb.cn
++.airbnb.com
++.airbnb.com.co
++.airbnb.com.hk
++.airbnb.me
++.airbnb.org
++.airbnb.tools
++.airbnb.travel
 +.airbus
 +.airconsole.com
 +.aircrack-ng.org
@@ -1256,6 +1269,7 @@
 +.amazon-launchpad.com
 +.amazon.co
 +.amazon.com
++.amazon.coom
 +.amazon.jobs
 +.amazon.red
 +.amazonalexavoxcon.com
@@ -2039,7 +2053,6 @@
 +.autodeskfashionstyler.com
 +.autodeskforgames.com
 +.autodeskforge.com
-+.autodeskformest
 +.autodeskformit.com
 +.autodeskfoundation.com
 +.autodeskfusionlifecycle.com
@@ -5576,7 +5589,6 @@
 +.disneymusicpromotion.com
 +.disneynewseries.com
 +.disneynow.com
-+.disneypeo1password.drift.click
 +.disneypeoplesurveys.com
 +.disneyplus.bn5x.net
 +.disneyplus.com
@@ -8787,7 +8799,6 @@
 +.grapheneos.org
 +.grapheneos.social
 +.graphql.org
-+.grapowang.com
 +.gravatar.com
 +.gravitytank.com
 +.greasespot.net
@@ -10700,7 +10711,6 @@
 +.isuntv.com
 +.isupportuyghurs.org
 +.it
-+.it.com
 +.ita-do.com
 +.itaboo.info
 +.itaeromanga.com
@@ -12073,7 +12083,6 @@
 +.luke54.com
 +.luke54.org
 +.lululu.one
-+.lunchwi+.aaa
 +.lunchwithpype.com
 +.lundbeck
 +.luoli.info
@@ -13312,6 +13321,7 @@
 +.muncloud.dog
 +.muramura.tv
 +.muryouav.net
++.muscache.com
 +.muscdn.com
 +.musclegirlflix.com
 +.mushroomtrack.com
@@ -14687,9 +14697,9 @@
 +.oss-ap-northeast-1.aliyuncs.com
 +.oss-ap-northeast-2.aliyuncs.com
 +.oss-ap-south-1.aliyuncs.com
++.oss-ap-southeast+.aaa
 +.oss-ap-southeast-1.aliyuncs.com
 +.oss-ap-southeast-2.aliyuncs.com
-+.oss-ap-southeast-3.aliyuncs.com
 +.oss-ap-southeast-5.aliyuncs.com
 +.oss-ap-southeast-6.aliyuncs.com
 +.oss-ap-southeast-7.aliyuncs.com
@@ -14944,6 +14954,7 @@
 +.paypal-knowledge.com
 +.paypal-labs.com
 +.paypal-latam.com
++.paypal-learminicard.com
 +.paypal-learning.com
 +.paypal-login.com
 +.paypal-login.info
@@ -18792,7 +18803,6 @@
 +.thotbook.tv
 +.thottok.com
 +.thotvids.com
-+.thpype.com
 +.threadingbuildingblocks.org
 +.threadreaderapp.com
 +.threads.com
@@ -19770,6 +19780,7 @@
 +.valoryirene.com
 +.valuegb.com
 +.valvesoftware.com
++.vamo.com
 +.van001.com
 +.van698.com
 +.vana
@@ -20320,6 +20331,7 @@
 +.wales
 +.wallet.com
 +.walletconnect.com
++.walletconnect.org
 +.wallhaven.cc
 +.wallmama.com
 +.wallornot.org
@@ -20425,6 +20437,7 @@
 +.web-instagram.net
 +.web.nebula-emby.com
 +.web2project.net
++.web3modal.org
 +.webappfieldguide.com
 +.webbang.net
 +.webcam-teen.net
