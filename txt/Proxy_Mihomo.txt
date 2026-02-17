@@ -332,7 +332,6 @@
 +.4ksex.me
 +.4kup.net
 +.4mydomain.com
-+.4mylongtailvideo.com
 +.4myminicard.com
 +.4pcdn.org
 +.4pig.com
@@ -585,6 +584,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -617,7 +617,6 @@
 +.abellalist.com
 +.abema-tv.com
 +.abema.tv
-+.abening.com
 +.abgsp1.buzz
 +.abigass.com
 +.able
@@ -1269,7 +1268,6 @@
 +.amazon-launchpad.com
 +.amazon.co
 +.amazon.com
-+.amazon.coom
 +.amazon.jobs
 +.amazon.red
 +.amazonalexavoxcon.com
@@ -14697,9 +14695,9 @@
 +.oss-ap-northeast-1.aliyuncs.com
 +.oss-ap-northeast-2.aliyuncs.com
 +.oss-ap-south-1.aliyuncs.com
-+.oss-ap-southeast+.aaa
 +.oss-ap-southeast-1.aliyuncs.com
 +.oss-ap-southeast-2.aliyuncs.com
++.oss-ap-southeast-3.aliyuncs.com
 +.oss-ap-southeast-5.aliyuncs.com
 +.oss-ap-southeast-6.aliyuncs.com
 +.oss-ap-southeast-7.aliyuncs.com
@@ -14954,7 +14952,6 @@
 +.paypal-knowledge.com
 +.paypal-labs.com
 +.paypal-latam.com
-+.paypal-learminicard.com
 +.paypal-learning.com
 +.paypal-login.com
 +.paypal-login.info
