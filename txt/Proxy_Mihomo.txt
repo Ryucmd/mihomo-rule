@@ -115,6 +115,7 @@
 +.18hmanga.com
 +.18insta.com
 +.18j.tv
++.18jav.tv
 +.18jms.com
 +.18mh.co
 +.18mh.me
@@ -585,6 +586,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3171,6 +3173,7 @@
 +.blizzardgearstore.com
 +.blobstore.apple.com
 +.blockbuster
++.blockchain.com
 +.blockcn.com
 +.blockedbyhk.com
 +.blockless.com
@@ -8653,6 +8656,7 @@
 +.google-syndication.com
 +.google.cn
 +.google.co
++.google.cofing.org
 +.google.com
 +.google.com.co
 +.google.com.hk
@@ -9931,6 +9935,7 @@
 +.huluusa.com
 +.humancoexperience.com
 +.humanparty.me
++.humanrightsbrie000webhost.com
 +.humanrightsbriefing.org
 +.humanrightspressawards.org
 +.humblebundle.com
@@ -10844,6 +10849,7 @@
 +.jav-subtitles.com
 +.jav-vr.net
 +.jav.com
++.jav.com.co
 +.jav.dog
 +.jav.gallery
 +.jav.guru
@@ -10959,6 +10965,7 @@
 +.javpush.com
 +.javqd.com
 +.javrank.com
++.javrate.com
 +.javrave.club
 +.javroot.com
 +.javscat.net
@@ -10985,6 +10992,7 @@
 +.javtube.cc
 +.javtube.com
 +.javtube.net
++.javvideoporn.com
 +.javvids.com
 +.javwide.com
 +.javwide.tv
@@ -11744,7 +11752,6 @@
 +.lflinkup.com
 +.lflinkup.net
 +.lflinkup.org
-+.lfpcontent.co+.aaa
 +.lfpcontent.com
 +.lg.com
 +.lgappstv.com
@@ -12581,7 +12588,6 @@
 +.meshmixer.com
 +.meshmixerforum.com
 +.meshrep.com
-+.mesotw.c.rexroth
 +.mesotw.com
 +.messenger.com
 +.messengerdevelopers.com
@@ -12912,6 +12918,7 @@
 +.missav.live
 +.missav.uno
 +.missav.vip
++.missav123.com
 +.misshotgirls.com
 +.misskey-square.net
 +.misskey.always-we-need.games
@@ -14149,6 +14156,7 @@
 +.niziero.info
 +.njactb.org
 +.njav.tv
++.njavtv.com
 +.njpw1972.com
 +.njuice.com
 +.nke6.com
@@ -16533,6 +16541,7 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
++.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -16794,6 +16803,7 @@
 +.saleblackfridaydrebeats.com
 +.salecheaphandbags.com
 +.salesforce-setup.com
++.salesforce-sites.com
 +.salesforce.com
 +.salesforce.org
 +.salesforceiq.com
@@ -17470,6 +17480,7 @@
 +.silverchair-cdn.com
 +.silvergatebank.com
 +.silversluts.com
++.sim
 +.simbolostwitter.com
 +.simcity-buildit.com
 +.simcity.com
@@ -19843,6 +19854,7 @@
 +.velasync.com
 +.velasystems.com
 +.velatest.com
++.velkaerg
 +.velocloud.com
 +.velostrata.com
 +.venbbs.com
@@ -21022,7 +21034,9 @@
 +.xhamster.desi
 +.xhamster18.com
 +.xhamster18.desi
++.xhamster19.com
 +.xhamster2.com
++.xhamster3.com
 +.xhamsterlive.com
 +.xhcdn.com
 +.xhot.pro
