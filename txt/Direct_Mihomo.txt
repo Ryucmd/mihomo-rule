@@ -13430,7 +13430,6 @@
 +.awyerwu.com
 +.awyx.xyz
 +.ax196.com
-+.ax1x.com
 +.ax2nc4.ren
 +.axa123.com
 +.axatp.com
@@ -101037,7 +101036,6 @@
 +.www.amd.com
 +.www.apple.com
 +.www.apple.com.edgekey.net.globalredir.akadns.net
-+.www.bing.com
 +.www.cdnetworks.com
 +.www.cg
 +.www.com.my
@@ -101048,7 +101046,6 @@
 +.www.gov.mo
 +.www.gstatic.com
 +.www.htc.com
-+.www.linkedin.com
 +.www.microsoft.com
 +.www.nike.com
 +.www.pxcc.com
@@ -115148,7 +115145,6 @@
 +.zookingsoft.com
 +.zookparts.com
 +.zoolnasm.com
-+.zoom.us
 +.zoom3g.com
 +.zoomerstudio.com
 +.zoomeye.org

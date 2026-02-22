@@ -1882,6 +1882,7 @@
 +.assembla.com
 +.assemblesystems.com
 +.assesphoto.com
++.assets.nxtrace.org
 +.assetsadobe.com
 +.assimp.org
 +.assistirhentai.com
@@ -8656,7 +8657,6 @@
 +.google-syndication.com
 +.google.cn
 +.google.co
-+.google.cofing.org
 +.google.com
 +.google.com.co
 +.google.com.hk
@@ -9935,7 +9935,6 @@
 +.huluusa.com
 +.humancoexperience.com
 +.humanparty.me
-+.humanrightsbrie000webhost.com
 +.humanrightsbriefing.org
 +.humanrightspressawards.org
 +.humblebundle.com
@@ -13933,7 +13932,6 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
-+.ngenix.net
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -14614,6 +14612,7 @@
 +.openbase.com
 +.opencollective.com
 +.opencreate.org
++.opencritic.com
 +.opendemocracy.net
 +.opendesktop.org
 +.opendn.xyz
@@ -17480,7 +17479,6 @@
 +.silverchair-cdn.com
 +.silvergatebank.com
 +.silversluts.com
-+.sim
 +.simbolostwitter.com
 +.simcity-buildit.com
 +.simcity.com
@@ -19854,7 +19852,6 @@
 +.velasync.com
 +.velasystems.com
 +.velatest.com
-+.velkaerg
 +.velocloud.com
 +.velostrata.com
 +.venbbs.com
