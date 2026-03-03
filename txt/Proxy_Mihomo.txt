@@ -10923,6 +10923,7 @@
 +.javheroine.com
 +.javhihi.com
 +.javhip.com
++.javhub.com
 +.javhub.me
 +.javhub.net
 +.javhuge.com
@@ -10960,6 +10961,7 @@
 +.javpub.me
 +.javpush.com
 +.javqd.com
++.javquick.com
 +.javrank.com
 +.javrate.com
 +.javrave.club
@@ -20882,7 +20884,6 @@
 +.www-paypal.info
 +.www-sms-apple.com
 +.www.destinationurl.com
-+.www.imdb.com
 +.www.msn.com
 +.www.pxcc.com
 +.www1.biz
