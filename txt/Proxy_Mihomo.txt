@@ -1806,6 +1806,7 @@
 +.artstor.org
 +.artstorm.com
 +.artsy.net
++.arweave.org
 +.arxiv.org
 +.as
 +.asacp.org
@@ -5045,6 +5046,7 @@
 +.cup.com.hk
 +.cups.org
 +.curbed.com
++.curetunnel.com
 +.currently.com
 +.currently.net
 +.currenttime.tv
@@ -5421,6 +5423,7 @@
 +.diablo3.com
 +.diabloimmortal.com
 +.diabrowser.com
++.diabrowser.engineering
 +.dialga.com
 +.dialogflow.com
 +.diamantewebcam.com
@@ -9000,6 +9003,7 @@
 +.hardsex8.com
 +.hardsextube.com
 +.hardx.com
++.harp000webhost.com
 +.harperacademic.com
 +.harperapps.com
 +.harpercollins.com
@@ -10819,6 +10823,7 @@
 +.janor6.net
 +.janwongphoto.com
 +.japan-forward.com
++.japan-illgames.com
 +.japan-whores.com
 +.japan18tube.com
 +.japanbeast.com
@@ -17011,6 +17016,7 @@
 +.seemilfporn.com
 +.seemygf.com
 +.seemyporn.com
++.seeracademic.com
 +.seesmic.com
 +.seeurlpcl.com
 +.seevpn.com
@@ -19257,6 +19263,7 @@
 +.tt
 +.tt-rss.org
 +.tt1069.com
++.ttcdn-us.com
 +.tteshop.com
 +.ttlivecdn.com
 +.ttoverseaus.net
@@ -20735,6 +20742,7 @@
 +.wisekey.com.hk
 +.wisevid.com
 +.wish.com
++.wispbyte.com
 +.wistia.com
 +.wistia.net
 +.withgoogle.com
