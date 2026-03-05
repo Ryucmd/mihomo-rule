@@ -5046,7 +5046,6 @@
 +.cup.com.hk
 +.cups.org
 +.curbed.com
-+.curetunnel.com
 +.currently.com
 +.currently.net
 +.currenttime.tv
@@ -9003,7 +9002,6 @@
 +.hardsex8.com
 +.hardsextube.com
 +.hardx.com
-+.harp000webhost.com
 +.harperacademic.com
 +.harperapps.com
 +.harpercollins.com
@@ -11036,6 +11034,7 @@
 +.jerkmatelive.org
 +.jerkofftocelebs.com
 +.jessicaturner.com
++.jetbrains.cloud
 +.jetbrains.com
 +.jetbrains.net
 +.jetbrains.space
@@ -17016,7 +17015,6 @@
 +.seemilfporn.com
 +.seemygf.com
 +.seemyporn.com
-+.seeracademic.com
 +.seesmic.com
 +.seeurlpcl.com
 +.seevpn.com
