@@ -5809,6 +5809,7 @@
 +.dowjones.com
 +.dowjoneson.com
 +.download.com
++.download.dappcdn.com
 +.download.qatp1.net
 +.download.qcpp1.net
 +.download.qpdp1.net
@@ -15363,6 +15364,10 @@
 +.pleasurebabe.com
 +.pleasuregirl.net
 +.pleasuremore.com
++.plex.com
++.plex.services
++.plex.tv
++.plexapp.com
 +.plexvpn.pro
 +.plixi.com
 +.plm.org.hk
