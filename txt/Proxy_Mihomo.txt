@@ -5073,6 +5073,7 @@
 +.cutout.pro
 +.cutscenes.net
 +.cv
++.cve.org
 +.cw
 +.cwcams.com
 +.cws.conviva.com
