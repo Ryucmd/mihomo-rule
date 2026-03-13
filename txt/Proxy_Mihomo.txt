@@ -7267,6 +7267,7 @@
 +.femscat.com
 +.fengzhenghu.com
 +.fengzhenghu.net
++.fengzhengions.com
 +.feook.com
 +.ferabook.com
 +.ferrari
@@ -14950,6 +14951,7 @@
 +.paypal-center.info
 +.paypal-center.net
 +.paypal-center.org
++.paypal-communicat000webhost.com
 +.paypal-communication.com
 +.paypal-communications.com
 +.paypal-communications.net
@@ -18079,6 +18081,7 @@
 +.steam-chat.com
 +.steam.apac.qtlglb.com
 +.steam.cdn.on.net
++.steam.eca.qtlglb.cohu.net
 +.steam.eca.qtlglb.com
 +.steam.naeu.qtlglb.com
 +.steam.ru.qtlglb.com
@@ -19518,6 +19521,7 @@
 +.twnextdigital.com
 +.twoo.com
 +.twporn.net
++.twreport-cadcam.com
 +.twreporter.org
 +.twskype.com
 +.twstar.net
@@ -19580,6 +19584,7 @@
 +.ubnt.com
 +.ubnw.net
 +.ubs
++.ubt498knmf.com
 +.ubuntu.com
 +.ubuntu.net
 +.ubuntuforums.org
@@ -21171,6 +21176,7 @@
 +.xn--d1alf
 +.xn--d4ty0ojsqzfd.com
 +.xn--e1a4c
++.xn--er.org
 +.xn--fiqs8sxootzz.xn--hxt814e
 +.xn--flw351e
 +.xn--flw351e.com
