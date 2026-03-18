@@ -586,7 +586,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1609,6 +1608,7 @@
 +.appleappstore.tv
 +.appleaustralia.com
 +.applebk.net
++.applec+.aaa
 +.applecarbon.com
 +.applecard.tv
 +.applecare.cc
@@ -14531,6 +14531,7 @@
 +.omobi.cc
 +.omoplanet.com
 +.omorashi.org
++.omputer.com
 +.omscr.com
 +.omtrdc.net
 +.on.cc
