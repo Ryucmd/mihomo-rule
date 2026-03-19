@@ -586,6 +586,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1204,6 +1205,7 @@
 +.alwaysdata.net
 +.alwaysvpn.com
 +.am
++.am000webhost.com
 +.am730.com.hk
 +.amaaozn.com
 +.amabitch.com
@@ -1608,7 +1610,6 @@
 +.appleappstore.tv
 +.appleaustralia.com
 +.applebk.net
-+.applec+.aaa
 +.applecarbon.com
 +.applecard.tv
 +.applecare.cc
@@ -5009,6 +5010,7 @@
 +.cu
 +.cubicmotion.com
 +.cubicodyssey.game
++.cuceoptimize-cn.com
 +.cuckfilmswifefuck.com
 +.cuckold69.com
 +.cuckoldfuck.com
@@ -8659,6 +8661,7 @@
 +.googel.com
 +.googil.com
 +.googl.com
++.googlbmwoftulsa.com
 +.google
 +.google-access.net
 +.google-analytics-cn.com
@@ -14531,7 +14534,6 @@
 +.omobi.cc
 +.omoplanet.com
 +.omorashi.org
-+.omputer.com
 +.omscr.com
 +.omtrdc.net
 +.on.cc
@@ -16604,6 +16606,7 @@
 +.rjgsp1.buzz
 +.rk.com
 +.rlczdo.xyz
++.rld.com
 +.rlwlw.com
 +.rm2029.com
 +.rmjdw.com
@@ -18968,6 +18971,9 @@
 +.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
 +.tiktokv.com
++.tilda.cc
++.tildaapi.com
++.tildacdn.com
 +.tiltbrush.com
 +.timdir.com
 +.time.com
@@ -20787,6 +20793,7 @@
 +.wixstatic.com
 +.wizcrafts.net
 +.wjbk.org
++.wkwimp.com
 +.wldfnjh.com
 +.wm18s.buzz
 +.wmcloud.org
