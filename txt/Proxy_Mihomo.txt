@@ -1205,7 +1205,6 @@
 +.alwaysdata.net
 +.alwaysvpn.com
 +.am
-+.am000webhost.com
 +.am730.com.hk
 +.amaaozn.com
 +.amabitch.com
@@ -2799,6 +2798,7 @@
 +.beeg.rest
 +.beegfree.com
 +.beejp.net
++.beeline.tv
 +.beepool.com
 +.beepool.org
 +.beevpn.com
@@ -5010,7 +5010,6 @@
 +.cu
 +.cubicmotion.com
 +.cubicodyssey.game
-+.cuceoptimize-cn.com
 +.cuckfilmswifefuck.com
 +.cuckold69.com
 +.cuckoldfuck.com
@@ -8661,7 +8660,6 @@
 +.googel.com
 +.googil.com
 +.googl.com
-+.googlbmwoftulsa.com
 +.google
 +.google-access.net
 +.google-analytics-cn.com
@@ -14486,11 +14484,13 @@
 +.oizoblog.com
 +.okaapps.com
 +.okayfreedom.com
++.okcoin.com
 +.okex.com
 +.okinawa
 +.okkisokuho.com
 +.okko.sport
 +.okko.tv
++.oklink.com
 +.okpool.me
 +.okx-dns.com
 +.okx-dns1.com
@@ -16606,7 +16606,6 @@
 +.rjgsp1.buzz
 +.rk.com
 +.rlczdo.xyz
-+.rld.com
 +.rlwlw.com
 +.rm2029.com
 +.rmjdw.com
@@ -20793,7 +20792,6 @@
 +.wixstatic.com
 +.wizcrafts.net
 +.wjbk.org
-+.wkwimp.com
 +.wldfnjh.com
 +.wm18s.buzz
 +.wmcloud.org
