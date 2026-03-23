@@ -1670,7 +1670,6 @@
 +.appleone.community
 +.appleone.film
 +.appleone.guide
-+.appleone.hoom
 +.appleone.host
 +.appleone.space
 +.appleone.tech
@@ -2752,7 +2751,6 @@
 +.beatsinsingapore.com
 +.beatsireland.net
 +.beatsjoy.com
-+.beatslmonastery.org
 +.beatsmonstersales.com
 +.beatsmusic.com
 +.beatsmusic.wang
@@ -6585,7 +6583,6 @@
 +.esbeatsbydrebuy.com
 +.escandinavia-arg.com
 +.escapefromtarkov.com
-+.escapital.com
 +.escort.guide
 +.escort24h.net
 +.escortamsterdam1.com
@@ -8879,7 +8876,6 @@
 +.guancha.org
 +.guaneryu.com
 +.guangming.org
-+.guangnianvpn.c000webhost.com
 +.guangnianvpn.com
 +.guaranitermal.com
 +.guardarian.com
@@ -13653,7 +13649,6 @@
 +.namethatpornad.com
 +.namgyal.org
 +.namgyalmonastery.org
-+.namgyast
 +.namsisi.com
 +.namu.wiki
 +.nan-net.com
@@ -20636,7 +20631,6 @@
 +.whispersystems.org
 +.whitexxxtube.com
 +.who.int
-+.whodns.bydreforstore.com
 +.whodns.xyz
 +.whoer.net
 +.wholecitiesfoundation.org
