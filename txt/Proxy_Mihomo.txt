@@ -587,7 +587,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2423,6 +2422,7 @@
 +.barfuck.com
 +.barium-enema.com
 +.barkadahansasmartone.com
++.barr+.aaa
 +.barrons-advisor.com
 +.barrons-conferences.com
 +.barrons.com
@@ -14656,6 +14656,7 @@
 +.onmypc.info
 +.onmypc.net
 +.onmypc.org
++.ons.com
 +.onsalekey.com
 +.onsaletrend.com
 +.onstream.cc
