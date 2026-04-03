@@ -2422,7 +2422,6 @@
 +.barfuck.com
 +.barium-enema.com
 +.barkadahansasmartone.com
-+.barr+.aaa
 +.barrons-advisor.com
 +.barrons-conferences.com
 +.barrons.com
@@ -4220,6 +4219,7 @@
 +.cgdepot.org
 +.cgkate.jinvod.com
 +.ch
++.cha+.aaa
 +.championshipseriesleague.com
 +.chanel
 +.change.org
@@ -13989,6 +13989,7 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
++.ngeip.name
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -14656,7 +14657,6 @@
 +.onmypc.info
 +.onmypc.net
 +.onmypc.org
-+.ons.com
 +.onsalekey.com
 +.onsaletrend.com
 +.onstream.cc
