@@ -587,6 +587,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2115,6 +2116,7 @@
 +.autodeskworkshop.com
 +.autodeskworkshop.net
 +.autodraw.com
++.autoesporte.com
 +.automaton-media.com
 +.automotive-cadcam.com
 +.autosketch.com
@@ -4155,6 +4157,7 @@
 +.cdnpure.com
 +.cdnst.net
 +.cdnuc.vip
++.cdnvideohub.com
 +.cdnxxx-proxy.co
 +.cdnxxx-proxy.xyz
 +.cdp1989.org
@@ -4219,7 +4222,6 @@
 +.cgdepot.org
 +.cgkate.jinvod.com
 +.ch
-+.cha+.aaa
 +.championshipseriesleague.com
 +.chanel
 +.change.org
@@ -8549,6 +8551,8 @@
 +.globalvoicesonline.org
 +.globalvpn.net
 +.globo
++.globo.com
++.globoplay.com
 +.glock.com
 +.gloporn.com
 +.gloryhole.com
@@ -8885,6 +8889,7 @@
 +.gscanada.info
 +.gsccdn.com
 +.gsearch.media
++.gshow.com
 +.gstatic-cn.com
 +.gstatic.com
 +.gsuite.com
@@ -13989,7 +13994,6 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
-+.ngeip.name
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -15191,6 +15195,7 @@
 +.peekvids.com
 +.peepholecam.com
 +.peerj.com
++.pegn.com
 +.peing.net
 +.pejyyah.com
 +.pekingduck.org
@@ -16611,6 +16616,8 @@
 +.reutersagency.cn
 +.reutersmedia.net
 +.revenue-performance-management.com
++.revistaepoca.com
++.revistapegn.com
 +.revit.com
 +.revitcc.com
 +.revitsucks.net
@@ -18614,6 +18621,7 @@
 +.techspot.com
 +.techstreet.com
 +.techtimes.com
++.techtudo.com
 +.techviz.net
 +.teco-hk.org
 +.teco-mo.org
@@ -19716,6 +19724,7 @@
 +.ulyssesapp.com
 +.umagazine.com.hk
 +.umbrella.com
++.umsoplaneta.com
 +.un.org
 +.unblock-us.com
 +.unblock.cn.com
@@ -19905,6 +19914,7 @@
 +.vagrantcloud.com
 +.vagrantup.com
 +.valeursactuelles.com
++.valorinveste.com
 +.valoryirene.com
 +.value-domain.com
 +.value-server.com
