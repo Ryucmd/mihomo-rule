@@ -11737,6 +11737,7 @@
 +.aimoeart.com
 +.aimoge.com
 +.aimoneshoes.com
++.aimoon.com
 +.aimsen.com
 +.aimu-app.com
 +.ainas.cc
@@ -11807,6 +11808,7 @@
 +.air-world.com
 +.air.cc
 +.airacm.com
++.airasia.com
 +.airbft.com
 +.airboo.com
 +.airchangan.com
@@ -16603,6 +16605,7 @@
 +.bianjiqi.net
 +.bianjiyi.com
 +.bianju.me
++.bianlei.com
 +.bianlifeng.com
 +.bianlun.net
 +.bianmachaxun.com
@@ -18936,6 +18939,7 @@
 +.busnc.com
 +.bustoprint.com
 +.bustruckexpo.com
++.busytrade.com
 +.but7.com
 +.butair.com
 +.butao.com
@@ -23812,6 +23816,7 @@
 +.chuishen.xyz
 +.chuixue.com
 +.chuiyue.com
++.chuizi.net
 +.chujian.xyz
 +.chujing-electric.com
 +.chujingapp.com
@@ -24956,6 +24961,7 @@
 +.cnaaa8.com
 +.cnaaa9.com
 +.cnaai.com
++.cnabc.com
 +.cnaca.org
 +.cnacg.cc
 +.cnacgc.com
@@ -28293,6 +28299,7 @@
 +.cyzzzz.com
 +.cz-toshiba.com
 +.cz-yk.com
++.cz.cc
 +.cz121.com
 +.cz128.com
 +.cz88.net
@@ -28737,6 +28744,7 @@
 +.dailiantong.com
 +.dailianzj.com
 +.dailiba.com
++.dailidaili.com
 +.dailijizhang.cc
 +.dailiweishang.com
 +.dailugou.com
@@ -32241,6 +32249,7 @@
 +.duanxindao.com
 +.duanzaixian.vip
 +.duanzao001.com
++.duanzhihu.com
 +.duanzikuaizui.com
 +.duanziya.com
 +.duapp-preview.com
@@ -32484,6 +32493,7 @@
 +.dup2.org
 +.dupingzu.com
 +.duplo-shandong.com
++.dupola.net
 +.dur9.com
 +.duread8.com
 +.durkcell.com
@@ -38447,9 +38457,11 @@
 +.galaxycarepair.com
 +.galaxyfont.com
 +.galaxyinfo.com
++.galaxymacau.com
 +.galaxymagnets.com
 +.galaxyoversea.com
 +.galileo.work
++.galstars.net
 +.galsun.com
 +.galudisu.info
 +.galvincdn.com
@@ -46001,6 +46013,7 @@
 +.happigo.com
 +.happiness9999.com
 +.happy-ti.com
++.happy-vpn.com
 +.happy88.com
 +.happycodeboy.com
 +.happycoding.online
@@ -48051,6 +48064,7 @@
 +.hiwechats.com
 +.hiweixiu.com
 +.hiwelcom.com
++.hiwifi.com
 +.hiwiyi.com
 +.hiwms.com
 +.hiworld.com
@@ -52641,6 +52655,7 @@
 +.icnjob.com
 +.icnkr.com
 +.icntv.tv
++.icntv.xyz
 +.icntvcdn.com
 +.ico-deli.com
 +.icoat.cc
@@ -52810,6 +52825,7 @@
 +.idcyunwei.org
 +.idczone.net
 +.idd1.com
++.iddddg.com
 +.ideabody.com
 +.ideacarbon.org
 +.ideacms.net
@@ -54607,6 +54623,7 @@
 +.issks.com
 +.issues.deploy.akamai.com
 +.ist-zl.com
++.istarshine.com
 +.istartsurf.com
 +.istcw.com
 +.istoreos.com
@@ -56559,6 +56576,7 @@
 +.jienyl.com
 +.jiepai.net
 +.jiepaids.com
++.jiepang.com
 +.jiepei.com
 +.jieqi.com
 +.jieqian.co
@@ -64280,6 +64298,7 @@
 +.lideapower.com
 +.lidebiotech.com
 +.lidebo.com
++.lidecheng.com
 +.lidepower.com
 +.lidg-fueltank.com
 +.lidianchizu.com
@@ -64960,6 +64979,7 @@
 +.liugongam.com
 +.liugonggroup.com
 +.liuguofeng.com
++.liuhanyu.com
 +.liuhaolin.com
 +.liuhubang.com
 +.liujiagd.com
@@ -67575,6 +67595,7 @@
 +.manhualang.com
 +.manhuang.org
 +.manhuapi.com
++.manhuaren.com
 +.manhuatai.com
 +.manifest-assets-staging.razerzone.com
 +.manifest-assets.razerzone.com
@@ -69982,6 +70003,7 @@
 +.moefactory.com
 +.moefantasy.com
 +.moefou.org
++.moegirl.org
 +.moegirl.tw
 +.moehot.com
 +.moehu.org
@@ -71170,6 +71192,7 @@
 +.myshow360.net
 +.myshow800.com
 +.myshown.com
++.mysinablog.com
 +.mysinamail.com
 +.mysipo.com
 +.mysiteres.com
@@ -71391,6 +71414,7 @@
 +.naiveblue.com
 +.naiwch.com
 +.naixi.com
++.naixi.net
 +.naixi.org
 +.naixuecha.com
 +.naiyouxuexi.com
@@ -71555,6 +71579,7 @@
 +.nanyuecloud.com
 +.nanyuenews.com
 +.nanyuetong.com
++.nanzao.com
 +.nanzhougroup.com
 +.naobaocun.com
 +.naobiao.com
@@ -72027,6 +72052,7 @@
 +.netandtv.com
 +.netat.net
 +.netbian.com
++.netbirds.com
 +.netbooo.com
 +.netchina100.com
 +.netcoc.com
@@ -74369,6 +74395,7 @@
 +.oclkj.com
 +.ocn187.com
 +.ocngs.globalsign.com
++.ocnttv.com
 +.ocpuritech.com
 +.ocsjs.com
 +.ocsp.globalsign.com
@@ -75438,6 +75465,7 @@
 +.ozonbigsell.com
 +.ozoninfo.com
 +.ozsmartbuy.com
++.ozxw.com
 +.ozzair.org
 +.ozzyad.com
 +.p-an.com
@@ -90059,6 +90087,7 @@
 +.surfacetreatmentgroup.com
 +.surfacetreatmenttechnology.com
 +.surfcg.com
++.surge.run
 +.surgerii.com
 +.surgerycast.com
 +.surgi-plan.com
@@ -91902,6 +91931,7 @@
 +.taljdns.com
 +.talk-cloud.net
 +.talk-fun.com
++.talk853.com
 +.talk915.com
 +.talkgw.com
 +.talkingchina.com
@@ -93243,6 +93273,7 @@
 +.th21333.com
 +.th38.com
 +.th99.com
++.thaicn.com
 +.thailycare.com
 +.thaivor.com
 +.thaiyellowpagesusa.com
@@ -95909,6 +95940,7 @@
 +.tv20806.com
 +.tv373.com
 +.tvandnet.com
++.tvants.com
 +.tvapk.com
 +.tvapk.net
 +.tvbbj.com
@@ -97668,6 +97700,7 @@
 +.vemic.com
 +.vemte.com
 +.vemvm.com
++.venbbs.com
 +.vendor-src-eo.com
 +.vendue.vip
 +.venlvcloud.com
@@ -98388,6 +98421,7 @@
 +.vpscang.com
 +.vpsce.com
 +.vpser.com
++.vpser.net
 +.vpsguo.com
 +.vpshu.com
 +.vpsjxw.com
@@ -100209,6 +100243,7 @@
 +.wentiquan.net
 +.wentiyi.com
 +.wentong.com
++.wenweipo.com
 +.wenwen.com
 +.wenwo.com
 +.wenwu8.com
@@ -102284,6 +102319,7 @@
 +.wujiangtong.com
 +.wujiayi.vip
 +.wujicode.com
++.wujie.net
 +.wujiecaifu.com
 +.wujiehd.com
 +.wujiehuyu.com
@@ -103370,6 +103406,7 @@
 +.xckssw.com
 +.xckszx.com
 +.xclawyers.org
++.xclient.info
 +.xcljs.com
 +.xcloudbase.com
 +.xcmad.com
@@ -107748,6 +107785,7 @@
 +.yangguanjun.com
 +.yangguiweihuo.com
 +.yanghd.com
++.yanghengjun.com
 +.yanghong.art
 +.yanghuaxing.com
 +.yangji.com
@@ -117080,6 +117118,7 @@
 +.ztdsp.com
 +.zte.net
 +.ztedevice.com
++.ztedevices.com
 +.ztedu.com
 +.ztedu8.com
 +.ztemall.com
