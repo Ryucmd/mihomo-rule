@@ -4555,6 +4555,7 @@
 +.cloudyzgirl.com
 +.cloupia.com
 +.cloupia.net
++.clstorage.net
 +.club1069.com
 +.clubhouse.com
 +.clubhouseapi.com
@@ -7862,7 +7863,6 @@
 +.full:vsmarketplacebadge.apphb.com
 +.full:widgets.stripst.com
 +.full:ws.audioscrobbler.com
-+.full:yandex-pogoda.static-storage.net
 +.fulldesisex.com
 +.fullerconsideration.com
 +.fullfuli.com
@@ -8071,6 +8071,8 @@
 +.gaywatch.com
 +.gazotube.com
 +.gazounabi.com
++.gazprombank.com
++.gazprombank.investments
 +.gb
 +.gbiz
 +.gbxml.net
@@ -8244,6 +8246,7 @@
 +.giffgaff.design
 +.gifnuki.com
 +.gifree.com
++.giga.chat
 +.gigabyte.com
 +.gigacircle.com
 +.giganews.com
@@ -11212,7 +11215,6 @@
 +.kinkypeepz.com
 +.kinmen.travel
 +.kinokuniya.com
-+.kinopoisk-ru.clstorage.net
 +.kinorium.com
 +.kir2kos.net
 +.kirbysepicyarn.com
@@ -12269,6 +12271,7 @@
 +.mefound.com
 +.megacamz.com
 +.megafilmporno.com
++.megamarket.tech
 +.megapornfreehd.com
 +.megapornpics.com
 +.megaproxy.com
@@ -16506,7 +16509,10 @@
 +.sb-cd.com
 +.sb-telecom.net
 +.sb24.com
++.sber.pro
++.sberauto.com
 +.sberbank.com
++.sbercloud.tech
 +.sbgkstv.shop
 +.sbi
 +.sbitravelcard.com
@@ -17649,6 +17655,7 @@
 +.static-cisco.com
 +.static-economist.com
 +.static-nike.com
++.static-storage.net
 +.static-verizon.com
 +.static.fun
 +.staticflickr.com
@@ -18555,6 +18562,7 @@
 +.tinkercad.com
 +.tinkerentertainment.com
 +.tinkerplay.net
++.tinkoff-group.com
 +.tintuc101.com
 +.tiny.cc
 +.tiny4k.com
@@ -20074,8 +20082,6 @@
 +.webtoons.com
 +.webtoonscorp.com
 +.webtype.com
-+.webvisor.com
-+.webvisor.org
 +.webwarper.net
 +.webworkerdaily.com
 +.wechatlawsuit.com
@@ -21097,9 +21103,9 @@
 +.xzxxporn.com
 +.xzxxtube.com
 +.y2mate.com
++.ya.cc
 +.yaddal.tv
 +.yadori.club
-+.yads.tech
 +.yaeby.info
 +.yaeby.pro
 +.yahoo
@@ -21125,18 +21131,17 @@
 +.yamoon.club
 +.yandex
 +.yandex-bank.net
-+.yandex-images.clstorage.net
-+.yandex-pogoda.static-storage.net
 +.yandex.aero
++.yandex.asia
 +.yandex.cloud
 +.yandex.com
 +.yandex.jobs
++.yandex.mobi
 +.yandex.net
 +.yandex.org
 +.yandexadexchange.net
 +.yandexcloud.net
 +.yandexcom.net
-+.yandexmetrica.com
 +.yandexwebcache.net
 +.yandexwebcache.org
 +.yanghengjun.com
@@ -21548,6 +21553,8 @@
 +.zuobiao.me
 +.zuola.com
 +.zvereff.com
++.zvuk-b2b.com
++.zvuk.com
 +.zw
 +.zweiporn.com
 +.zwtvusa.com
