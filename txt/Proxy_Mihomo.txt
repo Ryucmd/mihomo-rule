@@ -4812,6 +4812,7 @@
 +.crackle.com
 +.craigslist.org
 +.crankplayer.com
++.crashlytics.com
 +.crazy-amateurs.com
 +.crazyav.xyz
 +.crazybook.xyz
@@ -7189,7 +7190,6 @@
 +.fiotolia.com
 +.fire-emblem-heroes.com
 +.firearmsworld.net
-+.firebase-settings.crashlytics.com
 +.firebase.com
 +.firebaseapp.com
 +.firebaseio.com
@@ -19256,7 +19256,6 @@
 +.up.audio
 +.up01.cc
 +.upbit.com
-+.update.crashlytics.com
 +.updatestar.com
 +.updatetube.com
 +.upfrontcfd.com
