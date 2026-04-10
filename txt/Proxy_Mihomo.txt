@@ -3784,6 +3784,7 @@
 +.c4rex.co
 +.c4slive.com
 +.ca
++.cabconnect.org
 +.cableav.tv
 +.cableav.xyz
 +.cablegatesearch.net
@@ -5748,6 +5749,7 @@
 +.drepung.org
 +.drgan.net
 +.dribbble.com
++.driveawaytaxi.org
 +.driverxxx.com
 +.drivevideo.xyz
 +.drkogyi.com
@@ -6298,6 +6300,9 @@
 +.entrust.com
 +.entrust.net
 +.entrustdatacard.com
++.envato-static.com
++.envato.com
++.envatousercontent.com
 +.eotarchive.org
 +.epicbrowser.com
 +.epicgames.com
@@ -8424,6 +8429,7 @@
 +.gofundme.com
 +.gog-statics.com
 +.gog.com
++.gogettaxi.org
 +.gogle.com
 +.gogo-load.com
 +.gogoanime.wiki
@@ -10865,6 +10871,10 @@
 +.jiuse821.com
 +.jiuse822.com
 +.jiuse823.com
++.jivo.chat
++.jivochat.com
++.jivochat.com.co
++.jivosite.com
 +.jiyou520.com
 +.jizzboom.com
 +.jizzbunker.com
@@ -13100,6 +13110,7 @@
 +.my-enema.com
 +.my-formosa.com
 +.my-magazine.me
++.my-manager-account.com
 +.my-proxy.com
 +.my03.com
 +.my13la.com
@@ -17859,6 +17870,7 @@
 +.supjav.com
 +.suppig.net
 +.supplybestjerseys.com
++.support-uber.com
 +.supportfacebook.com
 +.supremacy.com
 +.supremacy.net
@@ -18070,7 +18082,10 @@
 +.tawny-peaks.com
 +.taxel.media
 +.taxi69.com
++.taxiaid.org
 +.taxidrivermovie.com
++.taxiguru.org
++.taxitax.org
 +.taylorandfrancis.com
 +.taylorfrancis.com
 +.tbank-online.com
@@ -18335,6 +18350,7 @@
 +.thelittleslush.com
 +.themarvelexperiencetour.com
 +.themathsfactor.com
++.themeforest.net
 +.themilfmovies.com
 +.themoviedb.org
 +.thenationalpulse.com
@@ -19345,6 +19361,7 @@
 +.uwants.com
 +.uwants.net
 +.uwpcommunitytoolkit.com
++.uxthemes.com
 +.uy
 +.uyghur-j.org
 +.uyghuraa.org
@@ -21141,10 +21158,18 @@
 +.yandexadexchange.net
 +.yandexcloud.net
 +.yandexcom.net
++.yandexgo.com
 +.yandexwebcache.net
 +.yandexwebcache.org
 +.yanghengjun.com
 +.yangjianli.com
++.yango-b2b.com
++.yango-team.com
++.yango-tech.com
++.yango.com
++.yango.taxi
++.yango.tech
++.yangofellowship.com
 +.yangzhi.org
 +.yantaqu.com
 +.yaohubaba.com
