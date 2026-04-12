@@ -1,3 +1,4 @@
++.-gaming.com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -314,6 +315,7 @@
 +.4club.com
 +.4dq.com
 +.4ebaytraders.com
++.4epenaxa.com
 +.4ertik.live
 +.4ertik.one
 +.4everproxy.com
@@ -1845,6 +1847,7 @@
 +.atlassian.com
 +.atlassian.net
 +.atnext.com
++.atomyze.tech
 +.atos.net
 +.atscaleconference.com
 +.att-bundles.com
@@ -3917,6 +3920,7 @@
 +.caribbeancom.com
 +.caribbeancompr.com
 +.carmotorshow.com
++.caronino.com
 +.carousell.com.hk
 +.carrd.co
 +.carryzhou.com
@@ -4141,6 +4145,7 @@
 +.chargenowusa.com
 +.charlestonroadregistry.com
 +.charmescorts.com
++.chartered.com
 +.charticulator.com
 +.chat.com
 +.chatango.com
@@ -4316,6 +4321,7 @@
 +.chinman.net
 +.chintai
 +.chintaidx.com
++.chipcore.com
 +.chipmong13g.buzz
 +.chips.com
 +.chithu.org
@@ -4552,6 +4558,7 @@
 +.cloudmagic.com
 +.cloudn.me
 +.cloudrobotics.com
++.cloudru.cn
 +.cloudvolumes.com
 +.cloudyzgirl.com
 +.cloupia.com
@@ -5097,6 +5104,8 @@
 +.darwinsourcecode.com
 +.dasaob.online
 +.dashlane.com
++.dashly.help
++.dashly.me
 +.dashwood360.com
 +.dastanhisexy.cc
 +.dastrassi.org
@@ -5281,6 +5290,7 @@
 +.dettol.com
 +.dettol.com.hk
 +.dettol.net
++.dettol000webhost.com
 +.dettolarabia.com
 +.dettolcleannaija.com
 +.dettolthailand.com
@@ -5933,6 +5943,7 @@
 +.eamythic.net
 +.eanordic.com
 +.eaplay.com
++.eaptechka.online
 +.earlytibet.com
 +.earngeek.com
 +.earphonescheapest.com
@@ -7071,6 +7082,7 @@
 +.fececbook.com
 +.fedex
 +.fedoraforum.org
++.fedorainfracloud.org
 +.fedoramagazine.org
 +.fedorapeople.org
 +.fedoraproject.org
@@ -7328,6 +7340,7 @@
 +.footstockings.com
 +.footwear-cadcam.com
 +.footwiball.com
++.foralice.online
 +.forbes.com
 +.forbesimg.com
 +.forbiddenasian.com
@@ -8160,6 +8173,7 @@
 +.geraldoatlarge.com
 +.gerefoundation.org
 +.gerritcodereview.com
++.gerronfox.com
 +.gesoten.com
 +.get.shop
 +.getadblock.com
@@ -8780,6 +8794,7 @@
 +.hadesex.com
 +.haha888.xyz
 +.hahlo.com
++.haicomdc.com
 +.haijiao.com
 +.hairy-amateurs.com
 +.hairy-beauty.com
@@ -9254,6 +9269,7 @@
 +.hkdf.org
 +.hkedcity.net
 +.hkej.com
++.hkentucky.com
 +.hkepc.com
 +.hket.com
 +.hketgroup.com
@@ -9701,6 +9717,7 @@
 +.hub.slarker.me
 +.hubblephone.com
 +.hudson.org
++.huffienplum.net
 +.huffingtonpost.com
 +.huffpost.com
 +.huffpostarabi.com
@@ -10842,6 +10859,9 @@
 +.jieav.com
 +.jiehua.tv
 +.jiepang.com
++.jieshang.online
++.jieshang.shop
++.jieshang.store
 +.jieshibaobao.com
 +.jifangge.com
 +.jigglegifs.com
@@ -11014,6 +11034,7 @@
 +.juliamovies.com
 +.juliepost.com
 +.juliereyc.com
++.jump.taxi
 +.junauza.com
 +.june4commemoration.org
 +.junefourth-20.net
@@ -11700,6 +11721,7 @@
 +.lmmbtc.com
 +.lms01.com
 +.lmsys.org
++.lngtonpost.com
 +.lnstagram-help.com
 +.loanbuilder.com
 +.lobsangwangyal.com
@@ -12282,6 +12304,7 @@
 +.megacamz.com
 +.megafilmporno.com
 +.megamarket.tech
++.megapolis.llc
 +.megapornfreehd.com
 +.megapornpics.com
 +.megaproxy.com
@@ -12524,6 +12547,9 @@
 +.mimivv.com
 +.mimizy-go.buzz
 +.minbrowser.org
++.mindbox.cloud
++.mindbox.group
++.mindbox.site
 +.mindgeek.com
 +.mindmeld.com
 +.mindnode.com
@@ -12958,6 +12984,7 @@
 +.mozilla.org
 +.moztw.org
 +.mp
++.mp.world
 +.mp3buscador.com
 +.mpettis.com
 +.mpfinance.com
@@ -13473,6 +13500,7 @@
 +.nentindo.net
 +.neo-miracle.com
 +.neoforged.net
++.neon.click
 +.neotokyo.supertop-100.com
 +.neowin.net
 +.nephobox.com
@@ -14064,6 +14092,9 @@
 +.nuuporn.com
 +.nuuvem.com
 +.nuvid.com
++.nuwjon.online
++.nuwjon.shop
++.nuwjon.store
 +.nvdst.com
 +.nvidia.asia
 +.nvidia.com
@@ -14493,6 +14524,12 @@
 +.ozodi.org
 +.ozodlik.org
 +.ozon.com
++.ozon.express
++.ozon.tech
++.ozon.travel
++.ozoncamp.pro
++.ozonglobalevents.com
++.ozonru.com
 +.ozonru.me
 +.ozonusercontent.com
 +.ozvoice.org
@@ -15603,6 +15640,7 @@
 +.privoxy.org
 +.procopytips.com
 +.proctoscopeexam.com
++.prodcontest.com
 +.prodrive-japan.com
 +.prof
 +.profilemaster.com
@@ -16292,6 +16330,7 @@
 +.roovza.inapps.appsflyersdk.com
 +.roovza.launches.appsflyersdk.com
 +.roovza.skadsdk.appsflyersdk.com
++.rosbank-credit.com
 +.rosechina.net
 +.rosemarydoll.com
 +.roshy.tv
@@ -16387,6 +16426,7 @@
 +.ruvideos.net
 +.ruyiseek.com
 +.rw
++.rwbautomation.tech
 +.rwe
 +.rxhj.net
 +.ryukyu
@@ -16428,8 +16468,10 @@
 +.safebooru.org
 +.safechat.com
 +.safeguarddefenders.com
++.safeliner.tech
 +.safervpn.com
 +.saffrontech.com
++.sage-observability.tech
 +.sagepub.com
 +.sagernet.org
 +.sahabatsetiasmartone.com
@@ -16673,7 +16715,13 @@
 +.sejie80.com
 +.sekai.colorfulpalette.org
 +.sekur1213.guru
++.selcdn.net
 +.selectanescort.com
++.selectel.academy
++.selectel.blog
++.selectel.com
++.selectel.info
++.selectel.live
 +.selectyourgame.com
 +.selfloversworld.com
 +.sellclassics.com
@@ -16705,6 +16753,8 @@
 +.serlucap.lol
 +.serlutv258.xyz
 +.servehttp.com
++.servercore.com
++.servercore.live
 +.serverfault.com
 +.serverlesslibrary.net
 +.serveuser.com
@@ -17059,6 +17109,7 @@
 +.shotgunstudio.com
 +.shotgunvfx.com
 +.shotwithgeforce.com
++.showbiz.ianjiajr.net
 +.showhaotu.com
 +.shownote.com
 +.showtime.com
@@ -17613,6 +17664,7 @@
 +.stada
 +.stage64.hk
 +.standardchartered.com
++.standardp
 +.standardsuniversity.org
 +.standupfortibet.org
 +.standwithhk.org
@@ -17988,10 +18040,13 @@
 +.szetowah.org.hk
 +.szexvideo.top
 +.szwinnertechnology.com
++.t-finance.group
 +.t-g.com
 +.t-msedge.net
 +.t-splines.com
++.t-tech.team
 +.t.co
++.t.finance
 +.t.me
 +.t.orzdream.com
 +.t35.com
@@ -18172,6 +18227,7 @@
 +.teeztube.com
 +.tegrazone.co
 +.tegrazone.com
++.tehnodom.com
 +.tehrantimes.com
 +.telebay.com
 +.telecomspace.com
@@ -18538,6 +18594,7 @@
 +.tiffany-towers.com
 +.tig-ol-bitties.live
 +.tigervpn.com
++.tigrenok.toys
 +.tik-tokapi.com
 +.tiktok-minis.com
 +.tiktok-row.net
@@ -18579,6 +18636,7 @@
 +.tinkerentertainment.com
 +.tinkerplay.net
 +.tinkoff-group.com
++.tinkoffmobile.com
 +.tintuc101.com
 +.tiny.cc
 +.tiny4k.com
@@ -19908,6 +19966,7 @@
 +.vrsumo.com
 +.vrv.co
 +.vsallin.net
++.vscale.blog
 +.vsco.co
 +.vscode-cdn.net
 +.vscode-unpkg.net
@@ -20038,11 +20097,14 @@
 +.waze.com
 +.wbagora.com
 +.wballiance.com
++.wbautomation.tech
 +.wbdnbo.net
 +.wbgames.com
 +.wbinsights.com
 +.wbrks.com
++.wbstatic.net
 +.wbvm4s.com
++.wbwh.tech
 +.wd.com
 +.wdc.com
 +.wdf5.com
@@ -20216,6 +20278,7 @@
 +.whynotbi.com
 +.whyx.org
 +.wi-fi.org
++.wibes.com
 +.widevine.com
 +.widgets.stripst.com
 +.wien
@@ -20728,7 +20791,9 @@
 +.xn--80asehdb
 +.xn--80aswg
 +.xn--90a3ac
++.xn--90ab.com
 +.xn--90ae
++.xn--90aifd0az.shop
 +.xn--90ais
 +.xn--90wwvt03e.com
 +.xn--9iqy04a7fi01l.com
@@ -20736,12 +20801,14 @@
 +.xn--9pr62r24a.com
 +.xn--9trs65b.com
 +.xn--av-o44ep1d.com
++.xn--b1aechhj6bof8g5a.site
 +.xn--b4w605ferd
 +.xn--c1avg
 +.xn--cck4d8b3009a.com
 +.xn--cckwcxetd
 +.xn--cg4bki
 +.xn--czq75pvv1aj5c.org
++.xn--d1abkf4ap.fun
 +.xn--d1acj3b
 +.xn--d1alf
 +.xn--d4ty0ojsqzfd.com
@@ -20761,6 +20828,7 @@
 +.xn--gtvq61aiijy0b.xn--hxt814e
 +.xn--gtvz22d.wang
 +.xn--gtvz22d.xn--hxt814e
++.xn--h1ao.site
 +.xn--h2breg3eve
 +.xn--h2brj9c
 +.xn--h2brj9c8c
@@ -21351,6 +21419,7 @@
 +.yoyoav.net
 +.ypmate.com
 +.ypncdn.com
++.yprsense.com
 +.ysav184.xyz
 +.yskg-ber.buzz
 +.ysporn.com
