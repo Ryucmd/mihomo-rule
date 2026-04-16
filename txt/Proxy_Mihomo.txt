@@ -156,6 +156,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -9728,7 +9729,6 @@
 +.hub.slarker.me
 +.hubblephone.com
 +.hudson.org
-+.huffi1password.drift.click
 +.huffingtonpost.com
 +.huffpost.com
 +.huffpostarabi.com
@@ -13741,7 +13741,6 @@
 +.ngrok.com
 +.ngrok.pizza
 +.ngrok.pro
-+.ngtonpost.com
 +.nhentai.com
 +.nhentai.net
 +.nhentaihaven.com
