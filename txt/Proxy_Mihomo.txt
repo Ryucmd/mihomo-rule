@@ -564,6 +564,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -8860,7 +8861,6 @@
 +.hardcoregayblog.com
 +.hardsex8.com
 +.hardsextube.com
-+.hardx.+.aaa
 +.hardx.com
 +.harperacademic.com
 +.harperapps.com
@@ -9491,7 +9491,6 @@
 +.hotsexvideo.mobi
 +.hotsexydolls.com
 +.hotshame.com
-+.hotspotchinacn.org
 +.hotspotshield.com
 +.hotstar-cdn.net
 +.hotstar-labs.com
@@ -16176,12 +16175,12 @@
 +.recordhistory.org
 +.recoveryversion.org
 +.red-lang.org
-+.red000webhost.com
 +.redamateurtube.com
 +.redballoonsolidarity.org
 +.redbubble.com
 +.redbyhbo.com
 +.redchinacn.net
++.redchinacn.org
 +.reddit.app.link
 +.reddit.com
 +.redditblog.com
@@ -17107,7 +17106,6 @@
 +.shiatv.net
 +.shibashuwu.net
 +.shicheng.org
-+.shield.com
 +.shikorina.net
 +.shiksha.com
 +.shinhangmc.com
