@@ -16697,6 +16697,7 @@
 +.scnsrc.me
 +.scolle.net
 +.scopus.com
++.scorecardresearch.com
 +.scoreclassics.com
 +.scorediscounts.club
 +.scoregroup.com
