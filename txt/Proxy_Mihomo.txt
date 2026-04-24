@@ -885,6 +885,7 @@
 +.agefans.com
 +.agemys.org
 +.agendaweek.com
++.agentclientprotocol.com
 +.agilebits.com
 +.agoogleaday.com
 +.agri-bank.com
@@ -7117,8 +7118,8 @@
 +.feipang.link
 +.feitian-california.org
 +.feitianacademy.org
++.feixiao+.aaa
 +.feixiaohao.com
-+.feixiaoo.com
 +.femalefounderscomp.com
 +.femalestars.com
 +.femdomcc.net
@@ -8852,6 +8853,7 @@
 +.hanr-bao.mom
 +.hanunyi.com
 +.hanzhen.xmulib.org
++.hao.com
 +.hao.news
 +.hao21.xyz
 +.hao62.xyz
@@ -11394,7 +11396,6 @@
 +.kubeapps.com
 +.kucoin.com
 +.kucoin.plus
-+.kucyboyplus.com
 +.kui.name
 +.kuke.com
 +.kum.com
@@ -13438,7 +13439,6 @@
 +.nakedgirls.biz
 +.nakedmodelsxxx.com
 +.nakednews.com
-+.nakid000webhost.com
 +.nakido.com
 +.nakuz.com
 +.nalandabodhi.org
@@ -15112,7 +15112,6 @@
 +.pl
 +.placemix.com
 +.placesdocs.com
-+.plahao.com
 +.planetminecraft.com
 +.planetsuzy.org
 +.plansondemand.com
@@ -17142,7 +17141,6 @@
 +.shoestop2.com
 +.shooshtime.com
 +.shop-headphones.net
-+.shop2000.cooin.com
 +.shopadidas.com
 +.shopalienware.com
 +.shopbeatsdre.com
@@ -18545,6 +18543,7 @@
 +.theuab.net
 +.theverge.com
 +.thevirtualsexreview.com
++.thevivekspot.com
 +.thewgo.org
 +.thewirechina.com
 +.thewonderful101.com
@@ -19210,6 +19209,7 @@
 +.twitcause.com
 +.twitch.tv
 +.twitchcdn.net
++.twitchcon.com
 +.twitchsvc.net
 +.twitgether.com
 +.twitgoo.com
@@ -19476,7 +19476,6 @@
 +.usus.cc
 +.usvimosquito.com
 +.usvimosquitoproject.com
-+.ut.com
 +.utdstc.com
 +.utopianpal.com
 +.uu-gg.com
@@ -19525,7 +19524,7 @@
 +.uyghurpress.com
 +.uyghurstudies.org
 +.uyghurtribunal.com
-+.uygur.ora5v.com
++.uygur.org
 +.uymaarip.com
 +.uz
 +.v-av.com
