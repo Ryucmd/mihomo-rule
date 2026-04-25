@@ -564,6 +564,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -7118,7 +7119,6 @@
 +.feipang.link
 +.feitian-california.org
 +.feitianacademy.org
-+.feixiao+.aaa
 +.feixiaohao.com
 +.femalefounderscomp.com
 +.femalestars.com
@@ -8853,7 +8853,6 @@
 +.hanr-bao.mom
 +.hanunyi.com
 +.hanzhen.xmulib.org
-+.hao.com
 +.hao.news
 +.hao21.xyz
 +.hao62.xyz
@@ -11394,6 +11393,7 @@
 +.kubakuba1996.com
 +.kubeacademy.com
 +.kubeapps.com
++.kucacemix.com
 +.kucoin.com
 +.kucoin.plus
 +.kui.name
@@ -12378,6 +12378,7 @@
 +.melon365.com
 +.melonstube.com
 +.meltoday.com
++.mem000webhost.com
 +.meme
 +.meme111.com
 +.memealerts.com
@@ -15061,6 +15062,7 @@
 +.pinkvelvetvault.com
 +.pinkworld.com
 +.pinoy-n.com
++.pinteres.com
 +.pinterest.co
 +.pinterest.com
 +.pinterest.engineering
@@ -15163,6 +15165,7 @@
 +.plex.tv
 +.plexapp.com
 +.plexvpn.pro
++.plhao.com
 +.plm.org.hk
 +.plos.org
 +.plug-into.com
@@ -17846,7 +17849,7 @@
 +.stepsiblingscaught.com
 +.stheadline.com
 +.sthoo.com
-+.stickam.com
++.stickamoin.com
 +.stickeraction.com
 +.stickofjoy.com
 +.stileproject.com
@@ -18260,6 +18263,7 @@
 +.tearapeak.com
 +.teatroporno.com
 +.techatbloomberg.com
++.techbang.com
 +.techcrunch.com
 +.techliquidators.com
 +.technics.com
@@ -19518,7 +19522,6 @@
 +.uyghuraa.org
 +.uyghuramerican.org
 +.uyghurbiz.org
-+.uyghurcanadiansociety.org
 +.uyghurcongress.org
 +.uyghurpen.org
 +.uyghurpress.com
