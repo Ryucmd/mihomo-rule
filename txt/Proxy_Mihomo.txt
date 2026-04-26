@@ -11393,7 +11393,6 @@
 +.kubakuba1996.com
 +.kubeacademy.com
 +.kubeapps.com
-+.kucacemix.com
 +.kucoin.com
 +.kucoin.plus
 +.kui.name
@@ -12378,7 +12377,6 @@
 +.melon365.com
 +.melonstube.com
 +.meltoday.com
-+.mem000webhost.com
 +.meme
 +.meme111.com
 +.memealerts.com
@@ -15062,7 +15060,6 @@
 +.pinkvelvetvault.com
 +.pinkworld.com
 +.pinoy-n.com
-+.pinteres.com
 +.pinterest.co
 +.pinterest.com
 +.pinterest.engineering
@@ -15165,7 +15162,6 @@
 +.plex.tv
 +.plexapp.com
 +.plexvpn.pro
-+.plhao.com
 +.plm.org.hk
 +.plos.org
 +.plug-into.com
@@ -17849,7 +17845,7 @@
 +.stepsiblingscaught.com
 +.stheadline.com
 +.sthoo.com
-+.stickamoin.com
++.stickam.com
 +.stickeraction.com
 +.stickofjoy.com
 +.stileproject.com
@@ -19522,6 +19518,7 @@
 +.uyghuraa.org
 +.uyghuramerican.org
 +.uyghurbiz.org
++.uyghurcanadiansociety.org
 +.uyghurcongress.org
 +.uyghurpen.org
 +.uyghurpress.com
