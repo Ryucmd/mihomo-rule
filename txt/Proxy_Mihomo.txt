@@ -3836,6 +3836,7 @@
 +.calgoncarbon.com
 +.calgonit.com
 +.callabitch.org
++.callbackkiller.com
 +.callersbane.com
 +.callhulu.com
 +.calvinklein
@@ -4001,6 +4002,7 @@
 +.cavporn.com
 +.cba
 +.cbart.net
++.cbkiller.com
 +.cbn
 +.cbre
 +.cbs.com
@@ -4119,6 +4121,7 @@
 +.ceramics-cadcam.com
 +.cerdas.com
 +.cern
++.cert-gib.com
 +.certificat2.com
 +.certificate-transparency.org
 +.certinomis.com
@@ -5007,6 +5010,7 @@
 +.cy22.tv
 +.cyber-bay.info
 +.cyber-bay.org
++.cybercrimecon.com
 +.cyberctm.com
 +.cyberghostvpn.com
 +.cybermondaybeats4sale.com
@@ -5282,7 +5286,6 @@
 +.desertbmw.com
 +.design-ledrev.com
 +.design-ledrevolution.com
-+.designeriphonescase000webhost.com
 +.designeriphonescases.com
 +.designledrevolution.com
 +.designsformovement.com
@@ -6095,7 +6098,6 @@
 +.ebaymotors.com
 +.ebaymotors.org
 +.ebaymotorsblog.com
-+.ebayn
 +.ebaynow.com
 +.ebaynyc.com
 +.ebayon.com
@@ -6309,7 +6311,6 @@
 +.enfababy.com
 +.enfabebe.com
 +.enfabebe.com.co
-+.enfagrow.coom
 +.enfagrow4.com
 +.enfamil.com
 +.enfasmart.com
@@ -6337,6 +6338,10 @@
 +.envato-static.com
 +.envato.com
 +.envatousercontent.com
++.envybox.company
++.envybox.family
++.envycdp.com
++.envycrm.com
 +.eotarchive.org
 +.epicbrowser.com
 +.epicgames.com
@@ -6609,6 +6614,7 @@
 +.f2pool.com
 +.f3b7q2p3.ssl.hwcdn.net
 +.f5pf.com
++.f6.security
 +.f6988.com
 +.f8.com
 +.faacebok.com
@@ -6628,6 +6634,7 @@
 +.facboox.com
 +.faccebook.com
 +.faccebookk.com
++.facct.email
 +.facdbook.com
 +.facdebook.com
 +.face-book.com
@@ -8178,6 +8185,7 @@
 +.gengba.cc
 +.genius.com
 +.genkai-hounyo.com
++.genotek.health
 +.genshin-porn.com
 +.genshinh.com
 +.genshinimpact.com
@@ -8284,6 +8292,8 @@
 +.gi
 +.giantessbooru.com
 +.giantessnight.com
++.gib-global.com
++.gibdev.net
 +.giffgaff.com
 +.giffgaff.design
 +.gifnuki.com
@@ -8534,7 +8544,6 @@
 +.google.cn
 +.google.co
 +.google.com
-+.google.com.bs.com
 +.google.com.co
 +.google.com.hk
 +.google.hk
@@ -8707,6 +8716,7 @@
 +.groq.com
 +.grotty-monday.com
 +.ground.news
++.group-ib.com
 +.groupfun.com
 +.groups.com
 +.grss-ieee.org
@@ -9448,7 +9458,6 @@
 +.horseporn.tv
 +.host.livekit.cloud
 +.hostborneo.org
-+.hostloc.cinc.org
 +.hostloc.com
 +.hot
 +.hot-arab-films.com
@@ -9798,7 +9807,6 @@
 +.hungryclit.com
 +.huobi.co
 +.huobi.com
-+.huobi.coproxy.net
 +.huobi.me
 +.huobi.pro
 +.huobiasia.vip
@@ -12363,6 +12371,7 @@
 +.mefound.com
 +.megacamz.com
 +.megafilmporno.com
++.megafon.com
 +.megamarket.tech
 +.megapornfreehd.com
 +.megapornpics.com
@@ -12994,6 +13003,7 @@
 +.moozporn.com
 +.morazzia.com
 +.morbell.com
++.more.tv
 +.moreheadphones.com
 +.moresci.sale
 +.morewithautodesk.com
@@ -13130,6 +13140,7 @@
 +.mthruf.com
 +.mtn
 +.mtr
++.mts-ws.net
 +.mtt.org
 +.mtvnservices.com
 +.mu
@@ -16530,6 +16541,7 @@
 +.s8forum.com
 +.sa
 +.saarland
++.saas-support.com
 +.saasexch.cc
 +.saasexch.co
 +.saasexch.com
@@ -19132,6 +19144,7 @@
 +.tvbweekly.com
 +.tvider.com
 +.tvmost.com.hk
++.tvoyodbo.online
 +.tvplayvideos.com
 +.tvpromise.com
 +.tvs
@@ -20355,6 +20368,7 @@
 +.whippedass.com
 +.whisolutions.com
 +.whispersystems.org
++.whitesaas.com
 +.whitexxxtube.com
 +.who.int
 +.whodns.xyz
