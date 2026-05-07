@@ -1435,6 +1435,7 @@
 +.anypornsexxx.com
 +.anysex.com
 +.anyshemale.com
++.anythingllm.com
 +.anyxxx.me
 +.anyxxx.pro
 +.anz
@@ -3103,6 +3104,7 @@
 +.blackvpn.com
 +.blaoshi.cc
 +.blazor.net
++.bleepingcomputer.com
 +.blender.org
 +.blewpass.com
 +.blingblingsquad.net
@@ -3120,7 +3122,6 @@
 +.blockedbyhk.com
 +.blockless.com
 +.blocktempo.com
-+.blog.calibre-ebook.com
 +.blog.com
 +.blog.descargasgay.com
 +.blog.kangye.org
@@ -3440,6 +3441,7 @@
 +.boomba.club
 +.boombeach.com
 +.boomerang.com
++.boomplay.com
 +.boomssr.com
 +.booru.org
 +.bootstrapcdn.com
@@ -3835,6 +3837,7 @@
 +.calgoncarbon-china.com
 +.calgoncarbon.com
 +.calgonit.com
++.calibre-ebook.com
 +.callabitch.org
 +.callbackkiller.com
 +.callersbane.com
@@ -4927,6 +4930,7 @@
 +.ctfriend.net
 +.ctinets.com
 +.ctinews.com
++.ctinsider.com
 +.ctotires.com
 +.ctowc.org
 +.ctwant.com
@@ -6181,6 +6185,7 @@
 +.edgemeplease.com
 +.edgesuite.net
 +.edicypages.com
++.edigest.hk
 +.edisebay.com
 +.editorx.com
 +.edmontonservice.com
@@ -9268,6 +9273,7 @@
 +.hitbdsm.com
 +.hitbtc.com
 +.hitxhot.com
++.hive.blog
 +.hiveon.net
 +.hiwifi.com
 +.hizb-ut-tahrir.info
@@ -9893,6 +9899,7 @@
 +.ibvpn.com
 +.ibytedtos.com
 +.icams.com
++.iccf.com
 +.ice
 +.icedrive.net
 +.icegay.tv
@@ -10237,6 +10244,7 @@
 +.infocert.digital
 +.informer.com
 +.informs.org
++.infosec.exchange
 +.infowars.com
 +.infowarsmedia.com
 +.infrapedia.com
@@ -11209,6 +11217,7 @@
 +.kaspersky.com.hk
 +.kastatic.org
 +.katestube.com
++.kathmandupost.com
 +.kavkazr.com
 +.kawase.com
 +.kaydara.com
@@ -12351,6 +12360,7 @@
 +.mediafiles-cisco.com
 +.mediafire.com
 +.mediafreakcity.com
++.mediamatters.org
 +.mediasama.com
 +.mediawiki.org
 +.medicalimplants-cadcam.com
@@ -12797,6 +12807,7 @@
 +.mizzmona.com
 +.mji.rip
 +.mjj.rip
++.mjj.today
 +.mjv-art.org
 +.mk
 +.mk.shrimpia.network
@@ -13180,6 +13191,7 @@
 +.musclegirlflix.com
 +.mushroomtrack.com
 +.mushymush.tv
++.music.amazon.com
 +.musicade.net
 +.musicbay.net
 +.musicbrainz.org
@@ -13704,6 +13716,7 @@
 +.newstapa.org
 +.newstarnet.com
 +.newstatesman.com
++.newstimes.com
 +.newsukadops.com
 +.newsupermariobrosu.com
 +.newsweek.com
@@ -13752,6 +13765,7 @@
 +.nflxso.net
 +.nflxvideo.net
 +.nfsc.global
++.nfsc.press
 +.nfscdict.com
 +.nfscofficial.com
 +.nfsworld.com
@@ -14355,6 +14369,7 @@
 +.onani-daisuki.com
 +.onapp.com
 +.onbeatsbydresale.com
++.ondigitalocean.com
 +.one.one
 +.oneapi.com
 +.onedinesfree.com
@@ -14568,6 +14583,7 @@
 +.over18arcade.com
 +.overapple.com
 +.overdaily.org
++.overdrive.com
 +.overleaf.com
 +.overplay.net
 +.overthumbs.com
@@ -18422,6 +18438,7 @@
 +.the-japan-news.com
 +.the-m-festival.com
 +.the-monster-beats.com
++.the-sun.com
 +.the123d.com
 +.theaffairs.com
 +.theatlantic.com
@@ -18563,6 +18580,7 @@
 +.theverge.com
 +.thevirtualsexreview.com
 +.thevivekspot.com
++.theweek.com
 +.thewgo.org
 +.thewirechina.com
 +.thewonderful101.com
@@ -19142,6 +19160,7 @@
 +.tvboxnow.com
 +.tvbusa.com
 +.tvbweekly.com
++.tvdy1.com
 +.tvider.com
 +.tvmost.com.hk
 +.tvoyodbo.online
@@ -19298,6 +19317,7 @@
 +.typography.com
 +.tyre-cadcam.com
 +.tyrecadcam.com
++.tytch.com
 +.tytng189.com
 +.tytporno.online
 +.tz
@@ -19489,6 +19509,8 @@
 +.usenix.org
 +.useplannr.com
 +.userapi.com
++.userdrive.org
++.usersdrive.com
 +.usertrust.com
 +.usocctn.com
 +.ustibetcommittee.org
