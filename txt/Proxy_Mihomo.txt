@@ -4605,7 +4605,6 @@
 +.cmule.org
 +.cn-proxy.com
 +.cnabc.com
-+.cnappinstall.googleadapis.com
 +.cnbc.com
 +.cnbcfm.com
 +.cnbeta.com
@@ -4754,7 +4753,6 @@
 +.contactossexoecuador.com
 +.containersonaws.com
 +.contechacademy.com
-+.content.googleadapis.com
 +.contentful.com
 +.contest.com
 +.convio.net
@@ -5710,7 +5708,6 @@
 +.dowjoneson.com
 +.download.com
 +.download.dappcdn.com
-+.download.qatp1.net
 +.downloadpass.com
 +.downloadsforipod.com
 +.dphk.org
@@ -11140,6 +11137,7 @@
 +.justswallows.com
 +.justtristan.com
 +.justusboys.com
++.justveryok.com
 +.juyangbee.xyz
 +.juyangto.info
 +.juyuange.org
@@ -11258,6 +11256,7 @@
 +.kerryproperties
 +.kex.com
 +.keybaseapi.com
++.keyboardmen.com
 +.keycdn.com
 +.keyhole.com
 +.keyporntube.com
@@ -12929,7 +12928,6 @@
 +.mongodb.com
 +.mongodb.org
 +.monitorchina.org
-+.monitoring.qpdp1.net
 +.monitorware.com
 +.monitrix.net
 +.monlamit.org
@@ -15908,7 +15906,6 @@
 +.q13.com
 +.q13fox.com
 +.qa
-+.qagpublic.qatp1.net
 +.qanote.com
 +.qatarescortsvip.com
 +.qattdh.cc
@@ -15922,7 +15919,6 @@
 +.qcomgeo2.com
 +.qctconnect.com
 +.qdiehzz7.me
-+.qgadmin.qcpp1.net
 +.qhigh.com
 +.qi-gong.me
 +.qiandao.today
@@ -15966,8 +15962,6 @@
 +.qualcommventures.cn
 +.qualcommventures.com
 +.qualphone.com
-+.qualysapi.qatp1.net
-+.qualysguard.qpdp1.net
 +.quanben-xiaoshuo.com
 +.quannengshen.org
 +.quantil.com
@@ -16022,6 +16016,7 @@
 +.r18lu-avi.shop
 +.r18lu.com
 +.r34porn.net
++.rabbitcounter.com
 +.rabbitscams.com
 +.rabbitsreviews.com
 +.racked.com
@@ -16688,7 +16683,6 @@
 +.scaleform.com
 +.scandalplanet.com
 +.scanlover.com
-+.scanservice1.qcpp1.net
 +.scasino.com
 +.scat-enema.com
 +.scat-japan.com
