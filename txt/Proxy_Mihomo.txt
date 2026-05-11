@@ -564,7 +564,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2254,6 +2253,7 @@
 +.azuresmartspaces.net
 +.azurestackvalidation.com
 +.azurewebsites.net
++.b+.chinayuanmin.org
 +.b-cdn.net
 +.b-eroland.net
 +.b-ok.asia
@@ -2557,6 +2557,7 @@
 +.beatsbydreblackfriday2013.com
 +.beatsbydreblackfridaypro.com
 +.beatsbydreboxingdayca.com
++.beatsbydrecas# NAME: Proxy
 +.beatsbydrecasquesfr.com
 +.beatsbydrecheap-outletstore.com
 +.beatsbydrecheaper.com
@@ -3572,6 +3573,7 @@
 +.bridgestonecomercial.com.co
 +.bridgestonegolf.com
 +.bridgestonegz.com
++.bridgestoneio.hk
 +.bridgestonela.com
 +.bridgestonemarketing.com
 +.bridgestonemerchandise.com
@@ -4320,7 +4322,6 @@
 +.chinaworker.info
 +.chinaxchina.com
 +.chinayouth.org.hk
-+.chinayuanmin.org
 +.chinese-hermit.net
 +.chinese-leaders.org
 +.chinese-memorial.org
@@ -4440,6 +4441,7 @@
 +.cispaletter.com
 +.cispaletter.org
 +.citadel
++.citaio
 +.citasecuador.com
 +.citi
 +.citizencn.com
@@ -5135,6 +5137,7 @@
 +.dat.foundation
 +.data-vocabulary.org
 +.data.com
++.data18.com
 +.databank.worldbank.org
 +.datacloudmy.com
 +.dataframeworks.com
@@ -5274,6 +5277,7 @@
 +.demoprint.com
 +.demosisto.hk
 +.dengeamerika.com
++.dengeameriweiboleak.com
 +.dengekionline.com
 +.dengiamerika.com
 +.deno.com
@@ -5827,6 +5831,7 @@
 +.dssott.com
 +.dswz88.xyz
 +.dsyiren.com
++.dt18.com
 +.dtci.co
 +.dtci.technology
 +.dtdns.net
@@ -8008,6 +8013,7 @@
 +.gal
 +.galaxyappstore.com
 +.galaxymacau.com
++.gale+.aaa
 +.gale.com
 +.galegroup.com
 +.galenwu.com
@@ -8248,6 +8254,7 @@
 +.gettyimages.hk
 +.getuploader.com
 +.getws1.com
++.getwsj.com
 +.getwsone.com
 +.getzola.org
 +.gf
@@ -8719,6 +8726,7 @@
 +.grotty-monday.com
 +.ground.news
 +.group-ib.com
++.group.com
 +.groupfun.com
 +.groups.com
 +.grss-ieee.org
@@ -10770,6 +10778,7 @@
 +.javdove.com
 +.javdove8.xyz
 +.javextreme.net
++.javfc2.xyz
 +.javfilms.com
 +.javfor.me
 +.javforme.ninja
@@ -11156,6 +11165,7 @@
 +.k-doujin.net
 +.k9vidz.com
 +.ka-wai.com
++.ka.com
 +.kaamuu.com
 +.kaggle.com
 +.kaggle.net
@@ -13391,6 +13401,7 @@
 +.myproseries.com
 +.myq2.com
 +.myqnapcloud.com
++.myradigtitvenera.com
 +.myradio.com.hk
 +.myradio.hk
 +.myreadingmanga.info
@@ -15968,6 +15979,7 @@
 +.quantumbooter.net
 +.quatrowireless.com
 +.quebec
++.quesfr.com
 +.questvisual.com
 +.quicinc.com
 +.quickbooks.com
@@ -17104,6 +17116,7 @@
 +.sharpdaily.com.hk
 +.sharpdaily.hk
 +.shat-tibet.com
++.shattered.cntc.com
 +.shaw
 +.shazam.com
 +.shdd.ink
@@ -20308,7 +20321,6 @@
 +.wefightcensorship.org
 +.wefong.com
 +.wego.here.com
-+.weiboleak.com
 +.weights.com
 +.weihuo.org
 +.weijingsheng.org
