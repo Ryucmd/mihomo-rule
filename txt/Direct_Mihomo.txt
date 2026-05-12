@@ -4843,7 +4843,7 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404: Not Foundfarmasino.com
++.404: Not Found404: Not Foundend-api.shallow.ink
 +.404mzk.com
 +.404wan.com
 +.404youxi.com
@@ -6845,7 +6845,7 @@
 +.5d7bcbb1a1022.beer
 +.5dao.cc
 +.5dashi.com
-+.5dc0af3508404: Not Found1be08e.com
++.5dc0af35081be08e.com
 +.5ddd.com
 +.5dfp.com
 +.5dfsd2.com
@@ -33094,7 +33094,6 @@
 +.enbamaoyi.com
 +.enbrands.com
 +.encthinking.com
-+.end-api.shallow.ink
 +.end.shallow.ink
 +.enderuixm.com
 +.endianpp.com
@@ -34562,6 +34561,7 @@
 +.farerdak.com
 +.farfir.com
 +.farisl.com
++.farmasino.com
 +.farmkd.com
 +.farmsec.com
 +.farsee2.com
