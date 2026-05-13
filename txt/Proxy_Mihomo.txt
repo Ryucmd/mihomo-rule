@@ -1057,6 +1057,7 @@
 +.albastudio.co
 +.albeats.com
 +.alchemysynth.com
++.alefbank.com
 +.alexa.com
 +.alexanderstreet.com
 +.alexlur.org
@@ -2341,6 +2342,7 @@
 +.bangumi.tv
 +.bangyoulater.com
 +.bangyourwife.com
++.bank131.com
 +.bankmobilevibe.com
 +.banned.video
 +.bannedbook.net
@@ -6942,6 +6944,7 @@
 +.fanbox.cc
 +.fandango.com
 +.fandom.com
++.fanfictionero.com
 +.fanfox.net
 +.fangbinxing.com
 +.fangeming.com
@@ -7181,8 +7184,11 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
++.fic.fan
++.ficador.com
 +.ficbook.net
 +.ficeboock.com
++.ficmania.com
 +.fictionmania.tv
 +.fidelity
 +.fido
@@ -11378,6 +11384,7 @@
 +.koreanpornmovie.com
 +.korenan2.com
 +.korewaeroi.com
++.korona.com
 +.kostenlosepornoclips.com
 +.kotlinlang.org
 +.kouwobb.com
@@ -13793,6 +13800,7 @@
 +.ni
 +.nianticlabs.com
 +.niceanimegames.com
++.nicegram.cloud
 +.niceporn.tv
 +.nicesshop.net
 +.nichepornsite.com
@@ -15880,6 +15888,7 @@
 +.puuko.com
 +.pvp.net
 +.pvp.tv
++.pvubank.com
 +.pvue1.com
 +.pvue2.com
 +.pvzgw2.com
@@ -16490,6 +16499,7 @@
 +.rtings.com
 +.rtycminnesota.org
 +.ru
++.ru.ccb.com
 +.ruanyifeng.com
 +.ruby-lang.org
 +.rubygems.org
@@ -18339,6 +18349,7 @@
 +.tegrazone.com
 +.tehnodom.com
 +.tehrantimes.com
++.teinon.net
 +.telebay.com
 +.telecomspace.com
 +.telega.info
@@ -19343,6 +19354,7 @@
 +.ubnt.com
 +.ubnw.net
 +.ubs
++.ubs.com
 +.ubuntu.com
 +.ubuntu.net
 +.ubuntuforums.org
@@ -19356,6 +19368,7 @@
 +.ucoz.net
 +.ucoz.org
 +.ucoz.site
++.ucozmail.com
 +.ucozmedia.com
 +.ucoztemplates.com
 +.udacity.com
@@ -19511,6 +19524,7 @@
 +.usersdrive.com
 +.usertrust.com
 +.usocctn.com
++.usocial.pro
 +.ustibetcommittee.org
 +.ustream.tv
 +.usunitednews.com
@@ -20117,6 +20131,8 @@
 +.vsmarketplacebadge.apphb.com
 +.vsphere.com
 +.vsphere.net
++.vtb-direct.com
++.vtbglobalperspectives.com
 +.vtsociety.org
 +.vtunnel.com
 +.vtvan.com
