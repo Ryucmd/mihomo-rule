@@ -564,6 +564,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1665,7 +1666,6 @@
 +.applewatchedition.com
 +.applewatchseries3.net
 +.applewatchsport.com
-+.appleweb.+.aaa
 +.appleweb.net
 +.applexpo.net
 +.applezh.com
@@ -17573,7 +17573,6 @@
 +.sony-latin.com
 +.sony-mea.com
 +.sony-olympus-medical.com
-+.sony-semicon.co.j000webhost.com
 +.sony-semicon.com
 +.sony.biz
 +.sony.com
@@ -19237,7 +19236,6 @@
 +.twgreatnews.com
 +.twhentai.com
 +.twi-videos.net
-+.twi.com
 +.twibase.com
 +.twibbon.com
 +.twibs.com
@@ -19326,7 +19324,6 @@
 +.tx.me
 +.tx5254.com
 +.txcloud.net
-+.txcloud.netshort.com
 +.txdirectv.com
 +.txmblr.com
 +.txqzz34r.com
