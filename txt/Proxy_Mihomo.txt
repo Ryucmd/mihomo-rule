@@ -6920,6 +6920,7 @@
 +.faluninfo.net
 +.falunpilipinas.net
 +.falunworld.net
++.fam000webhost.com
 +.fameregistry.com
 +.family-sex.me
 +.familyds.com
@@ -8452,6 +8453,7 @@
 +.gnci.org.hk
 +.gnews.org
 +.gnom-cham.com
++.gnome.org
 +.gnu.org
 +.gnzi.xyz
 +.gnzi1.top
@@ -9028,6 +9030,7 @@
 +.helloandroid.com
 +.helloavgirls.com
 +.hellokittybeats.com
++.hellomoto.com
 +.helloqueer.com
 +.hellosmartbook.com
 +.helloss.pw
@@ -10135,6 +10138,7 @@
 +.iloveinterracial.com
 +.ilovelongtoes.com
 +.ilovexs.com
++.ilysexsimulator.com
 +.im
 +.im.tv
 +.imac-apple.com
@@ -11238,6 +11242,7 @@
 +.kc3000.shop
 +.kcoolonline.com
 +.kddi
++.kde.org
 +.kdfuli.com
 +.kdy202312.shop
 +.ke
@@ -11996,6 +12001,7 @@
 +.lvv2.com
 +.lwwcn.buzz
 +.lwwcn.xyz
++.lxqt-project.org
 +.lxxlxx.com
 +.ly
 +.lyfhk.net
@@ -12277,6 +12283,7 @@
 +.mat6tube.com
 +.matainja.com
 +.matchmover.com
++.mate-desktop.org
 +.mathiew-badimon.com
 +.mathjax.org
 +.mathoverflow.net
@@ -13056,7 +13063,15 @@
 +.motiongraphicsandmore.com
 +.motionpictureser.com
 +.motiyun.com
++.moto.com
 +.motolia.com
++.motorola.co
++.motorola.com
++.motorola.com.co
++.motorola.net
++.motorolacareers.com
++.motorolanews.com
++.motorolasolutions.com
 +.motorshowblog.com
 +.mottainai.info
 +.mousebreaker.com
@@ -15176,6 +15191,7 @@
 +.planetsuzy.org
 +.plansondemand.com
 +.plantsvszombies2.com
++.plasma-mobile.org
 +.plasticlabs.com
 +.plastics-cadcam.com
 +.platinumlinks.org
@@ -18169,6 +18185,7 @@
 +.syosetu.com
 +.sysinternals.com
 +.sysresccd.org
++.system76.com
 +.sytes.net
 +.syx86.com
 +.syzbj36.xyz
@@ -20849,6 +20866,7 @@
 +.xerotica.com
 +.xerox
 +.xfantazy.com
++.xfce.org
 +.xfemaledom.com
 +.xfinity.com
 +.xfockers.com
