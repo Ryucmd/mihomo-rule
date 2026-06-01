@@ -565,7 +565,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5230,6 +5229,7 @@
 +.degruyter.com
 +.deja.com
 +.del.com
++.del000webhost.com
 +.delcam-ams.com
 +.delcam-electrode.com
 +.delcam-na.com
@@ -7064,6 +7064,7 @@
 +.fbaddins.com
 +.fbbmarket.com
 +.fbboostyourbusiness.com
++.fbcam.com
 +.fbcdn.com
 +.fbcdn.net
 +.fbf8.com
@@ -8508,6 +8509,7 @@
 +.golang.net
 +.golang.org
 +.gold-gay.com
++.gold.watch
 +.goldbet.com
 +.goldbetsports.com
 +.golden-ages.org
@@ -9450,6 +9452,7 @@
 +.hopedialogue.org
 +.hopstop.tv
 +.hopto.org
++.horizontaankei.com
 +.horizontal-llc.com
 +.horizontal-systems.com
 +.horizontalglue.com
@@ -11477,6 +11480,7 @@
 +.kzeng.info
 +.l-0005.dc-msedge.net
 +.l-msedge.net
++.l-systems.com
 +.la
 +.la-forum.org
 +.labiennale.org
@@ -12352,6 +12356,7 @@
 +.mcdonalds.com
 +.mcdonalds.com.hk
 +.mcdonalds.hk
++.mcdonalds.se+.aaa
 +.mcdonaldsapps.com
 +.mcdonaldsarabia.com
 +.mcfog.com
@@ -17767,6 +17772,7 @@
 +.ss-link.com
 +.ss.levyhsu.com
 +.ssdevrd.com
++.ssexvideos.com
 +.ssglobal.co
 +.ssglobal.me
 +.ssh91.com
@@ -20889,11 +20895,15 @@
 +.xhamster18.com
 +.xhamster18.desi
 +.xhamster19.com
++.xhamster2.com
 +.xhamster3.com
 +.xhamsterlive.com
 +.xhcdn.com
++.xhnews.live
 +.xhot.pro
++.xhpingcdn.com
 +.xhpjc6-cdn-settings.appsflyersdk.com
++.xhreal5.com
 +.xhub.tv
 +.xianba.net
 +.xianchawang.net
