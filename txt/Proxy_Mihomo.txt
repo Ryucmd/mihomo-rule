@@ -5229,7 +5229,6 @@
 +.degruyter.com
 +.deja.com
 +.del.com
-+.del000webhost.com
 +.delcam-ams.com
 +.delcam-electrode.com
 +.delcam-na.com
@@ -5260,6 +5259,7 @@
 +.dellemcevents.com
 +.delloutlet.com
 +.dellpoweredge.com
++.dellpowersolutions.co+.aaa
 +.dellpowersolutions.com
 +.dellprecision.com
 +.dellprinter.com
@@ -7064,7 +7064,6 @@
 +.fbaddins.com
 +.fbbmarket.com
 +.fbboostyourbusiness.com
-+.fbcam.com
 +.fbcdn.com
 +.fbcdn.net
 +.fbf8.com
@@ -8246,6 +8245,7 @@
 +.getlantern.org
 +.getmalus.com
 +.getoutline.org
++.getpaint.net
 +.getpocket.com
 +.getporn.tv
 +.getpricetag.com
@@ -8509,7 +8509,6 @@
 +.golang.net
 +.golang.org
 +.gold-gay.com
-+.gold.watch
 +.goldbet.com
 +.goldbetsports.com
 +.golden-ages.org
@@ -9452,7 +9451,6 @@
 +.hopedialogue.org
 +.hopstop.tv
 +.hopto.org
-+.horizontaankei.com
 +.horizontal-llc.com
 +.horizontal-systems.com
 +.horizontalglue.com
@@ -11480,7 +11478,6 @@
 +.kzeng.info
 +.l-0005.dc-msedge.net
 +.l-msedge.net
-+.l-systems.com
 +.la
 +.la-forum.org
 +.labiennale.org
@@ -12356,7 +12353,6 @@
 +.mcdonalds.com
 +.mcdonalds.com.hk
 +.mcdonalds.hk
-+.mcdonalds.se+.aaa
 +.mcdonaldsapps.com
 +.mcdonaldsarabia.com
 +.mcfog.com
@@ -14708,6 +14704,7 @@
 +.paily.org
 +.painfulpussytortures.com
 +.painnovel.com
++.paint.net
 +.paipal.com
 +.paipancon.com
 +.paisapay.cc
@@ -17772,7 +17769,6 @@
 +.ss-link.com
 +.ss.levyhsu.com
 +.ssdevrd.com
-+.ssexvideos.com
 +.ssglobal.co
 +.ssglobal.me
 +.ssh91.com
