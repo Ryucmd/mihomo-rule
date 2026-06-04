@@ -129,6 +129,7 @@
 +.18virginsex.com
 +.18ww.life
 +.18yiren.tv
++.1917live.red
 +.191porn.com
 +.1949er.org
 +.1984.city
@@ -677,6 +678,7 @@
 +.activematter.game
 +.activeteachonline.com
 +.activpn.com
++.actualidad-rt.com
 +.ad
 +.ad69.com
 +.adanaatikhaber.com
@@ -686,6 +688,7 @@
 +.adblockplus.org
 +.adcex.com
 +.adcommerce.tv
++.addons.mozilla.org
 +.addthis.com
 +.addthiscdn.com
 +.addthisedge.com
@@ -899,6 +902,7 @@
 +.ahcdn.com
 +.ahegao.online
 +.ahentaitv.com
++.ahilesva.info
 +.ahlxs-me.buzz
 +.ahorsecock.com
 +.ahpornogratuit.com
@@ -1122,6 +1126,8 @@
 +.alliancesages.com
 +.allinfa.com
 +.allinternal.com
++.allizom.net
++.allizom.org
 +.alljackpotscasino.com
 +.alljapanesepass.com
 +.allmomsex.com
@@ -1746,6 +1752,9 @@
 +.artcampro.com
 +.arte
 +.arte.tv
++.artel.watch
++.arteldoc.com
++.arteldoc.tv
 +.artixlinux.org
 +.artnudegalleries.com
 +.artoferotica.info
@@ -1784,6 +1793,7 @@
 +.asianfreeporn.net
 +.asiangfvideos.com
 +.asiangirlsnextdoor.com
++.asiangooglenetwork.com
 +.asianphd.com
 +.asianporn.rest
 +.asianpornjav.com
@@ -2319,6 +2329,7 @@
 +.baizhi.org
 +.ballbustingtube.com
 +.baltimorebmw.com
++.baltnews.com
 +.bamgrid.com
 +.bamtoki.com
 +.banamex
@@ -2354,6 +2365,7 @@
 +.bar
 +.baraero.com
 +.baramangaonline.com
++.baranky.com
 +.barcelona
 +.barclaycard
 +.barclays
@@ -3423,6 +3435,7 @@
 +.boodigo.com
 +.boodigogo.com
 +.book18.org
++.book1917.live
 +.book4you.org
 +.bookbrainz.org
 +.bookclubcorner.com
@@ -3842,6 +3855,7 @@
 +.calgoncarbon.com
 +.calgonit.com
 +.calibre-ebook.com
++.calicolabs.com
 +.callabitch.org
 +.callbackkiller.com
 +.callersbane.com
@@ -3924,6 +3938,7 @@
 +.caochangqing.com
 +.cap.org.hk
 +.capetown
++.capitalg.com
 +.capitalgames.com
 +.capitaliq.com
 +.capitalone
@@ -5191,6 +5206,10 @@
 +.dditsadn.com
 +.dditscdn.com
 +.de
++.de-rt.com
++.de-rt.org
++.de-rtnews.com
++.de-rtnews.net
 +.de-sci.org
 +.de1lib.org
 +.deadhouse.org
@@ -5291,6 +5310,9 @@
 +.derekhsu.homeip.net
 +.deribit.com
 +.derpibooru.org
++.dert.online
++.dert.site
++.dert.tech
 +.desertbmw.com
 +.design-ledrev.com
 +.design-ledrevolution.com
@@ -5316,6 +5338,7 @@
 +.destinationbim.com
 +.detaliczny.com
 +.detentiongirls.com
++.detodosparatodos.org
 +.dettol-prize.com
 +.dettol.com
 +.dettol.com.hk
@@ -5334,7 +5357,6 @@
 +.dev-theguardian.com
 +.devcon.org
 +.developer-advisor.com
-+.developer.allizom.org
 +.developer.apple.com
 +.developria.com
 +.deviantart.com
@@ -5358,6 +5380,7 @@
 +.dhcp.biz
 +.dhl
 +.dhlestudio.com.co
++.dia000webhost.com
 +.diablo3.com
 +.diabloimmortal.com
 +.diabrowser.com
@@ -5494,6 +5517,7 @@
 +.discountedporn.com
 +.discountporn.club
 +.discover
++.discovershiretoko.org
 +.discoveryplus.com
 +.discreet.com
 +.discuss.com.hk
@@ -5797,6 +5821,7 @@
 +.drmario-world.com
 +.drmingxia.org
 +.drnastran.com
++.drobbox.pro
 +.dronedj.com
 +.dropbooks.tv
 +.dropbox-dns.com
@@ -6168,6 +6193,7 @@
 +.echocdn.com
 +.echofon.com
 +.echosign.com
++.ecmascript.org
 +.ecministry.net
 +.economist.com
 +.economistgroup.com
@@ -6466,6 +6492,7 @@
 +.eroxia.com
 +.ertk.net
 +.es
++.es-rt.com
 +.es-visiontimes.com
 +.esbeatsbydrebuy.com
 +.escandinavia-arg.com
@@ -6495,6 +6522,12 @@
 +.espressif.com
 +.esq
 +.esri.com
++.esrt.online
++.esrt.press
++.esrt.site
++.esrt.space
++.esrt.tech
++.esrt.website
 +.estudio360.com.co
 +.estudiopenthouse.com
 +.esurance.com
@@ -6598,6 +6631,7 @@
 +.expresswifi.com
 +.exrates.me
 +.ext-twitch.tv
++.extendfirefox.com
 +.extensions4revit.com
 +.extensionworkshop.com
 +.extmatrix.com
@@ -7256,6 +7290,7 @@
 +.firebaseio.com
 +.fireemblemawakening.com
 +.firefox.com
++.firefoxtweetmachine.com
 +.firefoxusercontent.com
 +.fireofliberty.info
 +.fireofliberty.org
@@ -7500,6 +7535,7 @@
 +.foxhq.com
 +.foxinc.com
 +.foxkansas.com
++.foxkeh.com
 +.foxla.com
 +.foxla.tv
 +.foxlexington.com
@@ -7624,6 +7660,7 @@
 +.freealim.com
 +.freeanimalporn.net
 +.freearabsexx.com
++.freeassange.tech
 +.freeav.tv
 +.freeb.com
 +.freebasics.com
@@ -7644,6 +7681,8 @@
 +.freechinaforum.org
 +.freechinaweibo.com
 +.freecodecamp.org
++.freede.tech
++.freedert.online
 +.freedirecttvspecial.com
 +.freedl.org
 +.freedomchina.info
@@ -7867,7 +7906,6 @@
 +.full:licdn.cn.cdn20.com
 +.full:link.theplatform.com
 +.full:location.microsoft.com
-+.full:mdn.mozillademos.org
 +.full:medone-education.thieme.com
 +.full:mscrl.microsoft.com
 +.full:np-edge.itunes.apple.com
@@ -8237,6 +8275,7 @@
 +.getfappy.com
 +.getfedora.org
 +.getfiddler.com
++.getfirebug.com
 +.getfoxyproxy.org
 +.getfreedur.com
 +.getgom.com
@@ -8246,6 +8285,7 @@
 +.getmalus.com
 +.getoutline.org
 +.getpaint.net
++.getpersonas.com
 +.getpocket.com
 +.getporn.tv
 +.getpricetag.com
@@ -8269,6 +8309,7 @@
 +.gfarchive.com
 +.gfashion.com
 +.gfgold.com.hk
++.gfiber.com
 +.gfleaks.com
 +.gfotolia.com
 +.gfpics.com
@@ -8716,6 +8757,7 @@
 +.greatretroporn.com
 +.greatroc.org
 +.greatzhonghua.org
++.green-box-tv.com
 +.greenbuildingstudio.com
 +.greenfieldbookstore.com.hk
 +.greenlakeaas.com
@@ -8801,6 +8843,7 @@
 +.gvt7.com
 +.gvt9.com
 +.gw
++.gw2ru.com
 +.gwiki.net
 +.gwins.org
 +.gwtproject.org
@@ -8832,6 +8875,7 @@
 +.hacg.club
 +.hacg.me
 +.hacg.red
++.hackasaurus.org
 +.hacken.cc
 +.hacker.org
 +.hackerfacebook.com
@@ -10418,6 +10462,7 @@
 +.intercom.com
 +.intercomassets.com
 +.intercomcdn.com
++.interforest.org
 +.international-news.newsmagazine.asia
 +.internationalconnectionsacademy.com
 +.internationalsaimoe.com
@@ -10595,6 +10640,7 @@
 +.ismalltits.com
 +.ismprofessional.net
 +.isohunt.com
++.isomorphiclabs.com
 +.israbox.com
 +.iss138.com
 +.issitedownrightnow.com
@@ -10632,6 +10678,7 @@
 +.itigergrowth.com
 +.itigergrowtha.com
 +.itigerup.com
++.itisatrap.org
 +.itnel.com
 +.itools.info
 +.itripto.com
@@ -10963,6 +11010,7 @@
 +.jingpin.org
 +.jingsim.org
 +.jinpianwang.com
++.jinrieluosi.cn
 +.jinrizhiyi.news
 +.jinroukong.com
 +.jintian.net
@@ -10978,6 +11026,7 @@
 +.jiuse821.com
 +.jiuse822.com
 +.jiuse823.com
++.jivara.global
 +.jivo.chat
 +.jivochat.com
 +.jivochat.com.co
@@ -11287,6 +11336,7 @@
 +.kh
 +.khabdha.org
 +.khanacademy.org
++.khangar.net
 +.khatrimaza.org
 +.khotruyentranhx.com
 +.ki
@@ -11386,6 +11436,7 @@
 +.konachan.wjcodes.com
 +.konami
 +.konami-igaming.online
++.konami..com
 +.konami.com
 +.konami.net
 +.konami.org
@@ -11435,6 +11486,7 @@
 +.ksescortclub.com
 +.kspcoin.com
 +.ksyp10.com
++.ktech.team
 +.ktvu.com
 +.ktzhk.com
 +.ku77.xyz
@@ -11574,6 +11626,7 @@
 +.leakxxx.com
 +.leancloud.com
 +.leannecrowvideos.com
++.learningfreedomandtheweb.org
 +.learnwithleague.com
 +.leavinghpinc.com
 +.leclerc
@@ -11807,6 +11860,7 @@
 +.liwangyang.com
 +.liyuans.com
 +.lizardporn.com
++.lizardwrangler.com
 +.lizhizhuangbi.com
 +.lk
 +.lkcn.net
@@ -12369,9 +12423,6 @@
 +.mdbankpublic.com
 +.mdhcdn.com
 +.mdialog.com
-+.mdn.allizom.net
-+.mdn.mozillademos.org
-+.mdn.mozit.cloud
 +.mdnkids.com
 +.mdpi.com
 +.mdpj-mov.shop
@@ -12385,6 +12436,7 @@
 +.meansys.com
 +.mearki.com
 +.meccontroller.com
++.mecha-mozilla.org
 +.media-amazon.com
 +.media-imdb.com
 +.media.org.hk
@@ -13102,12 +13154,24 @@
 +.moxing.mobi
 +.moxing.news
 +.moystoys.com
++.mozaws.net
 +.mozgcp.net
++.mozilla-europe.org
++.mozilla-hispano.org
++.mozilla-mexico.org
 +.mozilla.com
 +.mozilla.community
 +.mozilla.net
 +.mozilla.org
++.mozillabd.org
++.mozillademos.org
++.mozillafactory.org
 +.mozillafoundation.org
++.mozillaignite.org
++.mozillalabs.com
++.mozillaquebec.org
++.mozillians.org
++.mozit.cloud
 +.moztw.org
 +.mp
 +.mp.world
@@ -14079,6 +14143,8 @@
 +.norton
 +.norton.com
 +.notepad-plus-plus.org
++.noticias-rt.com
++.notimundo.press
 +.notion-static.com
 +.notion.com
 +.notion.site
@@ -14427,6 +14493,7 @@
 +.onejav.com
 +.onekey-asset.com
 +.onekeycn.com
++.onemozilla.org
 +.onenote.com
 +.onenote.net
 +.onepornlist.com
@@ -15333,6 +15400,7 @@
 +.poopeegirls.com
 +.popai.pro
 +.popcap.com
++.popcornjs.org
 +.popjav.tv
 +.popo8.com
 +.popporn-world.com
@@ -15717,6 +15785,7 @@
 +.premier.one
 +.premium-beauty.com
 +.premiumhd.net
++.premiumlive.site
 +.premiumpornlist.com
 +.premobay.com
 +.premproxy.com
@@ -15873,6 +15942,7 @@
 +.publicagentxxx.com
 +.publicpornvideo.com
 +.publicsexhub.com
++.publicsuffix.org
 +.publishproxy.com
 +.pubmatic.com
 +.puffin.com
@@ -16160,6 +16230,7 @@
 +.rbrandlibrary.com
 +.rbsgr.com
 +.rbspeakup.com
++.rbth.com
 +.rbx.com
 +.rbxcdn.com
 +.rbxinfra.net
@@ -16467,6 +16538,7 @@
 +.roloflix.com
 +.roloxxx.com
 +.rolsociety.org
++.romanovs100.com
 +.romantic-sex-video.com
 +.ronjoneswriter.com
 +.roodo.com
@@ -16479,6 +16551,7 @@
 +.rosechina.net
 +.rosemarydoll.com
 +.roshy.tv
++.rossiyasegodnya.com
 +.rostaxi.org
 +.rotten.com
 +.rou.video
@@ -16528,11 +16601,54 @@
 +.rssmeme.com
 +.rstatic.net
 +.rsvp
++.rt-school.online
 +.rt.com
 +.rtalabel.org
++.rtarabic.com
++.rtarabic.net
++.rtarabic.org
++.rtbrasil.com
++.rtbrasil.info
++.rtde.agency
++.rtde.expert
++.rtde.express
++.rtde.info
++.rtde.life
++.rtde.live
++.rtde.me
++.rtde.media
++.rtde.online
++.rtde.org
++.rtde.press
++.rtde.site
++.rtde.team
++.rtde.tech
++.rtde.website
++.rtde.world
++.rtde.xyz
++.rtdefree.info
++.rtdefree.me
++.rtdefree.online
++.rtdefree.tech
++.rtdoc.tv
++.rtdocumentary.online
++.rteam.tech
++.rtenafrique.tv
++.rtenfrancais.tv
++.rtenfrance.tv
++.rtespanol.com
++.rtfrance.tv
 +.rthk.hk
 +.rthk.org.hk
 +.rtings.com
++.rtnewsde.com
++.rtnewsde.online
++.rtnewsde.pro
++.rtnewsde.site
++.rtnewsde.tech
++.rtnewsru.com
++.rtrunews.com
++.rttv.com
 +.rtycminnesota.org
 +.ru
 +.ru.ccb.com
@@ -16553,14 +16669,24 @@
 +.rumah123.com
 +.rumble.com
 +.runbtx.com
++.runewsrt.com
 +.runnike.com
 +.runningnike.com
 +.runporn.com
 +.runwayescorts.com
 +.rupress.org
++.ruptly.agency
++.ruptly.tv
++.ruptly.video
++.rurtnews.com
 +.rushbee.com
 +.rushporn.online
++.russiabeyond.com
++.russiaislove.com
 +.russianrape.org
++.russiatoday.com
++.russiatoday.net
++.russiatoday.tv
 +.rust-lang.org
 +.rustdesk.com
 +.rustore.team
@@ -17219,6 +17345,7 @@
 +.shoestop2.com
 +.shooshtime.com
 +.shop-headphones.net
++.shop-rt.com
 +.shopadidas.com
 +.shopalienware.com
 +.shopbeatsdre.com
@@ -17436,6 +17563,7 @@
 +.slackhq.com
 +.slashdot.org
 +.slashine.onl
++.slavicstar.com
 +.slaytizle.com
 +.sldolls.com
 +.sleazydream.com
@@ -17501,6 +17629,7 @@
 +.smyw.org
 +.smyxy.org
 +.sn
++.sn-esp.site
 +.snap-dev.net
 +.snap.com
 +.snapchat.com
@@ -17745,6 +17874,10 @@
 +.sproutcore.com
 +.sproxy.info
 +.sptvbroadcast.com
++.sputnikglobe.com
++.sputnikimages.com
++.sputnikmediabank.com
++.sputniknews.com
 +.spyjinx.com
 +.sqlite.org
 +.sqlserveronlinux.com
@@ -18127,6 +18260,7 @@
 +.sweetsext.com
 +.sweetsinner.com
 +.swegold.com
++.swentr.site
 +.swift.org
 +.swiftbank.info
 +.swiftcapital.com
@@ -18750,6 +18884,7 @@
 +.tibetwrites.org
 +.tiburon.com
 +.tickdata.com
++.ticlabs.com
 +.tictoc.video
 +.tidal.com
 +.tidalhifi.com
@@ -18856,6 +18991,7 @@
 +.togetter.com
 +.toggleable.com
 +.toh.info
++.tok.media
 +.tokyo
 +.tokyo-247.com
 +.tokyo-hot.com
@@ -19268,6 +19404,7 @@
 +.twidouga.tv
 +.twiends.com
 +.twifan.com
++.twifanlga.com
 +.twiffo.com
 +.twifuli.com
 +.twiggit.org
@@ -20280,6 +20417,7 @@
 +.watchespn.com
 +.watchindianporn.net
 +.watchinese.com
++.watchingthehawks.com
 +.watchjavonline.com
 +.watchmyexgf.net
 +.watchmygf.me
@@ -20343,6 +20481,7 @@
 +.webkitgtk.org
 +.weblagu.com
 +.weblate.org
++.webmademovies.org
 +.webmoneyinfo.com
 +.webmproject.org
 +.webnovel.com
@@ -20567,6 +20706,7 @@
 +.windsurf.com
 +.windy.com
 +.wine
++.wing.com
 +.wingamestore.com
 +.wingy.site
 +.winhec.com
@@ -20664,6 +20804,7 @@
 +.world3d.biz
 +.worldcat.org
 +.worldcoinpay.com
++.worldcuprussia.com
 +.worldemojiawards.com
 +.worldemojiday.com
 +.worldescortindex.com
