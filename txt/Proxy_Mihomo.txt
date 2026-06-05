@@ -5380,7 +5380,6 @@
 +.dhcp.biz
 +.dhl
 +.dhlestudio.com.co
-+.dia000webhost.com
 +.diablo3.com
 +.diabloimmortal.com
 +.diabrowser.com
@@ -11436,7 +11435,6 @@
 +.konachan.wjcodes.com
 +.konami
 +.konami-igaming.online
-+.konami..com
 +.konami.com
 +.konami.net
 +.konami.org
@@ -18884,7 +18882,6 @@
 +.tibetwrites.org
 +.tiburon.com
 +.tickdata.com
-+.ticlabs.com
 +.tictoc.video
 +.tidal.com
 +.tidalhifi.com
@@ -19404,7 +19401,6 @@
 +.twidouga.tv
 +.twiends.com
 +.twifan.com
-+.twifanlga.com
 +.twiffo.com
 +.twifuli.com
 +.twiggit.org
