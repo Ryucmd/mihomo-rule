@@ -380,7 +380,6 @@
 +.592r.com
 +.59mvmv.com
 +.5aimiku.com
-+.5axis-+.aaa
 +.5axis-machining.com
 +.5beatsbydre.com
 +.5ch.net
@@ -567,6 +566,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1277,6 +1277,7 @@
 +.amd.com
 +.amd.com.cn
 +.amdfanstore.com
++.amdgaming.com
 +.amebame.com
 +.amebaownd.com
 +.amebaowndme.com
@@ -3677,6 +3678,7 @@
 +.buddhistchannel.tv
 +.buddymedia.com
 +.buffered.com
++.bugsnag.com
 +.bugzilla.org
 +.buhidoh.net
 +.buicha.social
@@ -4064,6 +4066,7 @@
 +.cciesecuritylabs.com
 +.ccievoicelabs.com
 +.ccim.org
++.ccleaner.com
 +.cclife.org
 +.cclifefl.org
 +.ccna5.net
@@ -4474,6 +4477,7 @@
 +.citylab.com
 +.cityoflove.com
 +.citytourgirls.com
++.cityu.hk
 +.civicparty.hk
 +.civil3d.com
 +.civilcc.com
@@ -4974,7 +4978,7 @@
 +.cuckwimp.com
 +.cuebic.biz
 +.cuffiesaldi.com
-+.cuhk.edu.hk
++.cuhk.hk
 +.cuhkacs.org
 +.cuihua.org
 +.cuisinella
@@ -6224,8 +6228,10 @@
 +.edoors.com
 +.edu
 +.edu-research.org
++.edu.hk
 +.edubridge.com
 +.education-cadcam.com
++.eduhk.hk
 +.eduplus.hk
 +.edupro.org
 +.edx-cdn.org
@@ -7242,6 +7248,7 @@
 +.fileserve.com
 +.filesmonster.vip
 +.filesor.com
++.filezilla-project.org
 +.filipino-music.net
 +.fillthesquare.org
 +.filmeporno.blog
@@ -9354,6 +9361,7 @@
 +.hkbn.net
 +.hkbnes.net
 +.hkbookcity.com
++.hkbu.hk
 +.hkchronicles.com
 +.hkchurch.org
 +.hkci.org.hk
@@ -9403,6 +9411,7 @@
 +.hktpremier.com
 +.hktshop.com
 +.hku.hk
++.hkust.hk
 +.hkusu.net
 +.hkvwet.com
 +.hkwcc.org.hk
@@ -11551,6 +11560,7 @@
 +.landrover
 +.langchain.com
 +.langsuirs.com
++.languagetool.org
 +.lanmdh.net
 +.lanniser-ylo.shop
 +.lanternal.com
@@ -12095,7 +12105,6 @@
 +.mach-os.net
 +.machigle-sp.com
 +.machine-dna.com
-+.machining.com
 +.machogaytube.com
 +.machos.net
 +.machotube.tv
@@ -13118,6 +13127,7 @@
 +.motiyun.com
 +.moto.com
 +.motolia.com
++.motopress.com
 +.motorola.co
 +.motorola.com
 +.motorola.com.co
@@ -13250,6 +13260,7 @@
 +.msudalosti.com
 +.msunlimitedcloudsummit.com
 +.mswe1.org
++.msys2.org
 +.mt
 +.mt0011.site
 +.mtao.fun
@@ -14331,6 +14342,7 @@
 +.o365weve-ppe.com
 +.o365weve.com
 +.oaistatic.com
++.oaistatsig.com
 +.oaiusercontent.com
 +.oanda.com
 +.oanencore.com
@@ -15390,6 +15402,7 @@
 +.polymer-project.org
 +.polymerhk.com
 +.polymerproject.org
++.polyu.hk
 +.ponyanimalsex.com
 +.poofetish.com
 +.pool.ntp.org
@@ -16056,6 +16069,7 @@
 +.qmttqg3k.me
 +.qnap.com
 +.qobuz.com
++.qoder.com
 +.qombol.com
 +.qoo-app.com
 +.qooqlevideo.com
@@ -20839,6 +20853,7 @@
 +.wp.com
 +.wpewebkit.org
 +.wplace.live
++.wpmailsmtp.com
 +.wpoforum.com
 +.wpvip.com
 +.wqyd.org
@@ -21169,12 +21184,18 @@
 +.xn--d1alf
 +.xn--d4ty0ojsqzfd.com
 +.xn--e1a4c
++.xn--fiqs8s1bxp3anr7a.hk
++.xn--fiqs8s1bxp3anr7a.xn--j6w193g
++.xn--fiqs8s1byzqyvl.hk
++.xn--fiqs8s1byzqyvl.xn--j6w193g
 +.xn--fiqs8sxootzz.xn--hxt814e
 +.xn--flw351e
 +.xn--flw351e.com
 +.xn--fpcrj9c3d
 +.xn--fzc2c9e2c
 +.xn--fzys8d69uvgm
++.xn--gdt08a.hk
++.xn--gdt08a.xn--j6w193g
 +.xn--gecrj9c
 +.xn--ggle-55da.com
 +.xn--gmq348bujlxrb.com
@@ -21231,6 +21252,8 @@
 +.xn--mix891f
 +.xn--mts47c3w9b1qr.net
 +.xn--mtswd61ejxq.com
++.xn--mxtq18a.hk
++.xn--mxtq18a.xn--j6w193g
 +.xn--ngbe9e0a
 +.xn--ngstr-lra8j.com
 +.xn--nnx388a
@@ -21243,6 +21266,16 @@
 +.xn--p1ai
 +.xn--pearsonenespaol-brb.com
 +.xn--pgbs0dh
++.xn--pssu7ci2j23mp9ny48b.hk
++.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
++.xn--pssu7cv61af1tcs59bnvd.hk
++.xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
++.xn--pssu7cv61af44b.hk
++.xn--pssu7cv61af44b.xn--j6w193g
++.xn--pssu7cv61ahw8aq79bztd.hk
++.xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
++.xn--pssu7cv61ahwcb1p2yk.hk
++.xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
 +.xn--q41am8x.com
 +.xn--q7ce6a
 +.xn--q9jyb4c
@@ -21261,8 +21294,14 @@
 +.xn--u2u927b.com
 +.xn--ubt498knmf.com
 +.xn--uis17aj9kmuf.com
++.xn--uis44a.xn--j6w193g
 +.xn--w4r85el8fhu5dnra
 +.xn--w4rs40l
++.xn--wcv22d.hk
++.xn--wcv22d.xn--j6w193g
++.xn--wcvs22d.xn--j6w193g
++.xn--wcvs22d1m.hk
++.xn--wcvs22d1m.xn--j6w193g
 +.xn--wgbh1c
 +.xn--wgbl6a
 +.xn--x-qeu1ji09tzlg.biz
