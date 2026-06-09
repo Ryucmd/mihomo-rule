@@ -7227,7 +7227,6 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
-+.fiasu.com
 +.fic.fan
 +.ficador.com
 +.ficbook.net
@@ -7877,7 +7876,6 @@
 +.full:1password.drift.click
 +.full:a4e8s8k3.map2.ssl.hwcdn.net
 +.full:adobeereg.com
-+.full:adodvd.com
 +.full:api.viu.now.com
 +.full:apple-tv-plus-press.apple.com
 +.full:azure.microsoft.com
@@ -8027,6 +8025,7 @@
 +.futureofmaktingthings.com
 +.fux.com
 +.fuxporn.com
++.fuyin.net
 +.fuyindiantai.org
 +.fuzokudx.com
 +.fxcm-chinese.com
@@ -15225,7 +15224,6 @@
 +.pinterest.info
 +.pinterest.net
 +.pinterestmail.com
-+.pintertubesafari.com
 +.pintool.com
 +.pioneer
 +.pipii.tv
@@ -15266,7 +15264,6 @@
 +.pk
 +.pk.com
 +.pkgbuild.com
-+.pkqjhinaworker.info
 +.pkqjiasu.com
 +.pkuanvil.com
 +.pl
@@ -17084,7 +17081,6 @@
 +.sex-teen.net
 +.sex-young.com
 +.sex.cam
-+.sex.camuyin.net
 +.sex.com
 +.sex0098.com
 +.sex021.net
@@ -18666,7 +18662,6 @@
 +.thecandidbay.com
 +.thechinabeat.org
 +.thechinacollection.org
-+.thechinaom
 +.thechinastory.org
 +.theclasshroom.com
 +.thecleversense.com
@@ -21194,7 +21189,6 @@
 +.xn--fiqs8s1bxp3anr7a.xn--j6w193g
 +.xn--fiqs8s1byzqyvl.hk
 +.xn--fiqs8s1byzqyvl.xn--j6w193g
-+.xn--fiqs8s1byzqyvl.xn--j6w19collection.org
 +.xn--fiqs8sxootzz.xn--hxt814e
 +.xn--flw351e
 +.xn--flw351e.com
@@ -21380,7 +21374,7 @@
 +.xposed.info
 +.xpud.org
 +.xrea.com
-+.xrent3g
++.xrentdvd.com
 +.xsava.xyz
 +.xscale.com
 +.xsden.info
