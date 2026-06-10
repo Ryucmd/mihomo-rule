@@ -566,7 +566,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -9757,6 +9756,7 @@
 +.hrw.org
 +.hrweb.org
 +.hsbc
++.hsbc-fan.com
 +.hsbc.com
 +.hsbc.com.cn
 +.hsbc.com.hk
@@ -10308,6 +10308,7 @@
 +.infiniti
 +.influencersgonewild.com
 +.infocert.digital
++.infoq.com
 +.informer.com
 +.informs.org
 +.infosec.exchange
@@ -11538,6 +11539,7 @@
 +.kzeng.info
 +.l-0005.dc-msedge.net
 +.l-msedge.net
++.l.org
 +.la
 +.la-forum.org
 +.labiennale.org
@@ -19685,7 +19687,7 @@
 +.uproxy.org
 +.upsangel.com
 +.uptodown.com
-+.upwill.org
++.upwil+.aaa
 +.upwork.com
 +.ur7s.com
 +.uraban.me
