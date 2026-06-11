@@ -1,3 +1,4 @@
++.+.aaa
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -1129,6 +1130,7 @@
 +.allizom.org
 +.alljackpotscasino.com
 +.alljapanesepass.com
++.allkeyshop.com
 +.allmomsex.com
 +.allmovie.com
 +.allover30.com
@@ -2110,6 +2112,7 @@
 +.avdwang.xyz
 +.avelip.com
 +.aventertainments.com
++.avermedia.com
 +.avfantasy.com
 +.avfox.cc
 +.avg.com
@@ -2890,6 +2893,7 @@
 +.beyondcore.com
 +.beyondfirewall.com
 +.bf
++.bfads.net
 +.bffshd.com
 +.bfnn.org
 +.bfsh.hk
@@ -3761,6 +3765,7 @@
 +.buyonlineheadphones.com
 +.buypass-ssl.com
 +.buypass.com
++.buyservices.com
 +.buyshoponly.com
 +.buzzardflapper.com
 +.buzzav.com
@@ -4684,6 +4689,7 @@
 +.coindesk.com
 +.coinegg.com
 +.coinex.com
++.coingate.com
 +.coingecko.com
 +.coingi.com
 +.coinglass.com
@@ -5519,6 +5525,9 @@
 +.discountbeatsstore.com
 +.discountedporn.com
 +.discountporn.club
++.discourse-cdn.com
++.discourse.group
++.discourse.org
 +.discover
 +.discovershiretoko.org
 +.discoveryplus.com
@@ -6040,6 +6049,7 @@
 +.eater.com
 +.ebahy.com
 +.ebalovo.com
++.ebatescanada.com
 +.ebay-authenticate.net
 +.ebay-confirm.com
 +.ebay-course.com
@@ -6189,6 +6199,7 @@
 +.ebuyer.com
 +.ebuyheadphones.com
 +.ec
++.ecbsn.com
 +.ecert.gov.hk
 +.ecgapp.net
 +.echainhost.com
@@ -6277,6 +6288,7 @@
 +.electrochem.org
 +.electronicarts.com
 +.electronjs.org
++.elegantthemes.com
 +.elephantlist.com
 +.elephantsdream.org
 +.elephanttube.com
@@ -7084,6 +7096,7 @@
 +.fatakat-n.club
 +.fatbtc.com
 +.fatstube.com
++.fatwallet.com
 +.favebook.com
 +.favelaporno.com
 +.favepornmovs.com
@@ -7230,6 +7243,7 @@
 +.ficador.com
 +.ficbook.net
 +.ficeboock.com
++.ficgs.com
 +.ficmania.com
 +.fictionmania.tv
 +.fidelity
@@ -7975,6 +7989,7 @@
 +.fullpornnetwork.com
 +.fullservicegame.com
 +.fullsexmovs.com
++.fullstory.com
 +.fulltaboo.tv
 +.fullxxxmovies.net
 +.fulue.com
@@ -8091,7 +8106,9 @@
 +.gamesfirsthelsinki.com
 +.gamesfuckgirls.com
 +.gamesofdesire.com
++.gamesplanet.com
 +.gamesstack.com
++.gametap.com
 +.gameuxmasterguide.com
 +.gaming-notebooks.com
 +.gamousa.com
@@ -8333,6 +8350,7 @@
 +.gfycat.com
 +.gfysex.com
 +.gg
++.gg.deals
 +.ggdiao.com
 +.ggee
 +.ggjav.com
@@ -8345,6 +8363,7 @@
 +.ggssl.com
 +.gh
 +.ghanely.me
++.ghe.com
 +.ghettotube.com
 +.ghidra-sre.org
 +.ghostarchive.org
@@ -8713,6 +8732,7 @@
 +.governmentengineer.com
 +.govforce.com
 +.gp
++.gpstatic.com
 +.gpstheseries.com
 +.gputechconf.com
 +.gqzmnav.cc
@@ -9756,7 +9776,6 @@
 +.hrw.org
 +.hrweb.org
 +.hsbc
-+.hsbc-fan.com
 +.hsbc.com
 +.hsbc.com.cn
 +.hsbc.com.hk
@@ -9909,6 +9928,7 @@
 +.hybrid-analysis.com
 +.hyperbeam.com
 +.hyperdreams.com
++.hyperliquid.xyz
 +.hyperrate.com
 +.hypnohub.net
 +.hypnoporn.net
@@ -11390,6 +11410,7 @@
 +.kingkongapp.com
 +.kingofpics.com
 +.kingstagram.com
++.kinguin.net
 +.kinguno.xyz
 +.kink.com
 +.kinkbook.com
@@ -11539,7 +11560,6 @@
 +.kzeng.info
 +.l-0005.dc-msedge.net
 +.l-msedge.net
-+.l.org
 +.la
 +.la-forum.org
 +.labiennale.org
@@ -11749,6 +11769,8 @@
 +.lifewire.com
 +.lightboxcdn.com
 +.lightbridge.com
++.lighter.exchange
++.lighter.xyz
 +.lighti.me
 +.lightnovel.cn
 +.lightxxxtube.com
@@ -13851,6 +13873,7 @@
 +.nexitcore.com
 +.nexo.com
 +.nexon.com
++.nexon.net
 +.nexpart.com
 +.nexpart.tv
 +.next
@@ -14236,6 +14259,7 @@
 +.nu
 +.nu-bay.com
 +.nu36.vip
++.nuawiki.org
 +.nubilefilms.com
 +.nubiles-casting.com
 +.nubiles-porn.com
@@ -14341,6 +14365,7 @@
 +.nytstyle.com
 +.nz
 +.nzchinese.com
++.o-pa.com
 +.o365weve-dev.com
 +.o365weve-ppe.com
 +.o365weve.com
@@ -16179,6 +16204,8 @@
 +.rajwaphq.com
 +.rakuten-static.com
 +.rakuten.com
++.rakuten.tv
++.rakutenadvertising.com
 +.randyblue.com
 +.rangwang.biz
 +.rangzen.com
@@ -16588,6 +16615,7 @@
 +.rplay.live
 +.rpmfusion.org
 +.rprimelab.com
++.rrcbsn.com
 +.rrl28.buzz
 +.rrs1.xyz
 +.rrtis.com
@@ -17056,6 +17084,7 @@
 +.services-exchange.com
 +.serviceshp.com
 +.serviporno.com
++.servl.org
 +.sesawe.net
 +.sesawe.org
 +.seselah.com
@@ -17327,6 +17356,7 @@
 +.shenyun.org
 +.shenyuncreations.com
 +.shenyunperformingarts.org
++.shenyunshop.c
 +.shenyunshop.com
 +.shenzhoufilm.com
 +.shenzhouzhengdao.org
@@ -19687,7 +19717,6 @@
 +.uproxy.org
 +.upsangel.com
 +.uptodown.com
-+.upwil+.aaa
 +.upwork.com
 +.ur7s.com
 +.uraban.me
@@ -19987,6 +20016,7 @@
 +.vigorgame.com
 +.vijayatemple.org
 +.vikacg.com
++.viki.com
 +.viking
 +.vikiporn.com
 +.vilanet.me
@@ -20505,6 +20535,7 @@
 +.webobjects.net
 +.webofknowledge.com
 +.webofscience.com
++.webpack.deerlesslibrary.net
 +.webpass.net
 +.webpkgcache.com
 +.webrtc.org
@@ -20801,6 +20832,7 @@
 +.woolitecarpet.com
 +.woolyss.com
 +.woopie.tv
++.wordcamp.org
 +.wordpress.com
 +.wordpress.net
 +.wordpress.org
