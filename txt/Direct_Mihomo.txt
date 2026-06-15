@@ -4754,7 +4754,7 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404: Not Found404: Not Foundend-api.shallow.ink
++.404: Not Foundend-api.shallow.ink
 +.404mzk.com
 +.404wan.com
 +.404youxi.com
@@ -7726,6 +7726,7 @@
 +.73so.com
 +.73zw8.com
 +.74.com
++.7404: Not Foundkww.net
 +.7415.com
 +.741b0fca410271.beer
 +.7428.net
@@ -8056,7 +8057,6 @@
 +.7kla.com
 +.7kla.net
 +.7ko.com
-+.7kww.net
 +.7littlemen.com
 +.7lk.com
 +.7luohu.com
@@ -17774,7 +17774,6 @@
 +.bsccdn.com
 +.bsccdn.net
 +.bscdns.com
-+.bscdnweb.com
 +.bscea.org
 +.bscedge.com
 +.bscgslb.com
@@ -38807,7 +38806,6 @@
 +.gmtv.cc
 +.gmtzy.com
 +.gmugmu.com
-+.gmw.com
 +.gmwiki.com
 +.gmxmym.ren
 +.gmya.net
@@ -65253,11 +65251,11 @@
 +.meishi13.com
 +.meishichina.com
 +.meishiffx.online
-+.meishij.net
 +.meishijr.com
 +.meishilife.com
 +.meishiqin.com
 +.meishischool.com
++.meishitx.com
 +.meishiwangluo.com
 +.meishizuofa.com
 +.meishow.com
@@ -100143,7 +100141,6 @@
 +.xinshengsemi.com
 +.xinshi525.com
 +.xinshiba.com
-+.xinshipu.com
 +.xinshishen.com
 +.xinshouyou.com
 +.xinshouzhanzhang.com
