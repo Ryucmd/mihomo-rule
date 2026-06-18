@@ -4097,6 +4097,7 @@
 +.cdkworkshop.com
 +.cdmatech.com
 +.cdn-apple.com
++.cdn-cookieyes.com
 +.cdn-spotify-experiments.conductrics.com
 +.cdn-telegram.org
 +.cdn-terapeak.com
@@ -4784,6 +4785,7 @@
 +.conquerwithcharacter.com
 +.conscrypt.com
 +.conscrypt.org
++.consentmanager.net
 +.consentpro.com
 +.constitutionalism.solutions
 +.constructware.com
@@ -4796,9 +4798,11 @@
 +.convio.net
 +.convrgencegame.com
 +.coobay.com
++.cookiebot.com
 +.cookiechoices.org
 +.cookielaw.org
 +.cookiepro.com
++.cookieyes.com
 +.cool-comics.com
 +.cool18.com
 +.cool3c.com
@@ -19274,6 +19278,7 @@
 +.trulyergonomic.com
 +.trunest.com
 +.trust-provider.com
++.trustarc.com
 +.trustasiassl.com
 +.trustcor.com
 +.trusted-dwg.com
