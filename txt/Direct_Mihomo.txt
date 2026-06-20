@@ -13808,6 +13808,7 @@
 +.azuiblc.com
 +.azure-wave.com
 +.azure.cc
++.azureflame.cloud
 +.azureflying.com
 +.azuremigrate.download.prss.microsoft.com
 +.azuremigratetest.download.prss.microsoft.com
@@ -15992,7 +15993,6 @@
 +.biliintl.com
 +.bilimanga.net
 +.bilinl.com
-+.bilinovel.com
 +.biliui.com
 +.bilive.com
 +.bilivideo.com
@@ -16403,6 +16403,7 @@
 +.bjartmuseum.com
 +.bjatv.com
 +.bjbaidianfeng.com
++.bjbaifan.com
 +.bjbalb.com
 +.bjbaodao.net
 +.bjbb.com
@@ -18839,6 +18840,7 @@
 +.cangfengzhe.com
 +.canghaiip.com
 +.canghaimachine.com
++.cangjggame.com
 +.canglanghospital.com
 +.cangmang.xyz
 +.cangoonline.com
@@ -20456,6 +20458,7 @@
 +.chachengji.com
 +.chacihai.com
 +.chacuo.net
++.chadaodao.com
 +.chadianhua.net
 +.chadoc.com
 +.chaej.com
@@ -34393,6 +34396,7 @@
 +.feiersmart.com
 +.feifandesign.com
 +.feifanindustry.com
++.feifanmi.com
 +.feifantxt.com
 +.feifantxt.net
 +.feifdx.com
@@ -36207,7 +36211,6 @@
 +.futurenetlab.com
 +.futureprize.org
 +.futurescontest.com
-+.fututrustee.com
 +.fuwa.org
 +.fuwahgroup.com
 +.fuwai.com
@@ -75089,6 +75092,7 @@
 +.qingnianlvxing.com
 +.qingniantuzhai.com
 +.qingnianwang.com
++.qingning88.com
 +.qingpanduola.com
 +.qingpin.vip
 +.qingping.co
@@ -89228,11 +89232,8 @@
 +.tiger-info.com
 +.tiger-motion.com
 +.tiger2doudou.com
-+.tigerbrokers.com
-+.tigerbrokers.net
 +.tigerdns.com
 +.tigeresop.com
-+.tigerfintech.com
 +.tigermed.net
 +.tigermedgrp.com
 +.tigersecurities.com
@@ -92095,6 +92096,7 @@
 +.uniow.com
 +.unipack-tech.com
 +.uniproud.com
++.unisapps.com
 +.uniscope.com
 +.unisdigital.com
 +.unisedu.com
@@ -108747,7 +108749,6 @@
 +.zhijian114.com
 +.zhijianbao.com
 +.zhijianchuhai.com
-+.zhijianfengyi.com
 +.zhijiangames.com
 +.zhijiannuoche.com
 +.zhijiaow.com
