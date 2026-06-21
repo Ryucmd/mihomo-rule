@@ -7943,6 +7943,7 @@
 +.full:firstsearch.oclc.org
 +.full:github-api.arkoselabs.com
 +.full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
++.full:gog-cdn-lumen.secure2.footprint.net
 +.full:hls-amt.itunes.apple.com
 +.full:hls.itunes.apple.com
 +.full:hpstore.corpmerchandise.com
@@ -8615,6 +8616,7 @@
 +.gofucker.com
 +.gofuckmenow.com
 +.gofundme.com
++.gog-cdn-lumen.secure2.footprint.net
 +.gog-statics.com
 +.gog.com
 +.gogettaxi.org
