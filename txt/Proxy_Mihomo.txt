@@ -8010,6 +8010,7 @@
 +.full:vsmarketplacebadge.apphb.com
 +.full:widgets.stripst.com
 +.full:ws.audioscrobbler.com
++.full:www.microsoft.com
 +.full:zftksc.cdn-settings.appsflyersdk.com
 +.full:zftksc.launches.appsflyersdk.com
 +.fulldesisex.com
@@ -8617,8 +8618,10 @@
 +.gofuckmenow.com
 +.gofundme.com
 +.gog-cdn-lumen.secure2.footprint.net
++.gog-services.com
 +.gog-statics.com
 +.gog.com
++.gogalaxy.com
 +.gogettaxi.org
 +.gogle.com
 +.gogo-load.com
