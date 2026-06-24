@@ -1145,6 +1145,7 @@
 +.allstate
 +.allswingersclubs.org
 +.ally
++.almalinux.org
 +.almasdarnews.com
 +.almostmy.com
 +.alohatube.com
@@ -3747,6 +3748,7 @@
 +.bustyoldsluts.com
 +.bustysammieblack.com
 +.busu.org
++.busybox.net
 +.busytrade.com
 +.buugaa.com
 +.buy-from-shanghai.com
@@ -5271,7 +5273,6 @@
 +.deepl.com
 +.deepmind.com
 +.deezer.com
-+.default.exp-tas.com
 +.definebabe.com
 +.definefetish.com
 +.degruyter.com
@@ -6649,6 +6650,7 @@
 +.exoav.com
 +.exotic-ghana.com
 +.exoticuganda.com
++.exp-tas.com
 +.expatshield.com
 +.expecthim.com
 +.expekt.com
@@ -7932,7 +7934,6 @@
 +.full:crl.versign.net
 +.full:databank.worldbank.org
 +.full:datarouter.apps.netherrealm.com
-+.full:default.exp-tas.com
 +.full:deutschewelle.h-cdn.com
 +.full:developer.microsoft.com
 +.full:developers.facebook.com
@@ -8483,6 +8484,7 @@
 +.githack.com
 +.github-api.arkoselabs.com
 +.github.blog
++.github.career
 +.github.com
 +.github.community
 +.github1s.com
@@ -11829,6 +11831,7 @@
 +.lidecheng.com
 +.lidl
 +.life-global.org
++.lifeatspotify.com
 +.lifemiles.com
 +.lifeselector.com
 +.lifewire.com
@@ -12329,6 +12332,7 @@
 +.manhwahentai.me
 +.maniakey.homes
 +.maniash.com
++.manjaro.org
 +.manorama.com
 +.manoramanews.com
 +.manoramaonline.com
@@ -16645,6 +16649,7 @@
 +.rocksextube.com
 +.rockstargames.com
 +.rockstarnorth.com
++.rockylinux.org
 +.rogers
 +.rojo.com
 +.roku.com
@@ -17985,6 +17990,7 @@
 +.spotifycharts.com
 +.spotifycodes.com
 +.spotifyforbrands.com
++.spotifyforvendors.com
 +.spotifyjobs.com
 +.spraynwash.com
 +.spreadprivacy.com
@@ -20447,6 +20453,8 @@
 +.vsco.co
 +.vscode-cdn.net
 +.vscode-unpkg.net
++.vscode-webview.net
++.vscodeedu.com
 +.vsezoo.com
 +.vsmarketplacebadge.apphb.com
 +.vsphere.com
