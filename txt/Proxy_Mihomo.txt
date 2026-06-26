@@ -4905,6 +4905,7 @@
 +.crbug.com
 +.crchina.org
 +.crd-net.org
++.creader.com
 +.creaders.net
 +.creadersnet.com
 +.creamasia.com
@@ -7938,7 +7939,6 @@
 +.full:developer.microsoft.com
 +.full:developers.facebook.com
 +.full:dl.begellhouse.com
-+.full:download.visualstudio.microsoft.com
 +.full:f3b7q2p3.ssl.hwcdn.net
 +.full:faronics.kayako.com
 +.full:firstsearch.oclc.org
