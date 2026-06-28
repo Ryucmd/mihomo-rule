@@ -1653,6 +1653,7 @@
 +.applepodcasts.com
 +.applereach.com
 +.applereach.net
++.appleschoolcontent.com
 +.applescreensavers.com
 +.applescript.info
 +.appleshare.info
@@ -1704,6 +1705,7 @@
 +.aptoide.com
 +.apture.com
 +.apyle.com
++.apzones.com
 +.aq
 +.aqdlt.net
 +.aqi.aqicn.org
@@ -2219,6 +2221,7 @@
 +.ax
 +.axa
 +.axios.com
++.axm-usercontent-apple.com
 +.axureformac.com
 +.ayabank.com
 +.ayshdade.info
@@ -3656,6 +3659,7 @@
 +.bsky.network
 +.bsky.social
 +.bstatic.com
++.bswd.org
 +.bsxm1213.pro
 +.bt
 +.bt2mag.com
@@ -5146,6 +5150,8 @@
 +.damduc.org
 +.damplips.com
 +.dandalinvoa.com
++.dandanplay.com
++.dandanplay.net
 +.dandanzan.cc
 +.danemarket.com
 +.danke4china.net
@@ -6015,7 +6021,6 @@
 +.e-traderland.net
 +.e-tugra.com
 +.e-zone.com.hk
-+.e000webhost.com
 +.e123.hk
 +.e53w.com
 +.e621.net
@@ -8201,6 +8206,7 @@
 +.gastrointestinalexam.com
 +.gate-project.com
 +.gate.cc
++.gate.com
 +.gatecoin.com
 +.gatedata.org
 +.gateimg.com
@@ -9483,6 +9489,7 @@
 +.hklft.com
 +.hklts.org.hk
 +.hkmap.live
++.hkong.hk
 +.hkopentv.com
 +.hkpeanut.com
 +.hkporn.net
@@ -10469,7 +10476,6 @@
 +.instagramm.com
 +.instagramn.com
 +.instagrampartners.com
-+.instagrampartners.onomist.com
 +.instagramphoto.com
 +.instagramq.com
 +.instagramsepeti.com
@@ -11429,6 +11435,7 @@
 +.keytransparency.com
 +.keytransparency.org
 +.kfh
++.kfor.com
 +.kg
 +.kgisystems.com
 +.kgslb.com
@@ -11455,7 +11462,6 @@
 +.kimchi.tv
 +.kimogirl.cc
 +.kimosex.com
-+.kimyoumind.com
 +.kindgirls.com
 +.kindindianporn.com
 +.kindle
@@ -12680,6 +12686,7 @@
 +.mhqwe.xyz
 +.mhradio.org
 +.mhshosting.com
++.mhwindow.org
 +.mi.kochudaho.me
 +.mi.mashiro.site
 +.mi9cdn.com
@@ -14771,7 +14778,6 @@
 +.osano.com
 +.osapublishing.org
 +.osdn.net
-+.osex.com
 +.osfoora.com
 +.osiri-suki-club.com
 +.osl.com
@@ -15142,6 +15148,7 @@
 +.pccw.com
 +.pccwglobal.com
 +.pccwsolutions.com
++.pcgamesn.com
 +.pcgamestorrents.com
 +.pcij.org
 +.pcloud.com
@@ -16550,6 +16557,7 @@
 +.resoubanana.buzz
 +.resoubang.buzz
 +.respawnbyrazer.com
++.restofworld.org
 +.restream-media.net
 +.rethink.net
 +.retimer.com
@@ -18144,7 +18152,6 @@
 +.stateofthemap.org
 +.static-cisco.com
 +.static-economist.com
-+.static-ecsforce.com
 +.static-nike.com
 +.static-storage.net
 +.static-verizon.com
@@ -18593,7 +18600,6 @@
 +.tbsn.org
 +.tbsseattle.org
 +.tbssqh.org
-+.tbswd.org
 +.tbthouston.org
 +.tc
 +.tccwonline.org
@@ -18760,6 +18766,7 @@
 +.thanksloyalty.com
 +.thawte.com
 +.thd
++.thd.com
 +.thdh.cc
 +.the-area.com
 +.the-japan-news.com
@@ -18838,6 +18845,7 @@
 +.theinitium.com
 +.theinstagramhack.com
 +.theintelstore.com
++.theintercept.com
 +.theinventionworks.com
 +.theinventionworks.net
 +.thekarups.com
@@ -19314,6 +19322,7 @@
 +.troisrivieresmini.com
 +.tronscan.org
 +.tropictube.com
++.trtworld.com
 +.trueamateurmodels.com
 +.trueamateurs.com
 +.trueanal.com
@@ -19624,6 +19633,7 @@
 +.twporn.net
 +.twreporter.org
 +.twskype.com
++.twstalker.com
 +.twstar.net
 +.twtkr.com
 +.twtrdns.net
@@ -20562,6 +20572,7 @@
 +.washeng.net
 +.washingtondcbmw.com
 +.washingtonpost.com
++.washingtontimes.com
 +.waskucity.com
 +.watch-ebay.org
 +.watch-my-gf.com

@@ -7582,6 +7582,7 @@
 +.71k.com
 +.71lady.com
 +.71p.net
++.71shi.net
 +.71tao.com
 +.71tech.com
 +.71txt.com
@@ -8678,6 +8679,7 @@
 +.8liuxing.com
 +.8llp.com
 +.8lun.com
++.8m2.net
 +.8m8t.com
 +.8mcn.com
 +.8mhh.com
@@ -10344,6 +10346,7 @@
 +.adpsh.com
 +.adqtt.net
 +.adquan.com
++.adrkwai.com
 +.ads66.com
 +.ads8.com
 +.adsalecdn.com
@@ -12182,6 +12185,7 @@
 +.aniu.so
 +.aniu.tv
 +.aniworld.tv
++.anixplayer.net
 +.anjgas.com
 +.anji-ceva.com
 +.anji-logistics.com
@@ -12688,6 +12692,7 @@
 +.apowogame.com
 +.apoyl.com
 +.app-router.com
++.app-static.com
 +.app001.com
 +.app0772.com
 +.app111.com
@@ -13201,6 +13206,7 @@
 +.at317.com
 +.at58.com
 +.at78.com
++.at8.fun
 +.at98.com
 +.ata-edu.com
 +.ata-test.net
@@ -18840,6 +18846,7 @@
 +.cantonfairad.com
 +.cantontower.com
 +.canvcan.com
++.canviewone.com
 +.canway.net
 +.canwayit.com
 +.canwaysoft.com
@@ -22194,6 +22201,7 @@
 +.chinaweizheng.com
 +.chinawepon.com
 +.chinawerewolf.com
++.chinawestagr.com
 +.chinawie.com
 +.chinawindnews.com
 +.chinawinjoy.com
@@ -22842,6 +22850,7 @@
 +.cilgroup.org
 +.cilin.org
 +.cilishenqi.cc
++.cilisouou.com
 +.cilogo.com
 +.cim2025.net
 +.cimamotor.com
@@ -23485,6 +23494,7 @@
 +.cm-inv.com
 +.cm-iov.com
 +.cm-worklink.com
++.cm1.hk
 +.cm233.com
 +.cm3721.com
 +.cm442.com
@@ -26772,6 +26782,7 @@
 +.cxumol.com
 +.cxw.com
 +.cxwl.com
++.cxwlad.com
 +.cxxjs.com
 +.cxy521.com
 +.cxy61.com
@@ -27115,6 +27126,7 @@
 +.d1f41d7b74d2717d.com
 +.d1ld.com
 +.d1lx.com
++.d1mgroup.com
 +.d1miao.com
 +.d1mm.com
 +.d1net.com
@@ -27528,7 +27540,6 @@
 +.dandanhou.net
 +.dandanjiang.tv
 +.dandanman.com
-+.dandanplay.com
 +.dandantang.com
 +.dandanvoice.com
 +.dandanz.com
@@ -30737,6 +30748,7 @@
 +.duiduihuishou.com
 +.duiduilian.com
 +.duiduipengds.com
++.duifene.com
 +.duijie666.com
 +.duikuang.com
 +.duimg.com
@@ -34227,6 +34239,7 @@
 +.fdbatt.com
 +.fdc0746.com
 +.fdcjj.org
++.fdctax.com
 +.fdcyun.com
 +.fdczbstatic.com
 +.fdd0cd79c10281.beer
@@ -34290,6 +34303,7 @@
 +.feelnowtrip.com
 +.feelsoar.com
 +.feemoo.com
++.feemoo.hk
 +.feemoo.vip
 +.feepan.com
 +.feeprint.com
@@ -35922,6 +35936,7 @@
 +.fthformal.com
 +.fthgz.com
 +.fthimalayandb.com
++.ftihzjg.com
 +.ftium4.com
 +.ftlcloud.com
 +.ftls.xyz
@@ -37383,6 +37398,7 @@
 +.gdroro.com
 +.gdrqj.org
 +.gdrsrc.com
++.gdrtt.net
 +.gdruien.com
 +.gdruisheng.com
 +.gdrxyy.com
@@ -39888,6 +39904,7 @@
 +.gugu.fun
 +.gugud.com
 +.gugudang.com
++.gugudata.com
 +.guguread.com
 +.gugushuzi.com
 +.guguyu.com
@@ -43714,6 +43731,7 @@
 +.haowen100.com
 +.haowenbo.com
 +.haowenshi.com
++.haowenti.net
 +.haowu.com
 +.haowu.link
 +.haowusong.com
@@ -46550,6 +46568,7 @@
 +.holoalpha.com
 +.holsauto.com
 +.holteksupport.com
++.holy58.com
 +.holymalls.com
 +.holyxiongan.com
 +.home0311.com
@@ -51331,6 +51350,7 @@
 +.innopro.cc
 +.innos.com
 +.innoscience.com
++.innosystemtech.com
 +.innotechx.com
 +.innotek-co.com
 +.innotimegood.com
@@ -52008,6 +52028,7 @@
 +.italyvisacenterd.com
 +.itamt.com
 +.itangbole.com
++.itangsoft.com
 +.itangyuan.com
 +.itanlian.com
 +.itany.com
@@ -53099,6 +53120,7 @@
 +.jfchinese.com
 +.jfcjt.com
 +.jfcoo.com
++.jfcoop.com
 +.jfdaily.com
 +.jfedu.net
 +.jfgjwl.com
@@ -66634,6 +66656,7 @@
 +.molimoli.tech
 +.moliplayer.com
 +.molipy.com
++.moliranran.com
 +.molishe.com
 +.molixiangce.com
 +.mollervilla.com
@@ -67498,6 +67521,7 @@
 +.myfans.cc
 +.myfdmg.com
 +.myfhospital.com
++.myfilm.cc
 +.myfrfr.com
 +.myfun7.com
 +.myfund.com
@@ -70720,6 +70744,7 @@
 +.oemsoc.download.prss.microsoft.com
 +.oemsocuat.download.prss.microsoft.com
 +.oemxitong.com
++.oend.net
 +.oeob.net
 +.oepkgs.net
 +.oepkgs.org
@@ -71097,6 +71122,7 @@
 +.onthetrip.com
 +.onthink.com
 +.onwaf.com
++.onwaytech.com
 +.onwear.net
 +.onwork.com
 +.onwsw.com
@@ -75014,6 +75040,7 @@
 +.qingtiancms.net
 +.qingting.fm
 +.qingting123.com
++.qingtingai.net
 +.qingtingfm.com
 +.qingtingip.com
 +.qingtingjh.com
@@ -93536,6 +93563,7 @@
 +.vt-pharm.com
 +.vtache.com
 +.vtcsy.com
++.vtdd.vip
 +.vteamgroup.com
 +.vtears.com
 +.vtepai.com
@@ -94032,6 +94060,7 @@
 +.wanh5.com
 +.wanhea.com
 +.wanhebin.com
++.wanhengtech.com
 +.wanheweb.com
 +.wanhi.com
 +.wanhongbao.com
@@ -96917,6 +96946,7 @@
 +.wsipv6.com
 +.wsisp.com
 +.wsisp.net
++.wsjqnmmrmv.world
 +.wsjtxia.com
 +.wskam.com
 +.wskj16818.xyz
@@ -98223,6 +98253,7 @@
 +.xdj-sz.com
 +.xdja.com
 +.xdjcgs.com
++.xdjk.net
 +.xdju.com
 +.xdjunxiao.com
 +.xdjy369.com
@@ -100437,6 +100468,7 @@
 +.xloveyoux.com
 +.xlpai.com
 +.xlpan.com
++.xlps.site
 +.xlqeai.com
 +.xlqzh.com
 +.xlread.com
@@ -107726,6 +107758,7 @@
 +.zggua.com
 +.zggwy.com
 +.zggwy.org
++.zggx100.com
 +.zggxgp.com
 +.zggxhj.com
 +.zggxlbc.com
@@ -108572,6 +108605,7 @@
 +.zhihuiep.com
 +.zhihuifangdong.net
 +.zhihuihongze.com
++.zhihuihub.com
 +.zhihuihuiwu.com
 +.zhihuihutong.com
 +.zhihuiji.com
