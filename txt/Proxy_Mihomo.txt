@@ -1529,7 +1529,6 @@
 +.appe-store.com
 +.appexchange.com
 +.appget.com
-+.appl# NAME: Proxy
 +.appl-e.com
 +.appl.com
 +.appl4e.com
@@ -6674,6 +6673,7 @@
 +.expofutures.com
 +.exporntoons.net
 +.exposedlatinas.com
++.expressnews.com
 +.expressvpn.com
 +.expresswifi.com
 +.exrates.me
@@ -10467,6 +10467,7 @@
 +.instagramcn.com
 +.instagramdi.com
 +.instagramhashtags.net
++.instagramhilecim.c# NAME: Proxy
 +.instagramhilecim.com
 +.instagramhilesi.org
 +.instagramium.com
@@ -12700,6 +12701,7 @@
 +.mickybells.com
 +.micoach.com
 +.microbit.org
++.microsof.com
 +.microsoft
 +.microsoft-give.com
 +.microsoft-int.com
@@ -13377,6 +13379,7 @@
 +.mt0011.site
 +.mtao.fun
 +.mthruf.com
++.mthrufdeos.cc
 +.mtn
 +.mtr
 +.mts-ws.net
@@ -15298,6 +15301,7 @@
 +.picnik.com
 +.picpost.com
 +.picsart.com
++.picsee.ccriptspot.com
 +.picsee.co
 +.picsee.pro
 +.pictet
@@ -16311,6 +16315,7 @@
 +.rapidssl.com
 +.rapidvpn.com
 +.raponlinereview.com
++.rapxmblr.com
 +.rarbg.me
 +.rarbgaccess.org
 +.rarbgaccessed.org
@@ -16534,6 +16539,7 @@
 +.renminbao.com
 +.renovacionoffice.com
 +.renovacionxboxlive.com
++.renproxymaster.com
 +.renshu.com
 +.rentaride.com
 +.rentry.co
@@ -17089,6 +17095,7 @@
 +.search.com
 +.searchtruth.com
 +.searx.me
++.seasidestoryo.com
 +.seat
 +.seatguru.com
 +.seattlefdc.com
@@ -19646,7 +19653,6 @@
 +.tx5254.com
 +.txcloud.net
 +.txdirectv.com
-+.txmblr.com
 +.txqzz34r.com
 +.txvia.com
 +.txvlog.com
@@ -20393,6 +20399,7 @@
 +.voyeurporntapes.com
 +.voyeurstyle.com
 +.voyeurweb.com
++.vpidvpn.com
 +.vpn.cjb.net
 +.vpn.net
 +.vpn4all.com
@@ -22120,6 +22127,7 @@
 +.zind.cloud
 +.zingtruyen.net
 +.zinio.com
++.zinitimer.com
 +.zip
 +.zipcine.com
 +.zippyshare.com
