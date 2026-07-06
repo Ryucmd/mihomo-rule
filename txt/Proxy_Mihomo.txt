@@ -6550,6 +6550,7 @@
 +.escort.guide
 +.escortamsterdam1.com
 +.escortdude.com
++.esellablue.com
 +.eset.com
 +.eset.systems
 +.esetsoftware.com
@@ -8513,6 +8514,7 @@
 +.gitlab.com
 +.gitlab.net
 +.gitmemory.com
++.gitstar.# NAME: Proxy
 +.gitstar.com
 +.gitstar.net
 +.gittigidiyor.net
@@ -14557,6 +14559,7 @@
 +.okko.sport
 +.okko.tv
 +.okkoapi.tv
++.oklduck.org
 +.oklink.com
 +.okpool.me
 +.okx-dns.com
@@ -15201,6 +15204,7 @@
 +.pegn.com
 +.peing.net
 +.pekingduck.org
++.pekingrg
 +.pelvicexam.info
 +.penchinese.com
 +.penchinese.net
@@ -15792,6 +15796,7 @@
 +.pornpaw.com
 +.pornper.com
 +.pornpics.com
++.pornpos.com
 +.pornpost.net
 +.pornpros.com
 +.pornprosnetwork.com
@@ -21057,7 +21062,7 @@
 +.wuso.me
 +.wuw.red
 +.wuxiapple.com
-+.wuyanblog.com
++.wuyanbloglbinance.com
 +.wuyefuli.org
 +.wvm0agb4.me
 +.ww9094.com
@@ -22124,7 +22129,7 @@
 +.zi.media
 +.zi5.me
 +.zibacity.com
-+.ziddu.com
++.ziddu.cot.net
 +.ziglang.org
 +.zillionk.com
 +.zind.cloud
