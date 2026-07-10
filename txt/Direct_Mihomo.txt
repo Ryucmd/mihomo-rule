@@ -13966,6 +13966,7 @@
 +.baibomedia.com
 +.baibu.com
 +.baic-group.com
++.baicaf.com
 +.baicai.asia
 +.baicai.com
 +.baicaijie09.com
@@ -28058,6 +28059,7 @@
 +.dcpfb.com
 +.dcqsq.com
 +.dcsapi.com
++.dcshfu.com
 +.dcshow.com
 +.dcsjw.com
 +.dcsme.org
@@ -46987,6 +46989,7 @@
 +.hpnfjx.com
 +.hpoi.net
 +.hprt.com
++.hprtupgrade.com
 +.hprx.com
 +.hps-sh.com
 +.hpstore.cc
@@ -51101,6 +51104,7 @@
 +.ind-map.com
 +.ind4.net
 +.ind9ed.com
++.indeedpower.com
 +.indetek-lab.com
 +.indexea.com
 +.indexedu.com
@@ -51592,6 +51596,7 @@
 +.iposeidonbussiness.com
 +.iposeidoncdn.com
 +.iposeidongame.com
++.iposl.com
 +.ipostalcode.com
 +.ipple.net
 +.ipplus360.com
@@ -61595,6 +61600,7 @@
 +.lissgx.com
 +.listary.net
 +.listarypro.com
++.listenai.com
 +.listeneer.com
 +.listeningo.com
 +.listenpa.com
@@ -65566,6 +65572,7 @@
 +.microzuji.com
 +.mictormedical.com
 +.micu.hk
++.micun.com
 +.micw.com
 +.micyjz.com
 +.mid-link.net
@@ -67593,6 +67600,7 @@
 +.mysteel.net
 +.mysteelcdn.com
 +.mysteelcms.com
++.mystery0.vip
 +.mysticalcard.com
 +.mysubmail.com
 +.mysupa.com
@@ -88427,6 +88435,7 @@
 +.tgcyber.com
 +.tgect.com
 +.tgeosmart.com
++.tggfl.com
 +.tgjh.com
 +.tgking.net
 +.tgkjjg.com
@@ -88598,6 +88607,7 @@
 +.thishealthsummit.com
 +.thismomentinamerica.org
 +.thisnew.com
++.thispx.com
 +.thisshop.com
 +.thiztech.com
 +.thjb.net
@@ -89543,6 +89553,7 @@
 +.tmuaih.com
 +.tmusoft.com
 +.tmuyun.com
++.tmwanba.com
 +.tmwcn.com
 +.tmwxxcx.com
 +.tmwzs.com
@@ -91602,6 +91613,7 @@
 +.ugirls.tv
 +.ugmars.com
 +.ugmjd.com
++.ugnas.cloud
 +.ugnas.com
 +.ugnx.net
 +.ugo-china.com
