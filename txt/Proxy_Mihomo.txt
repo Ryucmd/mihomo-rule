@@ -567,6 +567,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -8392,6 +8393,7 @@
 +.getpricetag.com
 +.getprintersupports.com
 +.getscorecash.com
++.getsentry.com
 +.getsession.org
 +.getsexgames.com
 +.getsocialscope.com
@@ -12189,7 +12191,6 @@
 +.lxqt-project.org
 +.lxxlxx.com
 +.ly
-+.lyeditions.com
 +.lyfhk.net
 +.lysol.com
 +.lysol.net
@@ -14862,7 +14863,6 @@
 +.oxfordpoliticstrove.com
 +.oxfordre.com
 +.oxfordreference.com
-+.oxfordscholar+.aaa
 +.oxfordscholarlyeditions.com
 +.oxfordscholarship.com
 +.oxfordwesternmusic.com
