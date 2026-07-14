@@ -567,7 +567,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1068,7 +1067,6 @@
 +.alexanderstreet.com
 +.alexlur.org
 +.alfa.me
-+.alfabank.oavdo.amc
 +.alfera.com.hk
 +.alforattv.net
 +.alfredapp.com
@@ -4221,6 +4219,7 @@
 +.chatango.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
++.chatgpt.site
 +.chatgptvideo.xyz
 +.chatgptvideob.buzz
 +.chatnook.com
@@ -5735,6 +5734,7 @@
 +.dongyangjing.com
 +.donkeykongcountryreturns.com
 +.donkparty.com
++.donmoore.com
 +.donpornogratis.com
 +.donsnaughtymodels.com
 +.dontmovetochina.com
@@ -7987,10 +7987,6 @@
 +.full:ood.opsource.net
 +.full:packages.microsoft.com
 +.full:play-edge.itunes.apple.com
-+.full:practivate.adobe
-+.full:practivate.adobe.ipp
-+.full:practivate.adobe.newoa
-+.full:practivate.adobe.ntp
 +.full:public-us-pingsx.api.clonoth.com
 +.full:roovza-launches.appsflyersdk.com
 +.full:roovza.inapps.appsflyersdk.com
@@ -8684,7 +8680,6 @@
 +.gonike.com
 +.gonzo-movies.com
 +.gonzo.com
-+.goo
 +.gooblox.com
 +.good-gay.com
 +.good.news
@@ -8788,6 +8783,7 @@
 +.gopivotal.net
 +.goporngate.com
 +.goproxing.net
++.gor+.aaa
 +.goragay.com
 +.gordonmoore.com
 +.goreforum.com
@@ -10526,7 +10522,6 @@
 +.intagrm.com
 +.intc.com
 +.integral7.com
-+.intel
 +.intel-research.net
 +.intel-university-collaboration.net
 +.intel.cc
@@ -11464,6 +11459,7 @@
 +.kia
 +.kichiku-doujinko.com
 +.kichikuou.com
++.kick.com
 +.kickporn.com
 +.kickshatchannel.com
 +.kicksnike1.com
@@ -11556,7 +11552,6 @@
 +.konachan.com
 +.konachan.net
 +.konachan.wjcodes.com
-+.konami
 +.konami-igaming.online
 +.konami.com
 +.konami.net
@@ -15924,10 +15919,6 @@
 +.pppds.com
 +.pr
 +.practicalbusinessskills.com
-+.practivate.adobe
-+.practivate.adobe.ipp
-+.practivate.adobe.newoa
-+.practivate.adobe.ntp
 +.pramerica
 +.praxi
 +.prayforchina.net
@@ -21416,7 +21407,6 @@
 +.xn--mgb9awbf
 +.xn--mgba3a3ejt
 +.xn--mgba3a4f16a
-+.xn--mgba3a4fra
 +.xn--mgba7c0bbn0a
 +.xn--mgbaam7a8h
 +.xn--mgbah1a3hjkrd
