@@ -102,6 +102,7 @@
 +.18comic.company
 +.18comic.org
 +.18comic.vip
++.18comim
 +.18commic.com
 +.18doujin.com
 +.18doujinshi.xyz
@@ -157,7 +158,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -795,6 +795,7 @@
 +.adult3dfantasycomics.com
 +.adult3dporno.com
 +.adult3dtoons.com
++.adult7.com
 +.adultartlinks.supertop-100.com
 +.adultartsites.com
 +.adultbay.org
@@ -883,6 +884,7 @@
 +.ag
 +.aga-expo.com
 +.agakhan
++.agb9r0ad.qllfkl.com
 +.agdbank.com
 +.age.tv
 +.agedm.org
@@ -2214,6 +2216,7 @@
 +.awstrack.me
 +.awstrust.com
 +.awswaf.com
++.awtrove.com
 +.awwcn.buzz
 +.awwcn.xyz
 +.awxcdn.com
@@ -3417,6 +3420,7 @@
 +.bnpparibas
 +.bnrmetal.com
 +.bntrace.com
++.bnxz.net
 +.bo
 +.boardreader.com
 +.boboporn.com
@@ -3827,6 +3831,7 @@
 +.bypasscensorship.org
 +.byrut.org
 +.byspotify.com
++.bystys.tech
 +.bytedapm.com
 +.byteoversea.com
 +.bytick.com
@@ -5734,7 +5739,6 @@
 +.dongyangjing.com
 +.donkeykongcountryreturns.com
 +.donkparty.com
-+.donmoore.com
 +.donpornogratis.com
 +.donsnaughtymodels.com
 +.dontmovetochina.com
@@ -7060,6 +7064,7 @@
 +.fanqiangzhe.com
 +.fans-here.com
 +.fans17.com
++.fansnudes.co1password.drift.click
 +.fansnudes.com
 +.fansone.co
 +.fansta.me
@@ -7936,6 +7941,7 @@
 +.full:1password.drift.click
 +.full:a4e8s8k3.map2.ssl.hwcdn.net
 +.full:adobeereg.com
++.full:agb9r0ad.qllfkl.com
 +.full:api.viu.now.com
 +.full:apple-tv-plus-press.apple.com
 +.full:azure.microsoft.com
@@ -7962,6 +7968,7 @@
 +.full:github-api.arkoselabs.com
 +.full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
 +.full:gog-cdn-lumen.secure2.footprint.net
++.full:hb4bbbbb.pmhcjk.com
 +.full:hls-amt.itunes.apple.com
 +.full:hls.itunes.apple.com
 +.full:hpstore.corpmerchandise.com
@@ -7973,6 +7980,7 @@
 +.full:location.microsoft.com
 +.full:medone-education.thieme.com
 +.full:mscrl.microsoft.com
++.full:nbbb1bb7.pmhcjk.com
 +.full:np-edge.itunes.apple.com
 +.full:ntp0.ntp-servers.net
 +.full:ntp1.ntp-servers.net
@@ -7988,6 +7996,7 @@
 +.full:packages.microsoft.com
 +.full:play-edge.itunes.apple.com
 +.full:public-us-pingsx.api.clonoth.com
++.full:q676790b.pmhcjk.com
 +.full:roovza-launches.appsflyersdk.com
 +.full:roovza.inapps.appsflyersdk.com
 +.full:roovza.launches.appsflyersdk.com
@@ -8508,6 +8517,7 @@
 +.githubassets.com
 +.githubcopilot.com
 +.githubhackathon.com
++.githubhackathonc.company
 +.githubnext.com
 +.githubstatus.com
 +.githubuniverse.com
@@ -8783,7 +8793,6 @@
 +.gopivotal.net
 +.goporngate.com
 +.goproxing.net
-+.gor+.aaa
 +.goragay.com
 +.gordonmoore.com
 +.goreforum.com
@@ -9072,6 +9081,7 @@
 +.hayabusa.media
 +.hayday.com
 +.haydaygame.com
++.hb4bbbbb.pmhcjk.com
 +.hbabit.com
 +.hbfile.net
 +.hbg.com
@@ -11865,7 +11875,12 @@
 +.lightyearvpn.com
 +.lihkg.com
 +.lihksnap.com
++.like-video.com
 +.like.com
++.like.video
++.likee.com
++.likee.video
++.likeevideo.com
 +.likeseiyu.com
 +.liketruyen.net
 +.liketwice.com
@@ -13090,6 +13105,7 @@
 +.moeimg.net
 +.moepedia.net
 +.moeshare.cc
++.moez-m+.aaa
 +.moez-m.com
 +.mof.kemomi.me
 +.mofaxiehui.com
@@ -13774,6 +13790,7 @@
 +.naydex.net
 +.nba
 +.nbabot.net
++.nbbb1bb7.pmhcjk.com
 +.nbc.co
 +.nbc.com
 +.nbcnews.com
@@ -14845,6 +14862,7 @@
 +.ovpn.com
 +.owind.com
 +.owltail.com
++.owxd.xyz
 +.oxfordaasc.com
 +.oxfordartonline.com
 +.oxfordbibliographies.com
@@ -14853,6 +14871,7 @@
 +.oxfordfirstsource.com
 +.oxfordhandbooks.com
 +.oxfordlawtrove.com
++.oxfordlchardli
 +.oxfordmedicine.com
 +.oxfordmusiconline.com
 +.oxfordpoliticstrove.com
@@ -16168,6 +16187,7 @@
 +.pzhanfor.today
 +.q13.com
 +.q13fox.com
++.q676790b.pmhcjk.com
 +.qa
 +.qanote.com
 +.qatarescortsvip.com
@@ -16612,8 +16632,8 @@
 +.rhodeislandbmw.com
 +.rhyw.me
 +.rhyw31.life
++.ri.com
 +.ricefever.com
-+.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16859,6 +16879,7 @@
 +.rw
 +.rwbautomation.tech
 +.rwe
++.rworld.org
 +.rxhj.net
 +.ryukyu
 +.s-bluemix.net
@@ -19927,6 +19948,7 @@
 +.uwants.net
 +.uwpcommunitytoolkit.com
 +.uxthemes.com
++.uxzw.club
 +.uy
 +.uyghur-j.org
 +.uyghuraa.org
@@ -19986,6 +20008,7 @@
 +.vanithaveedu.com
 +.vanpeople.com
 +.vansky.com
++.vapplestore.wang
 +.vastenm.com
 +.vatn.org
 +.vaultify.com
@@ -22007,6 +22030,7 @@
 +.ytimg.com
 +.yuanming.net
 +.yuanzhengtang.org
++.yucf.top
 +.yuenuge113.xyz
 +.yuenuge18.cc
 +.yugioh-card.com

@@ -36772,6 +36772,7 @@
 +.gaohuasec.com
 +.gaojer.com
 +.gaoji.ren
++.gaojidata.com
 +.gaojie.com
 +.gaojihealth.com
 +.gaojima.com
@@ -42128,6 +42129,7 @@
 +.gzanquan.com
 +.gzap.net
 +.gzaptech.net
++.gzasc.com
 +.gzasp.net
 +.gzate.com
 +.gzautojet.com
@@ -61126,7 +61128,6 @@
 +.lijjj.com
 +.likamao.com
 +.likangwei.com
-+.like.video
 +.like996.icu
 +.likeaboat2023.com
 +.likeacg.com
@@ -61134,7 +61135,6 @@
 +.likecha.com
 +.likechuxing.com
 +.likecs.com
-+.likee.video
 +.likeface.com
 +.likefar.com
 +.likefont.com
@@ -76196,6 +76196,7 @@
 +.qvxz.com
 +.qw5599.com
 +.qwbk.cc
++.qwdjapp.com
 +.qwe1e.com
 +.qweapi.com
 +.qweather.com
@@ -77709,6 +77710,7 @@
 +.rrrrdaimao.com
 +.rrrxz.com
 +.rrs.com
++.rrsp.app
 +.rrsurg.com
 +.rrswl.com
 +.rrting.net
@@ -94381,6 +94383,7 @@
 +.webok.me
 +.webok.net
 +.webond.net
++.weboss.hk
 +.webpackjs.com
 +.webportal.cc
 +.webportalapi.com
@@ -103181,6 +103184,7 @@
 +.yichengji.com
 +.yichengnews.com
 +.yichengwangluo.net
++.yichengwlkj.com
 +.yicheshi.com
 +.yichi.tech
 +.yichip.com
