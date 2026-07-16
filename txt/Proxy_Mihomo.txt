@@ -102,7 +102,6 @@
 +.18comic.company
 +.18comic.org
 +.18comic.vip
-+.18comim
 +.18commic.com
 +.18doujin.com
 +.18doujinshi.xyz
@@ -158,6 +157,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -567,6 +567,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -795,7 +796,6 @@
 +.adult3dfantasycomics.com
 +.adult3dporno.com
 +.adult3dtoons.com
-+.adult7.com
 +.adultartlinks.supertop-100.com
 +.adultartsites.com
 +.adultbay.org
@@ -2216,7 +2216,6 @@
 +.awstrack.me
 +.awstrust.com
 +.awswaf.com
-+.awtrove.com
 +.awwcn.buzz
 +.awwcn.xyz
 +.awxcdn.com
@@ -4838,6 +4837,7 @@
 +.coova.com
 +.coova.net
 +.coova.org
++.copilot-stg.com
 +.copilot.com
 +.copilot.microsoft.com
 +.copro.pw
@@ -7064,7 +7064,6 @@
 +.fanqiangzhe.com
 +.fans-here.com
 +.fans17.com
-+.fansnudes.co1password.drift.click
 +.fansnudes.com
 +.fansone.co
 +.fansta.me
@@ -8017,7 +8016,6 @@
 +.full:rsshub2.asailor.org
 +.full:ssl-lvlt.cdn.ea.com
 +.full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
-+.full:tesla-cdn.thron.com
 +.full:time.apple.com
 +.full:time.asia.apple.com
 +.full:time.euro.apple.com
@@ -8517,7 +8515,6 @@
 +.githubassets.com
 +.githubcopilot.com
 +.githubhackathon.com
-+.githubhackathonc.company
 +.githubnext.com
 +.githubstatus.com
 +.githubuniverse.com
@@ -12708,6 +12705,7 @@
 +.mgstage.com
 +.mh
 +.mh4u.org
++.mhgui.com
 +.mhhanman.xyz
 +.mhqwe.xyz
 +.mhradio.org
@@ -13105,7 +13103,6 @@
 +.moeimg.net
 +.moepedia.net
 +.moeshare.cc
-+.moez-m+.aaa
 +.moez-m.com
 +.mof.kemomi.me
 +.mofaxiehui.com
@@ -14871,7 +14868,6 @@
 +.oxfordfirstsource.com
 +.oxfordhandbooks.com
 +.oxfordlawtrove.com
-+.oxfordlchardli
 +.oxfordmedicine.com
 +.oxfordmusiconline.com
 +.oxfordpoliticstrove.com
@@ -16632,8 +16628,8 @@
 +.rhodeislandbmw.com
 +.rhyw.me
 +.rhyw31.life
-+.ri.com
 +.ricefever.com
++.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16879,7 +16875,6 @@
 +.rw
 +.rwbautomation.tech
 +.rwe
-+.rworld.org
 +.rxhj.net
 +.ryukyu
 +.s-bluemix.net
@@ -18166,6 +18161,7 @@
 +.starfishfx.com
 +.starfox.com
 +.stargazer-games.com
++.starlink.com
 +.starott.com
 +.starp2p.com
 +.starplus.com
@@ -18758,7 +18754,6 @@
 +.terobox.com
 +.terragraph.com
 +.terrapeak.com
-+.tesla-cdn.thron.com
 +.tesla.com
 +.tesla.services
 +.teslaenergy.services
@@ -20008,7 +20003,6 @@
 +.vanithaveedu.com
 +.vanpeople.com
 +.vansky.com
-+.vapplestore.wang
 +.vastenm.com
 +.vatn.org
 +.vaultify.com
