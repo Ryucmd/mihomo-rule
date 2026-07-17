@@ -4659,7 +4659,7 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404: Not Found404: Not Foundend-api.shallow.ink
++.404: Not Found404: Not Foundapi.blipsandchitz.me
 +.404mzk.com
 +.404wan.com
 +.404youxi.com
@@ -32450,6 +32450,7 @@
 +.enbamaoyi.com
 +.enbrands.com
 +.encthinking.com
++.end-api.shallow.ink
 +.end.shallow.ink
 +.enderuixm.com
 +.endianpp.com
@@ -47006,6 +47007,7 @@
 +.hrs100.com
 +.hrsalon.org
 +.hrsay.com
++.hrsecn.com
 +.hrsee.com
 +.hrsel.com
 +.hrsoft-china.com
