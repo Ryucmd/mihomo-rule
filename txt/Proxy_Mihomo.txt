@@ -7050,7 +7050,6 @@
 +.fangmincn.org
 +.fangong.org
 +.fangongheike.com
-+.fangscnsrc.me
 +.fangsung.com
 +.fanhaodang.com
 +.fanhaodian.com
@@ -20104,7 +20103,6 @@
 +.verygoodnike.com
 +.veryladyboy.com
 +.veryshortintroductions.com
-+.vevo.coeqiang.com
 +.vevo.com
 +.vewas.net
 +.vfabric.net
