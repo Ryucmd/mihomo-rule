@@ -2809,6 +2809,7 @@
 +.berlincompanions.com
 +.berlintwitterwall.com
 +.best-sex-games.com
++.best2pay.net
 +.best4bim.com
 +.bestbeats4u.com
 +.bestbhy.com
@@ -4537,6 +4538,7 @@
 +.clashofclans.com
 +.clashroyale.com
 +.clashroyaleapp.com
++.clashyun.com
 +.clasporno.org
 +.classicalguitarblog.net
 +.classicnike.com
@@ -6714,6 +6716,8 @@
 +.f-droid.com
 +.f-droid.org
 +.f-secure.com
++.f1.com
++.f1tv.com
 +.f2pool.com
 +.f3b7q2p3.ssl.hwcdn.net
 +.f5pf.com
@@ -7501,6 +7505,7 @@
 +.forhertube.com
 +.formit360.com
 +.formitfactory.com
++.formula1.com
 +.forpojie.pics
 +.fortawesome.com
 +.forthebadge.com
@@ -16396,8 +16401,10 @@
 +.rbnainternational.com
 +.rbplc.com
 +.rbrandlibrary.com
++.rbsgate.com
 +.rbsgr.com
 +.rbspeakup.com
++.rbsuat.com
 +.rbth.com
 +.rbx.com
 +.rbxcdn.com
@@ -18508,6 +18515,7 @@
 +.sysinternals.com
 +.sysresccd.org
 +.system76.com
++.sysub.com
 +.sytes.net
 +.syx86.com
 +.syzbj36.xyz
