@@ -2040,7 +2040,7 @@
 +.168zcw.com
 +.169.com
 +.169163.com
-+.169369.com
++.16936404: Not Found9.com
 +.16949pcb.com
 +.1696.com
 +.169666.xyz
@@ -4660,7 +4660,6 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404: Not Found404: Not Foundapi.blipsandchitz.me
 +.404mzk.com
 +.404wan.com
 +.404youxi.com
@@ -12531,6 +12530,7 @@
 +.api-m.com
 +.api-vod-qcloud.com
 +.api.anythinktech.com
++.api.blipsandchitz.me
 +.api.so
 +.apiairasia.com
 +.apiandroid.com
@@ -100264,6 +100264,7 @@
 +.xmmuye.com
 +.xmnjdwx.com
 +.xmocloud01.com
++.xmoj.tech
 +.xmonecode.com
 +.xmos.tv
 +.xmov.ai

@@ -7461,6 +7461,7 @@
 +.fmcebook.com
 +.fmdesktop.com
 +.fmnnow.com
++.fn.com
 +.fnac.com
 +.fnacebook.com
 +.fnlondon.com
@@ -8040,6 +8041,7 @@
 +.full:zftksc.cdn-settings.appsflyersdk.com
 +.full:zftksc.launches.appsflyersdk.com
 +.fulldesisex.com
++.fullerconsideratio000webhost.com
 +.fullerconsideration.com
 +.fullfuli.com
 +.fullhdxxx.com
@@ -10845,6 +10847,7 @@
 +.iutunes.com
 +.ivacy.com
 +.iverycd.com
++.ivicdn.tv
 +.ivintageporn.com
 +.ivonblog.com
 +.ivpn.net
@@ -11501,6 +11504,7 @@
 +.kindleren.com
 +.kindnudist.com
 +.kindteenporn.com
++.kinescopecdn.net
 +.kingcomix.com
 +.kingdomsalvation.org
 +.kingextre.me
@@ -13381,6 +13385,7 @@
 +.msgamesresearch.com
 +.msgamestudios.com
 +.msguancha.com
++.msharg
 +.mshome.net
 +.msi.cn
 +.msi.com
@@ -14311,6 +14316,7 @@
 +.notion.com
 +.notion.site
 +.notionusercontent.com
++.notlongbridge.com
 +.nottinghampost.com
 +.novafile.com
 +.novelasia.com
@@ -17026,6 +17032,7 @@
 +.sb24.com
 +.sber.pro
 +.sberauto.com
++.sberbank-tele.com
 +.sberbank.com
 +.sbercloud.tech
 +.sbgkstv.shop
@@ -19136,6 +19143,7 @@
 +.tiney.com
 +.tineye.com
 +.ting53.xyz
++.tinghampost.com
 +.tingtalk.me
 +.tinhduc.org
 +.tinkerboxapp.com
