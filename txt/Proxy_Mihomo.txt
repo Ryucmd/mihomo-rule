@@ -7461,7 +7461,6 @@
 +.fmcebook.com
 +.fmdesktop.com
 +.fmnnow.com
-+.fn.com
 +.fnac.com
 +.fnacebook.com
 +.fnlondon.com
@@ -8041,7 +8040,6 @@
 +.full:zftksc.cdn-settings.appsflyersdk.com
 +.full:zftksc.launches.appsflyersdk.com
 +.fulldesisex.com
-+.fullerconsideratio000webhost.com
 +.fullerconsideration.com
 +.fullfuli.com
 +.fullhdxxx.com
@@ -13385,7 +13383,6 @@
 +.msgamesresearch.com
 +.msgamestudios.com
 +.msguancha.com
-+.msharg
 +.mshome.net
 +.msi.cn
 +.msi.com
@@ -14316,7 +14313,6 @@
 +.notion.com
 +.notion.site
 +.notionusercontent.com
-+.notlongbridge.com
 +.nottinghampost.com
 +.novafile.com
 +.novelasia.com
@@ -19143,7 +19139,6 @@
 +.tiney.com
 +.tineye.com
 +.ting53.xyz
-+.tinghampost.com
 +.tingtalk.me
 +.tinhduc.org
 +.tinkerboxapp.com
