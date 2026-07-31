@@ -27416,6 +27416,7 @@
 +.daododo.com
 +.daoduoduo.com
 +.daofengdj.com
++.daogou.ai
 +.daoguo.com
 +.daohang198.com
 +.daohang4.com
@@ -45543,6 +45544,7 @@
 +.hklmoto.com
 +.hklmxcx.com
 +.hkm168.com
++.hkmanga.com
 +.hkmedtime.com
 +.hkmeinian.com
 +.hkmipo.com
@@ -63732,6 +63734,7 @@
 +.managershare.com
 +.manamana.net
 +.manben.com
++.manbenapi.com
 +.manbetxoo.com
 +.manbetxrr.com
 +.manboker.com
@@ -99214,6 +99217,7 @@
 +.xinlilw.com
 +.xinlinghuayuan.com
 +.xinlingletu.com
++.xinlingshou.com
 +.xinlip.com
 +.xinlischool.com
 +.xinlishumeng.com
