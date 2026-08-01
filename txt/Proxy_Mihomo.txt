@@ -5396,6 +5396,7 @@
 +.detentiongirls.com
 +.detodosparatodos.org
 +.dettol-prize.com
++.dettol.# NAME: Proxy
 +.dettol.com
 +.dettol.com.hk
 +.dettol.net
@@ -10468,6 +10469,7 @@
 +.insecam.org
 +.inshot.cc
 +.inshot.com
++.inshot.crshow.com
 +.inshotapp.com
 +.insidefilms.com
 +.insidemacintosh.com
@@ -11443,6 +11445,7 @@
 +.keepyourcad.com
 +.keezmovies.com
 +.keiba.net
++.kemo.org
 +.kemono.party
 +.kemptechnologies.com
 +.kendatire.com
@@ -15210,7 +15213,7 @@
 +.pdproxy.com
 +.pdxbmw.com
 +.pe
-+.peacefire.org
++.peacefirec
 +.peacehall.com
 +.peach-cherry.com
 +.peachy18.com
