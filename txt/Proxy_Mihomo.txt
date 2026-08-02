@@ -677,6 +677,7 @@
 +.acs.org
 +.actalis.com
 +.actfortibet.org
++.actifio.com
 +.activematter.game
 +.activeteachonline.com
 +.activpn.com
@@ -5396,7 +5397,6 @@
 +.detentiongirls.com
 +.detodosparatodos.org
 +.dettol-prize.com
-+.dettol.# NAME: Proxy
 +.dettol.com
 +.dettol.com.hk
 +.dettol.net
@@ -6051,6 +6051,7 @@
 +.eablackbox.com
 +.eac-cdn.com
 +.eacashcard.com
++.eacashcardg
 +.eachpay.com
 +.eachpay.net
 +.eacodigos.com
@@ -10469,7 +10470,6 @@
 +.insecam.org
 +.inshot.cc
 +.inshot.com
-+.inshot.crshow.com
 +.inshotapp.com
 +.insidefilms.com
 +.insidemacintosh.com
@@ -11108,6 +11108,7 @@
 +.jetbrains.cloud
 +.jetbrains.com
 +.jetbrains.net
++.jetbrains.org
 +.jetbrains.space
 +.jetbrains.team
 +.jetfuelapp.com
@@ -11445,7 +11446,6 @@
 +.keepyourcad.com
 +.keezmovies.com
 +.keiba.net
-+.kemo.org
 +.kemono.party
 +.kemptechnologies.com
 +.kendatire.com
@@ -11597,6 +11597,7 @@
 +.korewaeroi.com
 +.korona.com
 +.kostenlosepornoclips.com
++.kotlinconf.com
 +.kotlinlang.org
 +.kouwobb.com
 +.kp
@@ -13618,6 +13619,7 @@
 +.myiphide.com
 +.myiphider.com
 +.myipod.net
++.myjetbrains.com
 +.myjkwd.com
 +.mykomica.org
 +.mylcloud.net
@@ -14377,6 +14379,7 @@
 +.ntdtv.org
 +.ntdtvla.com
 +.ntdvn.com
++.nthlink.com
 +.ntl.fyi
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
@@ -14776,6 +14779,7 @@
 +.openweathermap.org
 +.openwebster.com
 +.openwrt.org
++.openxla.org
 +.opera.com
 +.opinionjournal.com
 +.oppai-doga.info
@@ -15213,7 +15217,7 @@
 +.pdproxy.com
 +.pdxbmw.com
 +.pe
-+.peacefirec
++.peacefire.org
 +.peacehall.com
 +.peach-cherry.com
 +.peachy18.com
@@ -18600,6 +18604,7 @@
 +.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
++.talkingkotlin.com
 +.talkonly.net
 +.talksport.com
 +.tamilsexvideos.cc
@@ -19024,6 +19029,7 @@
 +.thywords.com
 +.thz7.net
 +.thzu.cc
++.ti.com
 +.tiaa
 +.tiananmenduizhi.com
 +.tiananmenmother.org
@@ -21930,6 +21936,7 @@
 +.ymhsf1.top
 +.yndx.net
 +.ynoproject.net
++.ynypaste.com
 +.yo-star.com
 +.yo1health.com
 +.yobit.net
