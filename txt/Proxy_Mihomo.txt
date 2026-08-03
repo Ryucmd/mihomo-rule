@@ -567,7 +567,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1329,6 +1328,7 @@
 +.amzndns.org
 +.amznl.com
 +.anacams.com
++.anaco+.aaa
 +.anaconda.cloud
 +.anaconda.com
 +.anaconda.org
@@ -6051,7 +6051,6 @@
 +.eablackbox.com
 +.eac-cdn.com
 +.eacashcard.com
-+.eacashcardg
 +.eachpay.com
 +.eachpay.net
 +.eacodigos.com
@@ -13826,6 +13825,7 @@
 +.ncloud.com
 +.ncn.org
 +.ncol.com
++.nda.cloud
 +.ndi.org
 +.ne
 +.nebay.net
@@ -19029,7 +19029,6 @@
 +.thywords.com
 +.thz7.net
 +.thzu.cc
-+.ti.com
 +.tiaa
 +.tiananmenduizhi.com
 +.tiananmenmother.org
@@ -21936,7 +21935,6 @@
 +.ymhsf1.top
 +.yndx.net
 +.ynoproject.net
-+.ynypaste.com
 +.yo-star.com
 +.yo1health.com
 +.yobit.net
