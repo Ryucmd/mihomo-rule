@@ -184,6 +184,7 @@
 +.2047.name
 +.2047.one
 +.2049bbs.xyz
++.20thcenturystudios.com
 +.20yearsoffea.com
 +.21andy.com
 +.21centuryaccess.com
@@ -215,11 +216,14 @@
 +.2bit8.com
 +.2buybeatsbydre.com
 +.2ch.hk
++.2ch.life
 +.2ch.net
++.2ch.org
 +.2chav.com
 +.2dgen.com
 +.2drdrebeats.com
 +.2du5.com
++.2dust.link
 +.2gayboys.com
 +.2gis.com
 +.2gis.tech
@@ -594,6 +598,7 @@
 +.abcheadphones.com
 +.abchinese.com
 +.abclider.com
++.abcnews.com
 +.abeatsbydrdre.com
 +.abebooks.com
 +.abellalist.com
@@ -1304,6 +1309,7 @@
 +.amnesty.org
 +.amnesty.org.hk
 +.amnestyusa.org
++.amnezia.org
 +.amnyemachen.org
 +.amodoll.com
 +.amoiist.com
@@ -2345,6 +2351,7 @@
 +.baltimorebmw.com
 +.baltnews.com
 +.bamgrid.com
++.bamtech.net
 +.bamtoki.com
 +.banamex
 +.banan.tv
@@ -4542,6 +4549,7 @@
 +.clash.com
 +.clashmini.com
 +.clashofclans.com
++.clashparty.org
 +.clashroyale.com
 +.clashroyaleapp.com
 +.clashyun.com
@@ -4607,6 +4615,7 @@
 +.cloudflare-terms-of-service-abuse.com
 +.cloudflare.com
 +.cloudflare.net
++.cloudflare.pay
 +.cloudflare.tv
 +.cloudflareaccess.com
 +.cloudflareapps.com
@@ -5351,7 +5360,6 @@
 +.deluxe.com.hk
 +.delvenetworks.com
 +.demandware.com
-+.demdex.net
 +.demo.opera-mini.net
 +.democracy.earth
 +.democrats.org
@@ -5398,6 +5406,7 @@
 +.detaliczny.com
 +.detentiongirls.com
 +.detodosparatodos.org
++.detpress.com
 +.dettol-prize.com
 +.dettol.com
 +.dettol.com.hk
@@ -5597,7 +5606,9 @@
 +.disney.asia
 +.disney.com
 +.disney.com.hk
++.disneyaccount.com
 +.disneyadsales.com
++.disneyanimation.com
 +.disneyarena.com
 +.disneyaulani.com
 +.disneybaby.com
@@ -5613,6 +5624,7 @@
 +.disneyinternationalhd.com
 +.disneyjunior.com
 +.disneyjuniortreataday.com
++.disneylandparis.com
 +.disneylatino.com
 +.disneymagicmomentsme.com
 +.disneyme.com
@@ -5624,11 +5636,13 @@
 +.disneypeoplesurveys.com
 +.disneyplus.bn5x.net
 +.disneyplus.com
++.disneyprivacycenter.com
 +.disneyredirects.com
 +.disneysrivieraresort.com
 +.disneystore.com
 +.disneystreaming.com
 +.disneysubscription.com
++.disneytermsofuse.com
 +.disneytvajobs.com
 +.disneyworld-go.com
 +.disp.cc
@@ -7780,6 +7794,7 @@
 +.freefacebookads.net
 +.freefblikes.com
 +.freefbx.com
++.freeform.com
 +.freeforums.org
 +.freefq.com
 +.freefuckvids.com
@@ -9611,6 +9626,7 @@
 +.honeynet.org
 +.hongjie10.xyz
 +.hongjie11.xyz
++.hongkongdisneyland.com
 +.hongkongdoll.tv
 +.hongkongdollvideo.org
 +.hongkongfp.com
@@ -10405,6 +10421,7 @@
 +.incloak.com
 +.inclusivegrowthscore.com
 +.incommon-rsa.org
++.incy.cc
 +.indazn.com
 +.indaznlab.com
 +.independentoperatorcn.com
@@ -12185,6 +12202,7 @@
 +.lubetube.com
 +.lucahmelayu.club
 +.lucasentertainment.com
++.lucasfilm.com
 +.luckydesigner.space
 +.luckyissue.com
 +.ludepress.com
@@ -13856,6 +13874,7 @@
 +.neicad.com
 +.neiexplicit.com
 +.neifea.com
++.neigbuy.com
 +.neimotion.com
 +.neinastranincad.com
 +.neisoftware.com
@@ -14371,6 +14390,7 @@
 +.ns3.name
 +.nsfwmemes.com
 +.nsimg.net
++.nsloon.com
 +.nssurge.com
 +.ntc.party
 +.ntd.com
@@ -14683,6 +14703,7 @@
 +.onetrust.com
 +.onevps.com
 +.oneworldmanystories.com
++.onexray.com
 +.onindiansex.com
 +.oninstagram.com
 +.onion.city
@@ -15415,6 +15436,7 @@
 +.piwheels.org
 +.pixanalytics.com
 +.pixapp.net
++.pixar.com
 +.pixate.com
 +.pixeldrain.com
 +.pixelmator.com
@@ -17153,6 +17175,7 @@
 +.seaporn.org
 +.seapuff.com
 +.search.com
++.searchlightpictures.com
 +.searchtruth.com
 +.searx.me
 +.seat
@@ -17457,6 +17480,7 @@
 +.shadbase.com
 +.shadeyouvpn.com
 +.shadowcomplex.com
++.shadowlaunch.com
 +.shadowsky.xyz
 +.shadowslaves.com
 +.shadowsocks-r.com
@@ -18216,6 +18240,7 @@
 +.starwarsjedifallenorder.com
 +.starwarskids.com
 +.starwarstheoldrepublic.com
++.stash.wiki
 +.statebank
 +.statefarm
 +.stateofthemap.com
@@ -18987,6 +19012,7 @@
 +.theverge.com
 +.thevirtualsexreview.com
 +.thevivekspot.com
++.thewaltdisneycompany.com
 +.theweek.com
 +.thewgo.org
 +.thewirechina.com
@@ -20600,6 +20626,7 @@
 +.walmart.com
 +.walmart.pharmacy
 +.walmartimages.com
++.waltdisneystudios.com
 +.walter
 +.waltermartin.com
 +.waltermartin.org
@@ -20795,6 +20822,7 @@
 +.wfm.com
 +.wforum.com
 +.wgcdn.co
++.wgtunnel.com
 +.whasil.xyz
 +.what-fan.net
 +.whatblocked.com
@@ -20969,6 +20997,7 @@
 +.wirelessreach.com
 +.wiremoneytoirelandwithxoomeasierandcheaper.com
 +.wireshark.org
++.wiresock.net
 +.wisdompubs.org
 +.wise-research.com
 +.wise.com
