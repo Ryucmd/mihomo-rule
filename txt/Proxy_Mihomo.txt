@@ -157,6 +157,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -5331,7 +5332,6 @@
 +.delets.online
 +.delicious.com
 +.dell
-+.dell.a-ace.com
 +.dell.com
 +.dell.com.co
 +.dell.com.hk
@@ -6048,7 +6048,6 @@
 +.dysfz.cc
 +.dz
 +.dzcdn.net
-+.dzenhewlett-packard.mobi
 +.dzze.com
 +.e-bay.com
 +.e-bay.net
@@ -7986,7 +7985,6 @@
 +.full:cisco.evergage.com
 +.full:crl.microsoft.com
 +.full:crl.versign.net
-+.full:d2abensorship.org
 +.full:databank.worldbank.org
 +.full:datarouter.apps.netherrealm.com
 +.full:deutschewelle.h-cdn.com
@@ -17073,7 +17071,6 @@
 +.sberbank-tele.com
 +.sberbank.com
 +.sbercloud.tech
-+.sberlos.info
 +.sbgkstv.shop
 +.sbi
 +.sbitravelcard.com
@@ -19227,7 +19224,6 @@
 +.tksex.com
 +.tktube.com
 +.tl
-+.tl.gd1password.drift.click
 +.tm
 +.tmagazine.com
 +.tmblr.co
