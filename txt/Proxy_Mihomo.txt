@@ -571,6 +571,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2909,6 +2910,7 @@
 +.betternet.co
 +.betternike.com
 +.bettervpn.com
++.betterwithauto000webhost.com
 +.betterwithautodesk.com
 +.bettween.com
 +.betvictor.com
@@ -3565,6 +3567,7 @@
 +.braintreepayments.tv
 +.braintreepaymentsolutions.com
 +.braintreeps.com
++.braintreer.com
 +.brainyquote.com
 +.branchportal.com
 +.brand-protection-team.com
@@ -4406,6 +4409,7 @@
 +.chinesedaily.com
 +.chinesedailynews.com
 +.chinesedemocracy.com
++.chinesedemocracy.comcom
 +.chinesegay.org
 +.chinesepen.org
 +.chineseradioseattle.com
@@ -5015,6 +5019,7 @@
 +.cshive.com
 +.csifund.org
 +.csis.org
++.csmonitodesk.com
 +.csmonitor.com
 +.csrankings.org
 +.cstatic.net
@@ -5332,7 +5337,7 @@
 +.delcam-electrode.com
 +.delcam-na.com
 +.delcam-robotics.com
-+.delcam-se+.aaa
++.delcam-robotlvpn.com
 +.delcam-services.com
 +.delcam.com
 +.delcamconsulting.com
@@ -10201,6 +10206,7 @@
 +.icqtoday.com
 +.icqtutor.com
 +.icqvideo.com
++.ics.com
 +.icu-project.org
 +.icuminside.com
 +.id
@@ -12856,6 +12862,7 @@
 +.microsofttranslator.com
 +.microsoftuwp.com
 +.microvpn.com
++.microvpn.ps.com
 +.micstl.com
 +.midatlanticbmwmotorcycles.com
 +.middle-way.net
@@ -16957,7 +16964,6 @@
 +.rutube.sport
 +.ruvideos.net
 +.ruyiseek.com
-+.rvices.com
 +.rw
 +.rwbautomation.tech
 +.rwe
@@ -17112,6 +17118,8 @@
 +.sbuxcard.com
 +.sc
 +.sc-cdn.net
++.sc-gw.com
++.sc-static.net
 +.sc.com
 +.sca-tolo.info
 +.scala-lang.org
