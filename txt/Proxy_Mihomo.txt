@@ -2910,7 +2910,6 @@
 +.betternet.co
 +.betternike.com
 +.bettervpn.com
-+.betterwithauto000webhost.com
 +.betterwithautodesk.com
 +.bettween.com
 +.betvictor.com
@@ -3567,7 +3566,6 @@
 +.braintreepayments.tv
 +.braintreepaymentsolutions.com
 +.braintreeps.com
-+.braintreer.com
 +.brainyquote.com
 +.branchportal.com
 +.brand-protection-team.com
@@ -4409,7 +4407,6 @@
 +.chinesedaily.com
 +.chinesedailynews.com
 +.chinesedemocracy.com
-+.chinesedemocracy.comcom
 +.chinesegay.org
 +.chinesepen.org
 +.chineseradioseattle.com
@@ -5019,7 +5016,6 @@
 +.cshive.com
 +.csifund.org
 +.csis.org
-+.csmonitodesk.com
 +.csmonitor.com
 +.csrankings.org
 +.cstatic.net
@@ -5337,7 +5333,6 @@
 +.delcam-electrode.com
 +.delcam-na.com
 +.delcam-robotics.com
-+.delcam-robotlvpn.com
 +.delcam-services.com
 +.delcam.com
 +.delcamconsulting.com
@@ -10206,7 +10201,6 @@
 +.icqtoday.com
 +.icqtutor.com
 +.icqvideo.com
-+.ics.com
 +.icu-project.org
 +.icuminside.com
 +.id
@@ -12862,7 +12856,6 @@
 +.microsofttranslator.com
 +.microsoftuwp.com
 +.microvpn.com
-+.microvpn.ps.com
 +.micstl.com
 +.midatlanticbmwmotorcycles.com
 +.middle-way.net
