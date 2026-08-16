@@ -571,7 +571,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4407,6 +4406,7 @@
 +.chinesedaily.com
 +.chinesedailynews.com
 +.chinesedemocracy.com
++.chinesedemocracy.com+.aaa
 +.chinesegay.org
 +.chinesepen.org
 +.chineseradioseattle.com
@@ -16953,6 +16953,7 @@
 +.rutracker.me
 +.rutracker.net
 +.rutracker.org
++.rutracker.wiki
 +.rutrk.org
 +.rutube.sport
 +.ruvideos.net
