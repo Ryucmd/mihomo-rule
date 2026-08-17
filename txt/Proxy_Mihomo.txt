@@ -571,6 +571,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4406,7 +4407,6 @@
 +.chinesedaily.com
 +.chinesedailynews.com
 +.chinesedemocracy.com
-+.chinesedemocracy.com+.aaa
 +.chinesegay.org
 +.chinesepen.org
 +.chineseradioseattle.com
@@ -14097,6 +14097,7 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
++.ngbridge.cn
 +.ngensis.com
 +.ngeo.com
 +.nginx.com
@@ -14795,6 +14796,7 @@
 +.openai.com
 +.openallweb.com
 +.openamt.com
++.openapi-trade.lo
 +.openapiplatform.com
 +.openapiservice.com
 +.openbase.com
@@ -19201,6 +19203,7 @@
 +.tiktokeu-cdn.com
 +.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
++.tiktokrow-cdn.com000webhost.com
 +.tiktokv.com
 +.tilda.cc
 +.tildaapi.com
