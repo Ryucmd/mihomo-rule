@@ -14097,7 +14097,6 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
-+.ngbridge.cn
 +.ngensis.com
 +.ngeo.com
 +.nginx.com
@@ -14796,7 +14795,6 @@
 +.openai.com
 +.openallweb.com
 +.openamt.com
-+.openapi-trade.lo
 +.openapiplatform.com
 +.openapiservice.com
 +.openbase.com
@@ -19203,7 +19201,6 @@
 +.tiktokeu-cdn.com
 +.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
-+.tiktokrow-cdn.com000webhost.com
 +.tiktokv.com
 +.tilda.cc
 +.tildaapi.com
