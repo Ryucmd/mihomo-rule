@@ -1496,6 +1496,7 @@
 +.api.moomoobull.com
 +.api.news
 +.api.proxlet.com
++.api.shuaiapi.com
 +.api.waqi.info
 +.apibay.org
 +.apigee.com
