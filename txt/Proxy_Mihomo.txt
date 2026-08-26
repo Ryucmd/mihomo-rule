@@ -715,6 +715,7 @@
 +.adguard.info
 +.adguard.org
 +.adguardaccount.com
++.adguardaccount.net
 +.adguardcdn.com
 +.adguardvpn.com
 +.adhelpnews.com
@@ -14927,6 +14928,7 @@
 +.oursogo.com
 +.oursweb.net
 +.ourtv.hk
++.ouryahoo.com
 +.out-app-purchase.com
 +.outdoorpublicsex.com
 +.outingsapp.com
@@ -21922,6 +21924,7 @@
 +.yahoodns.net
 +.yahoofinance.com
 +.yahoohealth.com
++.yahooinc.com
 +.yahoomusic.com
 +.yahoosandbox.com
 +.yahoosportsbook.com
