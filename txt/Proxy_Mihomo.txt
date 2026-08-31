@@ -8443,6 +8443,7 @@
 +.getjetso.com
 +.getlantern.org
 +.getmalus.com
++.getmonero.org
 +.getoutline.org
 +.getpaint.net
 +.getpersonas.com
