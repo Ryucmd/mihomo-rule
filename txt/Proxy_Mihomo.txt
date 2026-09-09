@@ -8720,6 +8720,7 @@
 +.gogotunnel.com
 +.gohentai.net
 +.goicq.org
++.goizhong.org
 +.gokbayrak.com
 +.golang.com
 +.golang.net
@@ -12286,6 +12287,7 @@
 +.m2m.com
 +.m8008.com
 +.ma
++.ma000webhost.com
 +.ma1lib.org
 +.maa.plus
 +.mabbank.com
@@ -12384,7 +12386,6 @@
 +.maintracker.org
 +.maiplus.com
 +.mairbeats.com
-+.maizhong.org
 +.makaan.com
 +.makeanything.com
 +.makearmanotwar.com
@@ -14360,6 +14361,7 @@
 +.nodejs.org
 +.nodequality.com
 +.nodeseek.com
++.nodeseek.org
 +.nodesource.com
 +.noisullifb.com
 +.nokia
@@ -14760,6 +14762,7 @@
 +.onkakao.net
 +.online-deals.net
 +.online-instagram.com
++.online.recoverki.com
 +.onlineapplestore.com
 +.onlinecha.com
 +.onlinefucktube.com
@@ -14957,6 +14960,7 @@
 +.owind.com
 +.owltail.com
 +.owxd.xyz
++.ox.com
 +.oxfordaasc.com
 +.oxfordartonline.com
 +.oxfordbibliographies.com
@@ -15270,7 +15274,6 @@
 +.pbabes.com
 +.pbjar1205.pro
 +.pbs.org
-+.pbwiki.com
 +.pbworks.com
 +.pbxes.com
 +.pbxes.org
@@ -17991,6 +17994,7 @@
 +.softlayer.net
 +.softmodels.net
 +.softwarebychuck.com
++.softwaryversion.org
 +.sogclub.com
 +.sogoo.org
 +.sogrady.me
@@ -18110,6 +18114,7 @@
 +.spasibo.digital
 +.spasibo.market
 +.spb.com
++.spbebychuck.com
 +.spcc-sp.com
 +.speakerdeck.com
 +.specialtyheadphones.com
@@ -18651,6 +18656,7 @@
 +.t35.com
 +.t66y.com
 +.t91y.com
++.ta.com
 +.taa-usa.org
 +.tab
 +.tablesgenerator.com
@@ -18687,7 +18693,6 @@
 +.taiwankiss.com
 +.taiwannation.com
 +.taiwanonline.cc
-+.taiwantp.net
 +.taiwanus.net
 +.taiwanyes.com
 +.take2games.com
@@ -20090,6 +20095,7 @@
 +.uygur.org
 +.uymaarip.com
 +.uz
++.v--oiq.cc
 +.v-av.com
 +.v-has.com
 +.v.recipes
@@ -21653,6 +21659,7 @@
 +.xn--ztsq84g.cn
 +.xnalgas.com
 +.xnertv.shop
++.xniwantp.net
 +.xnostars.com
 +.xnpool.com
 +.xnxvideos.org
