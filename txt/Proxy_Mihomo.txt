@@ -2560,6 +2560,7 @@
 +.beatsaudios.net
 +.beatsbeatsmonster.com
 +.beatsbestdeals.com
++.beatsblackfridaydeals.m
 +.beatsblackfridaydeals.net
 +.beatsblackfridayretails.com
 +.beatsboxingdayuksale.com
@@ -8720,7 +8721,6 @@
 +.gogotunnel.com
 +.gohentai.net
 +.goicq.org
-+.goizhong.org
 +.gokbayrak.com
 +.golang.com
 +.golang.net
@@ -10599,6 +10599,7 @@
 +.integral7.com
 +.intel-research.net
 +.intel-university-collaboration.net
++.intel.c000webhost.com
 +.intel.cc
 +.intel.co
 +.intel.com
@@ -11469,6 +11470,7 @@
 +.karmapa.org
 +.karupsha.com
 +.karupspc.com
++.kaspernet
 +.kaspersky-labs.com
 +.kaspersky.com
 +.kaspersky.com.hk
@@ -12287,7 +12289,6 @@
 +.m2m.com
 +.m8008.com
 +.ma
-+.ma000webhost.com
 +.ma1lib.org
 +.maa.plus
 +.mabbank.com
@@ -12386,6 +12387,7 @@
 +.maintracker.org
 +.maiplus.com
 +.mairbeats.com
++.maizhong.org
 +.makaan.com
 +.makeanything.com
 +.makearmanotwar.com
@@ -12524,6 +12526,7 @@
 +.mastercard-email.com
 +.mastercard.com
 +.mastercard.com.co
++.mastercard.com.coapac.qtlglb.com
 +.mastercard.com.hk
 +.mastercard.inc
 +.mastercardacademy.com
@@ -14313,6 +14316,7 @@
 +.nintendoeurope.com
 +.nintendonetwork.net
 +.nintendonyc.com
++.nintendoss.net
 +.nintendostore.com
 +.nintendoswitch.com
 +.nintendoswitch.net
@@ -14762,7 +14766,6 @@
 +.onkakao.net
 +.online-deals.net
 +.online-instagram.com
-+.online.recoverki.com
 +.onlineapplestore.com
 +.onlinecha.com
 +.onlinefucktube.com
@@ -14960,7 +14963,6 @@
 +.owind.com
 +.owltail.com
 +.owxd.xyz
-+.ox.com
 +.oxfordaasc.com
 +.oxfordartonline.com
 +.oxfordbibliographies.com
@@ -15274,6 +15276,7 @@
 +.pbabes.com
 +.pbjar1205.pro
 +.pbs.org
++.pbwiki.com
 +.pbworks.com
 +.pbxes.com
 +.pbxes.org
@@ -17994,7 +17997,6 @@
 +.softlayer.net
 +.softmodels.net
 +.softwarebychuck.com
-+.softwaryversion.org
 +.sogclub.com
 +.sogoo.org
 +.sogrady.me
@@ -18114,7 +18116,6 @@
 +.spasibo.digital
 +.spasibo.market
 +.spb.com
-+.spbebychuck.com
 +.spcc-sp.com
 +.speakerdeck.com
 +.specialtyheadphones.com
@@ -18336,6 +18337,7 @@
 +.steam.cdn.on.net
 +.steam.eca.qtlglb.com
 +.steam.naeu.qtlglb.com
++.steam.omanga.info
 +.steam.ru.qtlglb.com
 +.steam.tv
 +.steamcommunity.com
@@ -18656,7 +18658,6 @@
 +.t35.com
 +.t66y.com
 +.t91y.com
-+.ta.com
 +.taa-usa.org
 +.tab
 +.tablesgenerator.com
@@ -18693,6 +18694,7 @@
 +.taiwankiss.com
 +.taiwannation.com
 +.taiwanonline.cc
++.taiwantp.net
 +.taiwanus.net
 +.taiwanyes.com
 +.take2games.com
@@ -19201,6 +19203,7 @@
 +.tibetsun.com
 +.tibetsupportgroup.org
 +.tibettelegraph.com
++.tibettime
 +.tibettimes.net
 +.tibettruth.com
 +.tibetwrites.org
@@ -20095,7 +20098,6 @@
 +.uygur.org
 +.uymaarip.com
 +.uz
-+.v--oiq.cc
 +.v-av.com
 +.v-has.com
 +.v.recipes
@@ -21086,6 +21088,7 @@
 +.wispbyte.com
 +.wistia.com
 +.wistia.net
++.witch.com
 +.withgoogle.com
 +.withyoutube.com
 +.witnessleeteaching.com
@@ -21659,7 +21662,6 @@
 +.xn--ztsq84g.cn
 +.xnalgas.com
 +.xnertv.shop
-+.xniwantp.net
 +.xnostars.com
 +.xnpool.com
 +.xnxvideos.org
