@@ -2560,7 +2560,6 @@
 +.beatsaudios.net
 +.beatsbeatsmonster.com
 +.beatsbestdeals.com
-+.beatsblackfridaydeals.m
 +.beatsblackfridaydeals.net
 +.beatsblackfridayretails.com
 +.beatsboxingdayuksale.com
@@ -10599,7 +10598,6 @@
 +.integral7.com
 +.intel-research.net
 +.intel-university-collaboration.net
-+.intel.c000webhost.com
 +.intel.cc
 +.intel.co
 +.intel.com
@@ -11470,7 +11468,6 @@
 +.karmapa.org
 +.karupsha.com
 +.karupspc.com
-+.kaspernet
 +.kaspersky-labs.com
 +.kaspersky.com
 +.kaspersky.com.hk
@@ -12526,7 +12523,6 @@
 +.mastercard-email.com
 +.mastercard.com
 +.mastercard.com.co
-+.mastercard.com.coapac.qtlglb.com
 +.mastercard.com.hk
 +.mastercard.inc
 +.mastercardacademy.com
@@ -14316,7 +14312,6 @@
 +.nintendoeurope.com
 +.nintendonetwork.net
 +.nintendonyc.com
-+.nintendoss.net
 +.nintendostore.com
 +.nintendoswitch.com
 +.nintendoswitch.net
@@ -18337,7 +18332,6 @@
 +.steam.cdn.on.net
 +.steam.eca.qtlglb.com
 +.steam.naeu.qtlglb.com
-+.steam.omanga.info
 +.steam.ru.qtlglb.com
 +.steam.tv
 +.steamcommunity.com
@@ -19203,7 +19197,6 @@
 +.tibetsun.com
 +.tibetsupportgroup.org
 +.tibettelegraph.com
-+.tibettime
 +.tibettimes.net
 +.tibettruth.com
 +.tibetwrites.org
@@ -21088,7 +21081,6 @@
 +.wispbyte.com
 +.wistia.com
 +.wistia.net
-+.witch.com
 +.withgoogle.com
 +.withyoutube.com
 +.witnessleeteaching.com
