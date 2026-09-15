@@ -1190,7 +1190,6 @@
 +.alwaysdata.net
 +.alwaysvpn.com
 +.am
-+.am-chat.com
 +.am730.com.hk
 +.amaaozn.com
 +.amabitch.com
@@ -3564,6 +3563,7 @@
 +.br
 +.bradesco
 +.braeburncapital.com
++.braintreegate+.aaa
 +.braintreegateway.com
 +.braintreegateway.tv
 +.braintreepayments.com
@@ -4243,6 +4243,7 @@
 +.chaoex.com
 +.chaos.social
 +.chapm25.com
++.chardli
 +.chargenow.com
 +.chargenowusa.com
 +.charlestonroadregistry.com
@@ -14997,6 +14998,7 @@
 +.ozvoice.org
 +.ozxw.com
 +.ozyoyo.com
++.p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 +.pa
 +.pa9pal.com
 +.paaypal.com
@@ -16735,7 +16737,6 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
-+.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16760,6 +16761,7 @@
 +.ripple.com
 +.riseup.net
 +.risextube.com
++.riway.com
 +.rixcloud.com
 +.rjgsp.buzz
 +.rjgsp1.buzz
@@ -18327,7 +18329,6 @@
 +.stcgroup
 +.stcroixmosquito.com
 +.stcroixmosquitoproject.com
-+.ste+.aaa
 +.steam-api.com
 +.steam-chat.com
 +.steam.apac.qtlglb.com
@@ -18425,6 +18426,8 @@
 +.stripchat.com
 +.stripe-terminal-local-reader.net
 +.stripe.com
++.stripe.events
++.stripe.global
 +.stripe.network
 +.stripecdn.com
 +.stripparadise.com
