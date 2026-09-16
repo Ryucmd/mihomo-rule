@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3563,7 +3564,6 @@
 +.br
 +.bradesco
 +.braeburncapital.com
-+.braintreegate+.aaa
 +.braintreegateway.com
 +.braintreegateway.tv
 +.braintreepayments.com
@@ -4243,7 +4243,6 @@
 +.chaoex.com
 +.chaos.social
 +.chapm25.com
-+.chardli
 +.chargenow.com
 +.chargenowusa.com
 +.charlestonroadregistry.com
@@ -8051,6 +8050,7 @@
 +.full:ocsp.microsoft.com
 +.full:oneocsp.microsoft.com
 +.full:ood.opsource.net
++.full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 +.full:packages.microsoft.com
 +.full:play-edge.itunes.apple.com
 +.full:public-us-pingsx.api.clonoth.com
@@ -16737,6 +16737,7 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
++.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16761,7 +16762,6 @@
 +.ripple.com
 +.riseup.net
 +.risextube.com
-+.riway.com
 +.rixcloud.com
 +.rjgsp.buzz
 +.rjgsp1.buzz
