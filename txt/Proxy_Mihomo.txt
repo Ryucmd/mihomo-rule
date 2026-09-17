@@ -573,7 +573,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3732,6 +3731,7 @@
 +.builtfromebay.com
 +.builtwithnix.org
 +.bukkake-jav.com
++.bullet.com
 +.bullguard.com
 +.bullog.org
 +.bullogger.com
@@ -5328,6 +5328,7 @@
 +.deepfreeze.tech
 +.deepl.com
 +.deepmind.com
++.deepwiki.+.aaa
 +.deepwiki.com
 +.deepwiki.org
 +.deezer.com
@@ -16239,7 +16240,7 @@
 +.purplelotus.org
 +.purpose.nike.com
 +.pursuestar.com
-+.pushbullet.com
++.push000webhost.com
 +.pushchinawall.com
 +.pussy-pics.net
 +.pussy3dporn.com
@@ -19765,7 +19766,7 @@
 +.twistory.net
 +.twistys.com
 +.twit2d.com
-+.twitbrowser.net
++.twitbrorg
 +.twitcause.com
 +.twitch.tv
 +.twitchcdn.net
@@ -21202,6 +21203,7 @@
 +.ws-blau.com
 +.ws-tcg.com
 +.ws.audioscrobbler.com
++.wser.net
 +.wsimg.com
 +.wsj.com
 +.wsj.jobs
