@@ -4737,6 +4737,7 @@
 +.code.org
 +.code1984.com
 +.codeberg.org
++.codebuff.com
 +.codecademy.com
 +.codeforces.com
 +.codeish.co
@@ -7410,6 +7411,7 @@
 +.firebaseapp.com
 +.firebaseio.com
 +.fireemblemawakening.com
++.firefox-portal-detection.com
 +.firefox.com
 +.firefoxtweetmachine.com
 +.firefoxusercontent.com
@@ -7798,6 +7800,7 @@
 +.freebrowser.org
 +.freebs.com
 +.freebsd.org
++.freebuff.com
 +.freecamsfan.com
 +.freecartoons.biz
 +.freechal.com
@@ -18912,6 +18915,7 @@
 +.texttobuy.org
 +.texture.com
 +.tf
++.tfbnw.net
 +.tferwq.com
 +.tfiflve.com
 +.tfsallin.net
