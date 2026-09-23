@@ -7058,6 +7058,7 @@
 +.falunau.org
 +.falunaz.net
 +.falundafa-dc.org
++.falundafa-flo.com
 +.falundafa-florida.org
 +.falundafa-nc.org
 +.falundafa-pa.net
@@ -16744,6 +16745,7 @@
 +.ricefever.com
 +.richardli
 +.ricoh
++.rida.org
 +.ridepenguin.com
 +.rightbtc.com
 +.rigpa.org
@@ -21165,6 +21167,7 @@
 +.worldescortindex.com
 +.worldhack.com
 +.worldjournal.com
++.worldjournal000webhost.com
 +.worldoftanks.com
 +.worldofwarcraft.com
 +.worldofwarplanes.com
