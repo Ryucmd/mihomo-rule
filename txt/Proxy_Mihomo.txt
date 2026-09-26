@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -7566,6 +7567,7 @@
 +.forthethrone.com
 +.fortnite.com
 +.fortuneinsight.com
++.forum.com
 +.forum4hk.com
 +.forums-free.com
 +.forza.net
@@ -10712,6 +10714,7 @@
 +.ipadpro.buzz
 +.ipalter.com
 +.ipdefenseforum.com
++.ipdefensetarget.com
 +.ipfire.org
 +.ipfs-gateway.cloud
 +.ipfs.anonymize.com
@@ -13079,7 +13082,6 @@
 +.mirrorbooks.com
 +.mirrorsedge.com
 +.mirrorsedge.net
-+.mirrorsedge2.+.aaa
 +.mirrorsedge2.com
 +.mirrorsedge2d.com
 +.missav.com
@@ -16515,6 +16517,7 @@
 +.rbxinfra.net
 +.rbxlabs.com
 +.rbxtrk.com
++.rcam.# NAME: Proxy
 +.rcl07.xyz
 +.rclon.com
 +.rd.com
