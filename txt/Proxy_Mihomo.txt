@@ -573,7 +573,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3864,6 +3863,7 @@
 +.c-msedge.net
 +.c-span.org
 +.c-spanvideo.org
++.c.go-mpulse.net
 +.c.mi.com
 +.c0930.com
 +.c100tibet.org
@@ -7567,7 +7567,6 @@
 +.forthethrone.com
 +.fortnite.com
 +.fortuneinsight.com
-+.forum.com
 +.forum4hk.com
 +.forums-free.com
 +.forza.net
@@ -10714,7 +10713,6 @@
 +.ipadpro.buzz
 +.ipalter.com
 +.ipdefenseforum.com
-+.ipdefensetarget.com
 +.ipfire.org
 +.ipfs-gateway.cloud
 +.ipfs.anonymize.com
@@ -11419,6 +11417,7 @@
 +.jzydh.com
 +.k-doujin.net
 +.k9vidz.com
++.ka+.aaa
 +.ka-wai.com
 +.kaamuu.com
 +.kaggle.com
@@ -12435,6 +12434,7 @@
 +.mangahome.com
 +.mangmang.run
 +.mango
++.mangopochardli
 +.mangoporn.net
 +.mangotporn.com
 +.manhuabika.com
@@ -16517,7 +16517,6 @@
 +.rbxinfra.net
 +.rbxlabs.com
 +.rbxtrk.com
-+.rcam.# NAME: Proxy
 +.rcl07.xyz
 +.rclon.com
 +.rd.com
@@ -16745,7 +16744,6 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
-+.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16779,6 +16777,7 @@
 +.rm2029.com
 +.rmjdw.com
 +.rmjdw132.info
++.rn.net
 +.ro
 +.ro-blox.com
 +.ro89.com
@@ -20156,6 +20155,7 @@
 +.vaultify.com
 +.vaultify.info
 +.vaultify.net
++.vava8.com
 +.vbcdn.com
 +.vbcdn.net
 +.vbejeyv.shop
