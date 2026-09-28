@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -11417,7 +11418,6 @@
 +.jzydh.com
 +.k-doujin.net
 +.k9vidz.com
-+.ka+.aaa
 +.ka-wai.com
 +.kaamuu.com
 +.kaggle.com
@@ -12434,7 +12434,6 @@
 +.mangahome.com
 +.mangmang.run
 +.mango
-+.mangopochardli
 +.mangoporn.net
 +.mangotporn.com
 +.manhuabika.com
@@ -16744,6 +16743,7 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
++.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16777,7 +16777,6 @@
 +.rm2029.com
 +.rmjdw.com
 +.rmjdw132.info
-+.rn.net
 +.ro
 +.ro-blox.com
 +.ro89.com
