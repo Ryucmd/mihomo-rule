@@ -4229,7 +4229,6 @@
 +.cgdepot.org
 +.ch
 +.ch.shvoong.com
-+.ch000webhost.com
 +.chainid.network
 +.championshipseriesleague.com
 +.chanel
@@ -6906,6 +6905,7 @@
 +.facebooki.com
 +.facebookinc.com
 +.facebookland.com
++.facebooklikeexchange.co+.aaa
 +.facebooklikeexchange.com
 +.facebooklive.com
 +.facebooklivestaging.net
@@ -7832,7 +7832,6 @@
 +.freefq.com
 +.freefuckvids.com
 +.freegao.com
-+.freegaypor+.aaa
 +.freegaypornhdtube.com
 +.freegaysexgames.com
 +.freegpt.tech
@@ -14132,7 +14131,6 @@
 +.ngrok.com
 +.ngrok.pizza
 +.ngrok.pro
-+.nhdtube.com
 +.nhentai.com
 +.nhentai.net
 +.nhentaihaven.com
@@ -20177,7 +20175,6 @@
 +.veet.com
 +.veet.com.co
 +.veet.com.hk
-+.veet.comeatsheadphonesusamall.com
 +.veet.tv
 +.veetarabia.com
 +.veetbangladesh.com
