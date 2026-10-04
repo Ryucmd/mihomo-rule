@@ -21011,6 +21011,7 @@
 +.wikidata.org
 +.wikidot.com
 +.wikifeet.com
++.wikifunctions.org
 +.wikihow.com
 +.wikileaks-forum.com
 +.wikileaks.com
@@ -21028,6 +21029,7 @@
 +.wikiquote.org
 +.wikisexguide.com
 +.wikisource.org
++.wikispecies.org
 +.wikiunblocked.org
 +.wikiversity.org
 +.wikivoyage.org
