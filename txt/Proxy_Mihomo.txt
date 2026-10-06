@@ -159,6 +159,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -371,7 +372,6 @@
 +.52av.one
 +.52fuliji.cc
 +.52hyse.com
-+.52kmz.cess.com
 +.52kmz.com
 +.531tr.com
 +.53world.com
@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -639,7 +640,6 @@
 +.account-paypal.org
 +.accountboy.com
 +.accountkit.com
-+.accountp.com
 +.accountpaypal.com
 +.accountpaypal.net
 +.accountpaypal.org
@@ -796,7 +796,6 @@
 +.adtcc.com
 +.adtidy.net
 +.adtidy.org
-+.adul+.aaa
 +.adult
 +.adult-h.com
 +.adult-home-videos.com
@@ -1165,7 +1164,6 @@
 +.alotporn.com
 +.alphabet.asia
 +.alphabet.biz
-+.alphabet.biz.com
 +.alphabet.com
 +.alphabet.info
 +.alphabetfinance.net
@@ -10715,7 +10713,7 @@
 +.ipad3.com
 +.ipadair.hk
 +.ipadaustralia.com
-+.ipaddr1password.drift.click
++.ipaddress.com
 +.ipadpro.buzz
 +.ipalter.com
 +.ipdefenseforum.com
@@ -12384,7 +12382,6 @@
 +.maiio.net
 +.mail-archive.com
 +.mail.com
-+.mailchimom
 +.mailchimp.com
 +.maildns.xyz
 +.maileoch.com
@@ -16240,7 +16237,6 @@
 +.pureapk.com
 +.pureconcepts.net
 +.puredns.org
-+.pureinsighpaypal.com
 +.pureinsight.org
 +.purelov5.com
 +.purelyceleb.com
@@ -17122,7 +17118,7 @@
 +.satoshilabs.com
 +.satv01.me
 +.saveliuxiaobo.com
-+.savemediat-home-videos.com
++.savemedia.com
 +.savethesounds.info
 +.savetibet.org
 +.savetibetstore.org
@@ -18667,7 +18663,6 @@
 +.t.co
 +.t.finance
 +.t.me
-+.t.org
 +.t.orzdream.com
 +.t35.com
 +.t66y.com
@@ -18705,7 +18700,7 @@
 +.taiwanhot.net
 +.taiwanjustice.com
 +.taiwanjustice.net
-+.taiwankiss
++.taiwankiss.com
 +.taiwannation.com
 +.taiwanonline.cc
 +.taiwantp.net
