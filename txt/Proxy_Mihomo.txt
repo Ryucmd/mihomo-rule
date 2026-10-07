@@ -3251,6 +3251,7 @@
 +.blpprofessional.com
 +.blubank.com
 +.blubrry.com
++.blue-plus.net
 +.blueangellive.com
 +.bluefootcms.com
 +.bluehatil.com
@@ -5467,6 +5468,7 @@
 +.dfvpn.com
 +.dgaqp.com
 +.dgwav.com
++.dh.net
 +.dh44.lol
 +.dharamsalanet.com
 +.dharmakara.net
@@ -9107,7 +9109,9 @@
 +.hanime.me
 +.hanime.tv
 +.hanime.xyz
++.hanime1.com
 +.hanime1.me
++.hanimeone.me
 +.hanminzu.org
 +.hanr-bao.mom
 +.hanunyi.com
@@ -10708,6 +10712,7 @@
 +.iownyour.org
 +.ip73.com
 +.ipa-iphone.net
++.ipac.global
 +.ipad.host
 +.ipad.wang
 +.ipad3.com
@@ -11021,6 +11026,7 @@
 +.javcc.cc
 +.javcc.com
 +.javcdn.cc
++.javchu.com
 +.javcl.com
 +.javct.net
 +.javcup.com
@@ -13188,6 +13194,7 @@
 +.moefuns.co
 +.moegirl.org
 +.moeimg.net
++.moeli-desu.com
 +.moepedia.net
 +.moeshare.cc
 +.moez-m.com
@@ -13845,6 +13852,7 @@
 +.nationalinterest.org
 +.nationalreview.com
 +.nationsonline.org
++.nationthailand.com
 +.nationwide.com
 +.natura
 +.naturalvoices.com
@@ -16815,6 +16823,7 @@
 +.rockstargames.com
 +.rockstarnorth.com
 +.rockylinux.org
++.rocmgov.org
 +.rogers
 +.rojo.com
 +.roku.com
@@ -21803,6 +21812,7 @@
 +.xvxxtube.com
 +.xwbo.com
 +.xx-map.com
++.xx.net
 +.xxbay.com
 +.xxbbx.com
 +.xxbook.cc
