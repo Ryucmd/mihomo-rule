@@ -573,7 +573,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -635,6 +634,7 @@
 +.accessfacebookfromschool.com
 +.accim.org
 +.accomable.com
++.account+.aaa
 +.account-paypal.info
 +.account-paypal.net
 +.account-paypal.org
@@ -1089,6 +1089,7 @@
 +.alhayat.com
 +.alhs.link
 +.alhs.xyz
++.alhypotheses.com
 +.alias.com
 +.aliasadvantage.com
 +.aliasimaginationsengine.com
@@ -2724,6 +2725,7 @@
 +.beatsforcheap-usa.com
 +.beatsforme.com
 +.beatsfranceofficiel.com
++.beatsheadphone000webhost.com
 +.beatsheadphones-discount.com
 +.beatsheadphones1.com
 +.beatsheadphones2u.com
@@ -3965,6 +3967,7 @@
 +.camwhores.forum
 +.camwhores.tv
 +.camwhores.video
++.camwhores.videom
 +.camwhoresbay.com
 +.camwhoreshd.com
 +.camwhoria.com
@@ -5396,6 +5399,7 @@
 +.deno.com
 +.deno.land
 +.dentalhypotheses.com
++.dentokx.com
 +.dependabot.com
 +.depositphotos.com
 +.deps.info
@@ -8039,6 +8043,7 @@
 +.full:hub.slarker.me
 +.full:i.jeded.com
 +.full:imperial.insendi.com
++.full:incoming.telemetry.mozilla.org
 +.full:licdn.cn.cdn20.com
 +.full:link.theplatform.com
 +.full:location.microsoft.com
@@ -9251,6 +9256,7 @@
 +.hebiphone.com
 +.hecaitou.net
 +.hechaji.com
++.heeact.studio.com
 +.hegre-art.com
 +.hegre.com
 +.heiguab.top
@@ -11071,6 +11077,7 @@
 +.javhub.me
 +.javhub.net
 +.javhuge.com
++.javhuge.cw.net
 +.javidol.org
 +.javjack.com
 +.javjunkies.com
