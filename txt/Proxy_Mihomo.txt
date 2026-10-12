@@ -3958,6 +3958,7 @@
 +.camster.com
 +.camstreams.tv
 +.camsvids.tv
++.camtubexxx.com
 +.camvideos.org
 +.camvideos.tv
 +.camvideoshub.com
@@ -20288,6 +20289,7 @@
 +.vidble.com
 +.video-jav.net
 +.video-one.com
++.video.aousertrust.com
 +.video01.org
 +.videobam.com
 +.videobreakdown.com
@@ -20844,6 +20846,7 @@
 +.webjb.org
 +.webkit.org
 +.webkitgtk.org
++.webl.com
 +.weblagu.com
 +.weblate.org
 +.webmademovies.org
