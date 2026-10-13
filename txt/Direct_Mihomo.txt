@@ -4487,7 +4487,6 @@
 +.402faka.com
 +.40407.com
 +.404886.com
-+.404: Not Found404: Not Foundapi.blipsandchitz.me
 +.404k.vip
 +.404mzk.com
 +.404wan.com
@@ -12195,6 +12194,7 @@
 +.api-m.com
 +.api-vod-qcloud.com
 +.api.anythinktech.com
++.api.blipsandchitz.me
 +.api.so
 +.apiairasia.com
 +.apiandroid.com
@@ -38060,7 +38060,7 @@
 +.goldenholiday.com
 +.goldenhome.cc
 +.goldening.com
-+.goldenken.com
++.goldenken.c404: Not Foundom
 +.goldenladies.com
 +.goldenname.com
 +.goldennumis.store
