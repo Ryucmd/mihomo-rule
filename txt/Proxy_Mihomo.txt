@@ -573,7 +573,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -17179,6 +17178,7 @@
 +.scatville.com
 +.scb
 +.scdn.co
++.scea.com
 +.scene7.com
 +.scenesource.me
 +.schaeffler
@@ -18055,7 +18055,9 @@
 +.sonydesign.com
 +.sonydna.com
 +.sonyentertainmentnetwork.com
++.sonyinteractive.com
 +.sonylatvija.com
++.sonymusic.com.hk
 +.sonypictures.com
 +.sonypicturesanimation.com
 +.sonypicturesmuseum.com
