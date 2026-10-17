@@ -159,7 +159,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -376,6 +375,7 @@
 +.531tr.com
 +.53world.com
 +.53worldsweeps.com
++.53worts4salecheap.com
 +.54647.global
 +.54647.online
 +.54647.org
@@ -461,6 +461,7 @@
 +.7mm.tv
 +.7mmtv.tv
 +.7tb.cc
++.7x24hrs.com
 +.8-d.com
 +.8008206616.com
 +.8111y.top
@@ -573,6 +574,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2070,6 +2072,7 @@
 +.autodeskresearch.com
 +.autodeskrevit.com
 +.autodeskrevit.net
++.autodeskrevith.com
 +.autodeskrevitsucks.com
 +.autodeskrevitsucks.net
 +.autodeskseek.com
@@ -2514,6 +2517,7 @@
 +.bdsmtv.cc
 +.bdsmvideos.net
 +.be
++.bea1password.drift.click
 +.beaconevents.com
 +.bearteach.com
 +.beascoremodel.com
@@ -3549,6 +3553,7 @@
 +.boyangu.com
 +.boycall.com
 +.boyfriendtv.com
++.boylaberapi.com
 +.boylabs.net
 +.boylove.cc
 +.boylove.com
@@ -11818,6 +11823,7 @@
 +.ldoceonline.com
 +.ldplayer.net
 +.ldstatic.com
++.ldsweeps.com
 +.le-direct.tv
 +.le-vpn.com
 +.leafyvpn.net
@@ -17020,6 +17026,7 @@
 +.s-nbcnews.com
 +.s-rewards.hk
 +.s-xoom.com
++.s.net
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
@@ -20057,6 +20064,7 @@
 +.usertrust.com
 +.usocctn.com
 +.usocial.pro
++.ussucks.com
 +.ustibetcommittee.org
 +.ustream.tv
 +.usunitednews.com
