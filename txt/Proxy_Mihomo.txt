@@ -159,6 +159,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -375,7 +376,6 @@
 +.531tr.com
 +.53world.com
 +.53worldsweeps.com
-+.53worts4salecheap.com
 +.54647.global
 +.54647.online
 +.54647.org
@@ -574,7 +574,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2072,7 +2071,6 @@
 +.autodeskresearch.com
 +.autodeskrevit.com
 +.autodeskrevit.net
-+.autodeskrevith.com
 +.autodeskrevitsucks.com
 +.autodeskrevitsucks.net
 +.autodeskseek.com
@@ -2517,7 +2515,6 @@
 +.bdsmtv.cc
 +.bdsmvideos.net
 +.be
-+.bea1password.drift.click
 +.beaconevents.com
 +.bearteach.com
 +.beascoremodel.com
@@ -3553,7 +3550,6 @@
 +.boyangu.com
 +.boycall.com
 +.boyfriendtv.com
-+.boylaberapi.com
 +.boylabs.net
 +.boylove.cc
 +.boylove.com
@@ -5093,6 +5089,7 @@
 +.cursor-cdn.com
 +.cursor.com
 +.cursorapi.com
++.cursorvm.com
 +.curvefish.com
 +.curvybbwwives.com
 +.curvyerotic.com
@@ -5307,6 +5304,7 @@
 +.de1lib.org
 +.deadhouse.org
 +.deadline.com
++.deadspacegam+.aaa
 +.deadspacegame.com
 +.deaftone.com
 +.dealbay.com
@@ -6091,6 +6089,7 @@
 +.e-traderland.net
 +.e-tugra.com
 +.e-zone.com.hk
++.e.com
 +.e123.hk
 +.e53w.com
 +.e621.net
@@ -11823,7 +11822,6 @@
 +.ldoceonline.com
 +.ldplayer.net
 +.ldstatic.com
-+.ldsweeps.com
 +.le-direct.tv
 +.le-vpn.com
 +.leafyvpn.net
@@ -14835,6 +14833,7 @@
 +.open
 +.open.com.hk
 +.openai.com
++.openai.org
 +.openallweb.com
 +.openamt.com
 +.openapiplatform.com
@@ -17026,7 +17025,6 @@
 +.s-nbcnews.com
 +.s-rewards.hk
 +.s-xoom.com
-+.s.net
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
@@ -17199,6 +17197,7 @@
 +.schwab.com.cn
 +.schwab.com.hk
 +.schwabassetmanagement.com
++.schwabcdn.com
 +.schwabplan.com
 +.schwarz
 +.sci-hub.mksa.top
@@ -19274,6 +19273,7 @@
 +.timestalks.com
 +.timeweb.cloud
 +.timeweb.com
++.timeweb.tech
 +.timi1.me
 +.timo0.com
 +.timsah.com
@@ -20064,7 +20064,6 @@
 +.usertrust.com
 +.usocctn.com
 +.usocial.pro
-+.ussucks.com
 +.ustibetcommittee.org
 +.ustream.tv
 +.usunitednews.com
