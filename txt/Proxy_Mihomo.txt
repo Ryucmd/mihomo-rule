@@ -574,6 +574,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1849,7 +1850,6 @@
 +.asminternational.org
 +.asmrbuluo.com
 +.asn-online.org
-+.asobostudio.com
 +.asp-cc.com
 +.asp.net
 +.aspbjournals.org
@@ -2793,7 +2793,12 @@
 +.beforeigners.com
 +.befuck.com
 +.befuck.net
++.beget.cloud
 +.beget.com
++.beget.hosting
++.beget.pro
++.beget.tech
++.begetcdn.cloud
 +.begin-trade.com
 +.behance.net
 +.behindkink.com
@@ -5304,7 +5309,6 @@
 +.de1lib.org
 +.deadhouse.org
 +.deadline.com
-+.deadspacegam+.aaa
 +.deadspacegame.com
 +.deaftone.com
 +.dealbay.com
@@ -6089,7 +6093,6 @@
 +.e-traderland.net
 +.e-tugra.com
 +.e-zone.com.hk
-+.e.com
 +.e123.hk
 +.e53w.com
 +.e621.net
@@ -7480,7 +7483,6 @@
 +.flickr.net
 +.flickrhivemind.net
 +.flickriver.com
-+.flightsimulator.com
 +.fling.com
 +.flipboard.com
 +.flipfap.com
@@ -16277,6 +16279,7 @@
 +.putlocker.com
 +.putty.org
 +.puuko.com
++.pv-cdn.net
 +.pvp.net
 +.pvp.tv
 +.pvubank.com
