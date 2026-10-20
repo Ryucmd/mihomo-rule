@@ -12382,6 +12382,7 @@
 +.magic-net.info
 +.magicalmirai.com
 +.magicmovies.com
++.magnific.com
 +.mahabodhi.org
 +.mahajantech.com
 +.mahjongsoul.com
@@ -16021,6 +16022,7 @@
 +.postimg.cc
 +.postimg.org
 +.postini.com
++.postman.com
 +.potatso.com
 +.potvpn.com
 +.poudobnee.com
