@@ -1448,6 +1448,7 @@
 +.anthemthegame.com
 +.anthonycalzadilla.com
 +.anthropic.com
++.anthropic.team
 +.anti1984.com
 +.antichristendom.com
 +.antiwave.net
@@ -4259,6 +4260,7 @@
 +.charticulator.com
 +.chat.com
 +.chatango.com
++.chatbotclaude.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
 +.chatgpt.site
@@ -4587,8 +4589,11 @@
 +.classicnike.com
 +.classymomsex.com
 +.claude.com
++.claude.site
++.claudeacademy.com
 +.claudemcpclient.com
 +.claudemcpcontent.com
++.claudestudio.com
 +.claudeusercontent.com
 +.clb.org.hk
 +.clco.cc
@@ -7511,6 +7516,14 @@
 +.fluidfxapp.com
 +.fluidpreview.com
 +.flutterapp.com
++.fluxer.com
++.fluxer.gift
++.fluxer.media
++.fluxer.tools
++.fluxerapp.com
++.fluxerstatic.com
++.fluxerstatus.com
++.fluxerusercontent.com
 +.flyflv.com
 +.flyingjizz.com
 +.flyio.net
@@ -17019,6 +17032,7 @@
 +.rwe
 +.rxhj.net
 +.ryukyu
++.s-bg.com
 +.s-bluemix.net
 +.s-books.com
 +.s-cashonmobile.com
