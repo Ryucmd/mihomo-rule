@@ -201,6 +201,7 @@
 +.233abc.com
 +.233v2.com
 +.2371tom.com
++.24.place
 +.24h.tv
 +.24hbook.com
 +.24hjav.com
@@ -3181,6 +3182,8 @@
 +.blobstore.apple.com
 +.blockbuster
 +.blockchain.com
++.blockchair.com
++.blockchair.net
 +.blockcn.com
 +.blockedbyhk.com
 +.blockless.com
@@ -4952,6 +4955,7 @@
 +.cr
 +.crabporn.com
 +.crackle.com
++.craftifyx.com
 +.craigslist.org
 +.crankplayer.com
 +.crashbandicoot.com
@@ -5029,6 +5033,7 @@
 +.crypto.com
 +.cryptocompare.com
 +.cryptographyengineering.com
++.cryptoid.info
 +.cryptomus.com
 +.crystalgunnsworld.com
 +.crystalmiss.com
@@ -5365,6 +5370,7 @@
 +.delcamtv.com
 +.delcamuniversity.com
 +.delcamusa.com
++.delets.cash
 +.delets.online
 +.delicious.com
 +.dell
@@ -6358,6 +6364,7 @@
 +.eenike.com
 +.eevpn.com
 +.efcc.org.hk
++.efenders.org
 +.eff.org
 +.effers.com
 +.efksoft.com
@@ -7112,6 +7119,7 @@
 +.fanbox.cc
 +.fandango.com
 +.fandom.com
++.fanfiction.net
 +.fanfictionero.com
 +.fanfox.net
 +.fangbinxing.com
@@ -7951,6 +7959,7 @@
 +.frommel.net
 +.frontier
 +.frontiersin.org
++.frontlined
 +.frontlinedefenders.org
 +.frontrow.com
 +.froogle.com
@@ -8139,6 +8148,7 @@
 +.fundraisingwithfacebook.com
 +.fundsupermart.com
 +.funimation.com
++.funko.com
 +.funkyimg.com
 +.funnyfacebook.org
 +.funnyordie.com
@@ -8258,6 +8268,7 @@
 +.game-repack.site
 +.game735.com
 +.gameapps.hk
++.gamebanana.com
 +.gamebeforethegame.com
 +.gamejolt.com
 +.gameloft.com
@@ -8484,6 +8495,7 @@
 +.getporn.tv
 +.getpricetag.com
 +.getprintersupports.com
++.getsafety.com
 +.getscorecash.com
 +.getsentry.com
 +.getsession.org
@@ -8628,6 +8640,8 @@
 +.glasamerike.net
 +.gle
 +.gleline.com
++.glitchprod.com
++.glitchproductions.store
 +.glitchwave.com
 +.global-sci.org
 +.globaledu.org
@@ -11737,6 +11751,7 @@
 +.kundun1069.com
 +.kuokgroup
 +.kurashsultan.com
++.kurs.expert
 +.kurtmunger.com
 +.kusocity.com
 +.kusugurizanmai.com
@@ -12427,6 +12442,7 @@
 +.makeitrealcontest.com
 +.makemymood.com
 +.makesenseofdata.com
++.makeship.com
 +.makingstartshere.com
 +.makkahnewspaper.com
 +.maktoob.com
@@ -14996,6 +15012,7 @@
 +.ovpn.com
 +.owind.com
 +.owltail.com
++.ownaj.com
 +.owxd.xyz
 +.oxfordaasc.com
 +.oxfordartonline.com
@@ -16443,6 +16460,7 @@
 +.r18av.com
 +.r18lu-avi.shop
 +.r18lu.com
++.r2modman.com
 +.r34porn.net
 +.rabbitcounter.com
 +.rabbitscams.com
@@ -17032,7 +17050,6 @@
 +.rwe
 +.rxhj.net
 +.ryukyu
-+.s-bg.com
 +.s-bluemix.net
 +.s-books.com
 +.s-cashonmobile.com
@@ -17076,6 +17093,7 @@
 +.safeliner.tech
 +.safepal.com
 +.safervpn.com
++.safetycli.com
 +.saffrontech.com
 +.sage-observability.tech
 +.sagepub.com
@@ -18391,6 +18409,7 @@
 +.steaminventoryhelper.com
 +.steamladder.com
 +.steamofporn.com
++.steamos.cloud
 +.steampowered.com
 +.steamserver.net
 +.steamstatic.com
@@ -18968,6 +18987,7 @@
 +.tgirlpostop.com
 +.tgp6.com
 +.tgstat.com
++.tgtime.store
 +.tgtube.com
 +.tgutube.com
 +.th
@@ -19176,6 +19196,7 @@
 +.thunderbird.net
 +.thunderbolttechnology.net
 +.thundermail.com
++.thunderstore.org
 +.thywords.com
 +.thz7.net
 +.thzu.cc
@@ -19349,6 +19370,7 @@
 +.tmdfish.com
 +.tmei-taoyuan.com
 +.tmi.me
++.tmimgcdn.com
 +.tmpp.org
 +.tn
 +.tnaflix.com
@@ -20593,6 +20615,7 @@
 +.volvomerchandise.com
 +.volvopenta.com
 +.volvospares.com
++.volvotruckcenter.itom
 +.volvotrucks.com
 +.volvotrucks.com.co
 +.volvotrucks.hk
@@ -21213,6 +21236,7 @@
 +.worldoftanks.com
 +.worldofwarcraft.com
 +.worldofwarplanes.com
++.worldofwarships.asia
 +.worldofwarships.com
 +.worldpopulationreview.com
 +.worldpornvideos.com
@@ -22194,6 +22218,7 @@
 +.youshun12.com
 +.youskbe.com
 +.youthnetradio.org
++.youtooz.com
 +.youtrack.cloud
 +.youtrannytube.com
 +.youtube
