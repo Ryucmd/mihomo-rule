@@ -6364,7 +6364,6 @@
 +.eenike.com
 +.eevpn.com
 +.efcc.org.hk
-+.efenders.org
 +.eff.org
 +.effers.com
 +.efksoft.com
@@ -7959,7 +7958,6 @@
 +.frommel.net
 +.frontier
 +.frontiersin.org
-+.frontlined
 +.frontlinedefenders.org
 +.frontrow.com
 +.froogle.com
@@ -20615,7 +20613,6 @@
 +.volvomerchandise.com
 +.volvopenta.com
 +.volvospares.com
-+.volvotruckcenter.itom
 +.volvotrucks.com
 +.volvotrucks.com.co
 +.volvotrucks.hk
