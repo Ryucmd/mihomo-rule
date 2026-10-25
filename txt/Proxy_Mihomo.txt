@@ -35,6 +35,7 @@
 +.123-hp.com
 +.123av.com
 +.123av.me
++.123av.org
 +.123bin.cc
 +.123dapp.com
 +.123dappipad.com
@@ -4182,6 +4183,10 @@
 +.cdp1998.org
 +.cdp2006.org
 +.cdpeu.org
++.cdpred.services
++.cdprojekt.com
++.cdprojekt.red
++.cdprojektred.com
 +.cdpusa.org
 +.cdpweb.org
 +.cdpwu.org
@@ -5141,6 +5146,7 @@
 +.cyberctm.com
 +.cyberghostvpn.com
 +.cybermondaybeats4sale.com
++.cyberpunk.net
 +.cyberx.com
 +.cygwin.com
 +.cylink.pro
@@ -11592,6 +11598,7 @@
 +.kilmeadeandfriends.com
 +.kimchi.tv
 +.kimogirl.cc
++.kimootoko.net
 +.kimosex.com
 +.kindgirls.com
 +.kindindianporn.com
@@ -13104,6 +13111,7 @@
 +.miniwholesaleconnect.com
 +.miniwindsor.com
 +.miniworkshop.com
++.minkch.com
 +.minnano-av.com
 +.minne.com
 +.minneapolisbmw.com
@@ -14391,6 +14399,7 @@
 +.nixpkgs.org
 +.niziero.info
 +.njactb.org
++.njav.com
 +.njav.tv
 +.njavtv.com
 +.njpw1972.com
@@ -15596,6 +15605,7 @@
 +.playfab.com
 +.playfabapi.com
 +.playforceone.com
++.playgwent.com
 +.playhearthstone.com
 +.playmation.com
 +.playmeow.com
@@ -15649,6 +15659,7 @@
 +.pn
 +.pnas.org
 +.pnc
++.po-kaki-to.com
 +.po2b.com
 +.pobieramy.top
 +.pobl-content.com
@@ -19151,6 +19162,7 @@
 +.theweek.com
 +.thewgo.org
 +.thewirechina.com
++.thewitcher.com
 +.thewonderful101.com
 +.theync.com
 +.theyxxx.com
@@ -21598,18 +21610,18 @@
 +.xn--d1alf
 +.xn--d4ty0ojsqzfd.com
 +.xn--e1a4c
-+.xn--fiqs8s1bxp3anr7a.hk
-+.xn--fiqs8s1bxp3anr7a.xn--j6w193g
-+.xn--fiqs8s1byzqyvl.hk
-+.xn--fiqs8s1byzqyvl.xn--j6w193g
++.xn--fiq80y.hk
++.xn--fiq80y.xn--j6w193g
++.xn--fiq80y3xbiwr.hk
++.xn--fiq80y3xbiwr.xn--j6w193g
++.xn--fiq80y3xbiwrs0kiu9d.hk
++.xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
 +.xn--fiqs8sxootzz.xn--hxt814e
 +.xn--flw351e
 +.xn--flw351e.com
 +.xn--fpcrj9c3d
 +.xn--fzc2c9e2c
 +.xn--fzys8d69uvgm
-+.xn--gdt08a.hk
-+.xn--gdt08a.xn--j6w193g
 +.xn--gecrj9c
 +.xn--ggle-55da.com
 +.xn--gmq348bujlxrb.com
@@ -21665,8 +21677,6 @@
 +.xn--mix891f
 +.xn--mts47c3w9b1qr.net
 +.xn--mtswd61ejxq.com
-+.xn--mxtq18a.hk
-+.xn--mxtq18a.xn--j6w193g
 +.xn--ngbe9e0a
 +.xn--ngstr-lra8j.com
 +.xn--nnx388a
@@ -21681,14 +21691,10 @@
 +.xn--pgbs0dh
 +.xn--pssu7ci2j23mp9ny48b.hk
 +.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-+.xn--pssu7cv61af1tcs59bnvd.hk
-+.xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
++.xn--pssu7ci3q5oge0ai91q.xn--j6w193g
 +.xn--pssu7cv61af44b.hk
 +.xn--pssu7cv61af44b.xn--j6w193g
-+.xn--pssu7cv61ahw8aq79bztd.hk
-+.xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-+.xn--pssu7cv61ahwcb1p2yk.hk
-+.xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
++.xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
 +.xn--q41am8x.com
 +.xn--q7ce6a
 +.xn--q9jyb4c
@@ -21711,11 +21717,7 @@
 +.xn--vuqv2cf7wzyig79c.com
 +.xn--w4r85el8fhu5dnra
 +.xn--w4rs40l
-+.xn--wcv22d.hk
-+.xn--wcv22d.xn--j6w193g
 +.xn--wcvs22d.xn--j6w193g
-+.xn--wcvs22d1m.hk
-+.xn--wcvs22d1m.xn--j6w193g
 +.xn--wgbh1c
 +.xn--wgbl6a
 +.xn--x-qeu1ji09tzlg.biz
@@ -22450,6 +22452,7 @@
 +.zorrovpn.com
 +.zotero.org
 +.zozotown.com
++.zozovideo.com
 +.zpagov.net
 +.zpath.com
 +.zqqpwz.com
