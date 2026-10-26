@@ -709,6 +709,7 @@
 +.addthiscdn.com
 +.addthisedge.com
 +.addtoany.com
++.addtodropbox.com
 +.addyoutube.com
 +.adelaidebbs.com
 +.adgoogle.net
@@ -2962,6 +2963,7 @@
 +.bibox.com
 +.bic2011.org
 +.bidbay.com
++.bidobido.xyz
 +.bidong25.com
 +.bidong9.com
 +.bidorbuyindia.com
@@ -3015,6 +3017,7 @@
 +.bikaa.xyz
 +.bikac.xyz
 +.bikaios.xyz
++.bikawebapp.com
 +.bili2.cc
 +.bili888.com
 +.bili999.com
@@ -5776,6 +5779,7 @@
 +.doclercdn.com
 +.docs.cfw.lbyczf.com
 +.docs.com
++.docsend.com
 +.doctor-videos.com
 +.doctorvoice.org
 +.documentforce.com
@@ -5961,12 +5965,15 @@
 +.dropboxapi.com
 +.dropboxbusiness.com
 +.dropboxcaptcha.com
++.dropboxexperiment.com
 +.dropboxforum.com
 +.dropboxforums.com
 +.dropboxinsiders.com
++.dropboxlegal.com
 +.dropboxmail.com
 +.dropboxpartners.com
 +.dropboxstatic.com
++.dropboxteam.com
 +.dropboxusercontent.com
 +.droplr.com
 +.drpc.org
@@ -9300,9 +9307,11 @@
 +.helixstudios.net
 +.helloandroid.com
 +.helloavgirls.com
++.hellofax.com
 +.hellokittybeats.com
 +.hellomoto.com
 +.helloqueer.com
++.hellosign.com
 +.hellosmartbook.com
 +.helloss.pw
 +.hellotxt.com
@@ -10030,6 +10039,7 @@
 +.huabansp.com
 +.huabansp7.club
 +.huaglad.com
++.huakacomic.com
 +.huanghuagang.org
 +.huangse.love
 +.huangyiyu.com
@@ -15473,6 +15483,7 @@
 +.piaotia.com
 +.piaotian.net
 +.piapro.net
++.pica-id.com
 +.picacg2022.com
 +.picacgp.com
 +.picacgy.com
@@ -19352,6 +19363,7 @@
 +.tinyurl.com
 +.tiohentai.com
 +.tipas.net
++.tipatipa.xyz
 +.tire-cadcam.com
 +.tiresplus.com
 +.tirol
