@@ -576,7 +576,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -981,6 +980,7 @@
 +.airvpn.org
 +.airwatchexpress.com
 +.airwatchqa.com
++.airwi+.aaa
 +.airwick.com
 +.airwick.net
 +.airwick.tv
@@ -1164,6 +1164,7 @@
 +.almalinux.org
 +.almasdarnews.com
 +.almostmy.com
++.alochardli
 +.alohatube.com
 +.alotporn.com
 +.alphabet.asia
@@ -9188,6 +9189,7 @@
 +.haskell.org
 +.haskellstack.org
 +.hath.network
++.hatube.com
 +.hautelook.com
 +.hautelookcdn.com
 +.have8.com
@@ -16817,7 +16819,6 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
-+.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -18976,16 +18977,6 @@
 +.teslaenergy.services
 +.teslamotors.com
 +.teslazta.net
-+.test-ipv6.belwue.net
-+.test-ipv6.com
-+.test-ipv6.epic.network
-+.test-ipv6.fratec.net
-+.test-ipv6.freerangecloud.com
-+.test-ipv6.iu13.net
-+.test-ipv6.ke.liquidtelecom.net
-+.test-ipv6.noroutetohost.net
-+.test-ipv6.roedu.net
-+.test-ipv6.sin.vr.org
 +.testflight.apple.com
 +.testonfox.com
 +.teva
