@@ -980,7 +980,6 @@
 +.airvpn.org
 +.airwatchexpress.com
 +.airwatchqa.com
-+.airwi+.aaa
 +.airwick.com
 +.airwick.net
 +.airwick.tv
@@ -1164,7 +1163,6 @@
 +.almalinux.org
 +.almasdarnews.com
 +.almostmy.com
-+.alochardli
 +.alohatube.com
 +.alotporn.com
 +.alphabet.asia
@@ -3325,6 +3323,7 @@
 +.bmw-me.com
 +.bmw-military-sales.com
 +.bmw-motorcycle.com
++.bmw-motorjim.com
 +.bmw-motorrad-abudhabi.com
 +.bmw-motorrad-authorities.com
 +.bmw-motorrad-dubai.com
@@ -4363,6 +4362,7 @@
 +.chess.com
 +.chesscomfiles.com
 +.chhongbi.org
++.chi+.aaa
 +.chianxv.buzz
 +.chicagolandbmw.com
 +.chicagoncmtv.com
@@ -4623,6 +4623,7 @@
 +.clickserver.googleads.com
 +.clien.net
 +.climate-server.com
++.cline.bot
 +.clinical-videos.com
 +.clinicalkey.com
 +.clinique
@@ -4678,6 +4679,7 @@
 +.cloudflareregistrar.com
 +.cloudflareresearch.com
 +.cloudflareresolve.com
++.cloudflaressl.coalition.com
 +.cloudflaressl.com
 +.cloudflarestatus.com
 +.cloudflarestorage.com
@@ -4878,6 +4880,7 @@
 +.contechacademy.com
 +.contentful.com
 +.contest.com
++.context7.com
 +.convio.net
 +.convrgencegame.com
 +.coobay.com
@@ -4910,6 +4913,7 @@
 +.copy2000.online
 +.coqnu.com
 +.corbinfisher.com
++.corbinfisher.coundation.org
 +.cordcloud.org
 +.coredao.org
 +.coreduo.com
@@ -9189,7 +9193,6 @@
 +.haskell.org
 +.haskellstack.org
 +.hath.network
-+.hatube.com
 +.hautelook.com
 +.hautelookcdn.com
 +.have8.com
@@ -12141,6 +12144,7 @@
 +.llama.com
 +.llbd10.shop
 +.lldns.net
++.llingo.com
 +.lliusno.com
 +.llnw-trials.com
 +.llnw.com
@@ -12814,6 +12818,7 @@
 +.messytube.com
 +.met-nude.com
 +.meta.com
++.metaaiusercontent.com
 +.metaaivm.com
 +.metabrainz.org
 +.metacafe.com
@@ -13391,6 +13396,7 @@
 +.morazzia.com
 +.morbell.com
 +.more.tv
++.moreedge-test.net
 +.moreheadphones.com
 +.moresci.sale
 +.morewithautodesk.com
@@ -14467,6 +14473,7 @@
 +.notion.site
 +.notionusercontent.com
 +.nottinghampost.com
++.nousresearch.com
 +.novafile.com
 +.novelai.net
 +.novelasia.com
@@ -15087,7 +15094,6 @@
 +.pacopacomama.com
 +.paddle.com
 +.paddleapi.com
-+.padmanet.com
 +.paerosnen.club
 +.page
 +.page.link
@@ -16236,7 +16242,7 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideocoalition.com
++.provideocod.net
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -16819,6 +16825,7 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
++.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -18702,6 +18709,7 @@
 +.sydneytoday.com
 +.syfor.click
 +.syhacked.com
++.sylfom
 +.sylfoundation.org
 +.symantec.com
 +.symantecliveupdate.com
@@ -19173,6 +19181,7 @@
 +.thinkgeek.com
 +.thinkingtaiwan.com
 +.thinkofliving.com
++.thinkorswim.com
 +.thinkquarterly.com
 +.thinkwithgoogle.com
 +.thirdmill.org
