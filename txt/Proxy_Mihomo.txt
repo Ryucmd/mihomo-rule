@@ -576,6 +576,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3323,7 +3324,6 @@
 +.bmw-me.com
 +.bmw-military-sales.com
 +.bmw-motorcycle.com
-+.bmw-motorjim.com
 +.bmw-motorrad-abudhabi.com
 +.bmw-motorrad-authorities.com
 +.bmw-motorrad-dubai.com
@@ -4362,7 +4362,6 @@
 +.chess.com
 +.chesscomfiles.com
 +.chhongbi.org
-+.chi+.aaa
 +.chianxv.buzz
 +.chicagolandbmw.com
 +.chicagoncmtv.com
@@ -4679,7 +4678,6 @@
 +.cloudflareregistrar.com
 +.cloudflareresearch.com
 +.cloudflareresolve.com
-+.cloudflaressl.coalition.com
 +.cloudflaressl.com
 +.cloudflarestatus.com
 +.cloudflarestorage.com
@@ -4913,7 +4911,6 @@
 +.copy2000.online
 +.coqnu.com
 +.corbinfisher.com
-+.corbinfisher.coundation.org
 +.cordcloud.org
 +.coredao.org
 +.coreduo.com
@@ -8466,6 +8463,7 @@
 +.geocities.com
 +.geodesummit.com
 +.geogebra.org
++.geolytics.
 +.geolytics.com
 +.geoport.com
 +.george
@@ -10972,6 +10970,7 @@
 +.iutunes.com
 +.ivacy.com
 +.iverycd.com
++.ivi.tv
 +.ivicdn.tv
 +.ivintageporn.com
 +.ivonblog.com
@@ -12144,7 +12143,6 @@
 +.llama.com
 +.llbd10.shop
 +.lldns.net
-+.llingo.com
 +.lliusno.com
 +.llnw-trials.com
 +.llnw.com
@@ -13396,7 +13394,6 @@
 +.morazzia.com
 +.morbell.com
 +.more.tv
-+.moreedge-test.net
 +.moreheadphones.com
 +.moresci.sale
 +.morewithautodesk.com
@@ -15094,6 +15091,7 @@
 +.pacopacomama.com
 +.paddle.com
 +.paddleapi.com
++.padmanet.com
 +.paerosnen.club
 +.page
 +.page.link
@@ -16242,7 +16240,7 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideocod.net
++.provideocoalition.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -18709,7 +18707,6 @@
 +.sydneytoday.com
 +.syfor.click
 +.syhacked.com
-+.sylfom
 +.sylfoundation.org
 +.symantec.com
 +.symantecliveupdate.com
@@ -22152,6 +22149,7 @@
 +.yodobashi
 +.yogalayout.com
 +.yogichen.org
++.yogichen.org000webhost.com
 +.yogify.com
 +.yokohama
 +.yolasite.com
