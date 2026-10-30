@@ -160,7 +160,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -641,6 +640,7 @@
 +.account-paypal.info
 +.account-paypal.net
 +.account-paypal.org
++.account.net
 +.accountboy.com
 +.accountkit.com
 +.accountpaypal.com
@@ -1318,6 +1318,7 @@
 +.amica
 +.amigobbs.net
 +.amiibo.com
++.amle.com
 +.amnesty.org
 +.amnesty.org.hk
 +.amnestyusa.org
@@ -8463,7 +8464,6 @@
 +.geocities.com
 +.geodesummit.com
 +.geogebra.org
-+.geolytics.
 +.geolytics.com
 +.geoport.com
 +.george
@@ -14167,6 +14167,7 @@
 +.nexus
 +.nexus-cdn.com
 +.nexusmods.com
++.nezia.org
 +.nf
 +.nfjtyd.com
 +.nfl
@@ -17279,6 +17280,7 @@
 +.scientificlinux.org
 +.scieron.com
 +.scifisex.net
++.scifisex1password.drift.click
 +.scitation.org
 +.scival.com
 +.scmp.com
@@ -20057,6 +20059,7 @@
 +.unlocklimitlesslearning.com
 +.unlocktool.net
 +.unmineable.com
++.unmineabpaypal.com
 +.unodedos.com
 +.unpkg.com
 +.unpo.org
@@ -22149,7 +22152,6 @@
 +.yodobashi
 +.yogalayout.com
 +.yogichen.org
-+.yogichen.org000webhost.com
 +.yogify.com
 +.yokohama
 +.yolasite.com
