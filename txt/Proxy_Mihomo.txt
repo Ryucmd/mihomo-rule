@@ -103,6 +103,7 @@
 +.18comic-god.xyz
 +.18comic.cc
 +.18comic.company
++.18comic.ink
 +.18comic.org
 +.18comic.vip
 +.18commic.com
@@ -160,6 +161,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -640,7 +642,6 @@
 +.account-paypal.info
 +.account-paypal.net
 +.account-paypal.org
-+.account.net
 +.accountboy.com
 +.accountkit.com
 +.accountpaypal.com
@@ -1318,7 +1319,6 @@
 +.amica
 +.amigobbs.net
 +.amiibo.com
-+.amle.com
 +.amnesty.org
 +.amnesty.org.hk
 +.amnestyusa.org
@@ -3087,6 +3087,7 @@
 +.bingoporno.com
 +.bingparachute.com
 +.bingsandbox.com
++.bingstatic.com
 +.bingvisualsearch.com
 +.bingworld.com
 +.bingx.com
@@ -3702,6 +3703,7 @@
 +.bsappapi.cc
 +.bsappapi.com
 +.bscdnweb.com
++.bsky.chat
 +.bsky.network
 +.bsky.social
 +.bstatic.com
@@ -8629,6 +8631,7 @@
 +.githubassets.com
 +.githubcopilot.com
 +.githubhackathon.com
++.githubhelp.com
 +.githubnext.com
 +.githubstatus.com
 +.githubsupport.com
@@ -13520,6 +13523,7 @@
 +.msftconnecttest.com
 +.msftncsi.com
 +.msftnet.org
++.msftstatic.com
 +.msgamesresearch.com
 +.msgamestudios.com
 +.msguancha.com
@@ -14167,7 +14171,6 @@
 +.nexus
 +.nexus-cdn.com
 +.nexusmods.com
-+.nezia.org
 +.nf
 +.nfjtyd.com
 +.nfl
@@ -17280,7 +17283,6 @@
 +.scientificlinux.org
 +.scieron.com
 +.scifisex.net
-+.scifisex1password.drift.click
 +.scitation.org
 +.scival.com
 +.scmp.com
@@ -19319,7 +19321,10 @@
 +.tiktokeu-cdn.com
 +.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
++.tiktokshop.com
++.tiktokstaticb.com
 +.tiktokv.com
++.tiktokvapp.com
 +.tilda.cc
 +.tildaapi.com
 +.tildacdn.com
@@ -20059,7 +20064,6 @@
 +.unlocklimitlesslearning.com
 +.unlocktool.net
 +.unmineable.com
-+.unmineabpaypal.com
 +.unodedos.com
 +.unpkg.com
 +.unpo.org
