@@ -1,3 +1,4 @@
++..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -6039,6 +6040,7 @@
 +.duihua.org
 +.duihuahrjournal.org
 +.dukgo.com
++.dulceecuador.coalition.com
 +.dulceecuador.com
 +.dumb1.com
 +.dumpxxx.net
@@ -7002,6 +7004,7 @@
 +.facebooktv.net
 +.facebooktv.org
 +.facebookvacation.com
++.facebookvacetancommunity.org
 +.facebookw.com
 +.facebookwork.com
 +.facebookworld.com
@@ -8462,6 +8465,7 @@
 +.genkai-hounyo.com
 +.genotek.health
 +.genshin-porn.com
++.genshin-porn.vica.info
 +.genshinh.com
 +.genshinimpact.com
 +.gent
@@ -14988,7 +14992,6 @@
 +.orsm.net
 +.orthopaedic-cadcam.com
 +.orthotics-cadcam.com
-+.oryoutles.com
 +.orzistic.org
 +.osaka
 +.osakamotion.net
@@ -16253,7 +16256,7 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideocoalition.com
++.provideocozechcasting.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -19304,6 +19307,7 @@
 +.tibettimes.net
 +.tibettruth.com
 +.tibetwrites.org
++.tibm
 +.tiburon.com
 +.tickdata.com
 +.tictoc.video
@@ -19804,7 +19808,6 @@
 +.twapperkeeper.com
 +.twavi.com
 +.twavking.com
-+.twbb000webhost.com
 +.twbbs.org
 +.twblogger.com
 +.twcomix.com
@@ -20372,7 +20375,6 @@
 +.viber.co
 +.viber.com
 +.viber.me
-+.vica.info
 +.victimsofcommunism.org
 +.vid.me
 +.vidble.com
