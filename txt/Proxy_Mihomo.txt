@@ -577,6 +577,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -6022,7 +6023,6 @@
 +.dubox.com
 +.duck.co
 +.duck.com
-+.duckd+.aaa
 +.duckdns.org
 +.duckduckco.com
 +.duckduckgo.co
@@ -8084,6 +8084,7 @@
 +.full:hls-amt.itunes.apple.com
 +.full:hls.itunes.apple.com
 +.full:hpstore.corpmerchandise.com
++.full:http-intake.logs.us5.datadoghq.com
 +.full:hub.slarker.me
 +.full:i.jeded.com
 +.full:imperial.insendi.com
@@ -9009,6 +9010,7 @@
 +.greginhollywood.com
 +.grindr.com
 +.grok.com
++.grokbot.com
 +.grokipedia.com
 +.grooby.com
 +.groq.com
@@ -10034,6 +10036,7 @@
 +.htlvbooks.com
 +.html5rocks.com
 +.htnewbooks.com
++.http-intake.logs.us5.datadoghq.com
 +.httpfacebook.com
 +.https443.net
 +.https443.org
