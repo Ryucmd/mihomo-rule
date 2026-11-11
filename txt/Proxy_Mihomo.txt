@@ -1565,7 +1565,6 @@
 +.apple-hk.com
 +.apple-imac.com
 +.apple-inc.net
-+.apple-livephotosk000webhost.com
 +.apple-livephotoskit.com
 +.apple-mapkit.com
 +.apple-online.com
@@ -1681,7 +1680,7 @@
 +.appleshare.info
 +.applestor.com
 +.applestore.cc
-+.applestore.co.jpin
++.applestore.co.jp+.aaa
 +.applestore.com
 +.applestore.com.hk
 +.applestore.hk
@@ -6899,7 +6898,6 @@
 +.facebook.cc
 +.facebook.com
 +.facebook.design
-+.facebook.it.com
 +.facebook.net
 +.facebook.org
 +.facebook.shop
@@ -8464,7 +8462,6 @@
 +.genius.com
 +.genkai-hounyo.com
 +.genotek.health
-+.genshin-porn+.aaa
 +.genshin-porn.com
 +.genshinh.com
 +.genshinimpact.com
@@ -11423,7 +11420,6 @@
 +.jstor.org
 +.jstv51.com
 +.jstv52.com
-+.jstv53.cochardli
 +.jstv53.com
 +.jsz91.com
 +.jtube.space
@@ -16460,6 +16456,7 @@
 +.quantumbooter.net
 +.quatrowireless.com
 +.quebec
++.questionablequesting.com
 +.questvisual.com
 +.quicinc.com
 +.quickbooks.com
@@ -16843,8 +16840,8 @@
 +.rhodeislandbmw.com
 +.rhyw.me
 +.rhyw31.life
-+.ri.com
 +.ricefever.com
++.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -18206,6 +18203,7 @@
 +.soylent.com
 +.soylentnews.org
 +.sp.cool
++.spacebattles.com
 +.spaceexplored.com
 +.spacemail.com
 +.spaceship.com
