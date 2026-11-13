@@ -577,6 +577,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1180,7 +1181,6 @@
 +.alpherafinance.com.hk
 +.alpherafs.com.hk
 +.alpinelinux.org
-+.alppective.com
 +.alsace
 +.alstom
 +.alt.com
@@ -1797,7 +1797,6 @@
 +.arxiv.org
 +.as
 +.asacp.org
-+.asagakk.com
 +.asagaku.com
 +.asahi.com
 +.ascelibrary.org
@@ -2726,7 +2725,6 @@
 +.beatsep.com
 +.beatsep.net
 +.beatsfacstore.com
-+.beatsfactjim.com
 +.beatsfactoroutlets.com
 +.beatsfactorycollection.com
 +.beatsfactoryoutles.com
@@ -3952,7 +3950,6 @@
 +.cambridgedigital.net
 +.cambridgemaths.org
 +.cambridgeschoolshakespeare.com
-+.cambro..vica.info
 +.cambro.tv
 +.camcam.cc
 +.camdolls.com
@@ -4416,7 +4413,7 @@
 +.chinagreenparty.org
 +.chinahorizon.org
 +.chinahush.com
-+.chinainpersn.com
++.chinainperspective.com
 +.chinainterimgov.org
 +.chinalaborwatch.org
 +.chinalawandpolicy.com
@@ -6831,7 +6828,6 @@
 +.fabricmc.net
 +.fabuye.top
 +.fabuyemian.com
-+.fac+.aaa
 +.facbebook.com
 +.facbeok.com
 +.facboo.com
@@ -7780,7 +7776,6 @@
 +.foxsports.info
 +.foxsports.net
 +.foxsports2.com
-+.foxsportsfchardli
 +.foxsportsflorida.com
 +.foxsportsgo.com
 +.foxsportsla.com
@@ -8789,6 +8784,7 @@
 +.gogotunnel.com
 +.gohentai.net
 +.goicq.org
++.gokbayrak.com
 +.golang.com
 +.golang.net
 +.golang.org
@@ -9206,7 +9202,6 @@
 +.haskell.org
 +.haskellstack.org
 +.hath.network
-+.hatmanagement.com
 +.hautelook.com
 +.hautelookcdn.com
 +.have8.com
@@ -11028,7 +11023,6 @@
 +.jambotube.com
 +.jamestown.org
 +.jamyangnorbu.com
-+.jamyangnorbu.r.com
 +.jandyx.com
 +.janor6.net
 +.janwongphoto.com
@@ -12251,7 +12245,6 @@
 +.looporn.com
 +.looti.net
 +.lordofultima.com
-+.lorida.com
 +.lostbetsgames.com
 +.lotcrap.com
 +.lotsawahouse.org
@@ -13446,7 +13439,6 @@
 +.motorolasolutions.com
 +.motorshowblog.com
 +.mottainai.info
-+.mou.com
 +.mousebreaker.com
 +.mov
 +.move-free.net
@@ -16849,9 +16841,9 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
++.richardli
 +.ricoh
 +.ridepenguin.com
-+.riebook-pmdcenter.org
 +.rightbtc.com
 +.rigpa.org
 +.rigums.xyz
@@ -17057,7 +17049,6 @@
 +.rukoebxx.com
 +.rukor.org
 +.rulaisc-tv.buzz
-+.rule34.uoryoutles.com
 +.rule34h.com
 +.rule34pornvids.com
 +.rule34video.com
@@ -17288,7 +17279,6 @@
 +.schwab.com
 +.schwab.com.cn
 +.schwab.com.hk
-+.schwabasse000webhost.com
 +.schwabassetmanagement.com
 +.schwabcdn.com
 +.schwabplan.com
@@ -19487,7 +19477,6 @@
 +.topcelebnudes.com
 +.topchats.com
 +.topchineseporn.com
-+.topcodenime1.me
 +.topcoder.com
 +.topcuckolds.com
 +.toperoticartsites.com
@@ -20388,6 +20377,7 @@
 +.viber.co
 +.viber.com
 +.viber.me
++.vica.info
 +.victimsofcommunism.org
 +.vid.me
 +.vidble.com
