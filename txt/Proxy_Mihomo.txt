@@ -1,3 +1,4 @@
++..vica.info
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -364,6 +365,7 @@
 +.51lieqi.com
 +.51luoben.com
 +.51luoli.info
++.51papaya.com
 +.51pincha.cc
 +.51tuqiang.com
 +.520aa.tv
@@ -567,6 +569,7 @@
 +.9xav.cc
 +.9xlove.xyz
 +.9zipai.net
++.a+.aaa
 +.a-hentai.tv
 +.a-msedge.net
 +.a-normal-day.com
@@ -577,7 +580,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -19810,6 +19812,7 @@
 +.twapperkeeper.com
 +.twavi.com
 +.twavking.com
++.twbb000webhost.com
 +.twbbs.org
 +.twblogger.com
 +.twcomix.com
@@ -20377,7 +20380,6 @@
 +.viber.co
 +.viber.com
 +.viber.me
-+.vica.info
 +.victimsofcommunism.org
 +.vid.me
 +.vidble.com
