@@ -3669,6 +3669,7 @@
 +.bridgestonetire.com
 +.bridgestonevan.com
 +.bridgestonewx.com
++.briefdream.com
 +.brightcove.com
 +.brightcove.net
 +.brightcove.services
@@ -6430,6 +6431,7 @@
 +.elephanttube.com
 +.elephanttubenew.com
 +.elevenlabs.com
++.elevenlabsusercontent.com
 +.elgaronline.com
 +.elifesciences.org
 +.elite.com
@@ -7109,7 +7111,6 @@
 +.falundafa.org
 +.falundafaindia.org
 +.falundafamuseum.org
-+.falundafatek.health
 +.falungong.club
 +.falunhr.org
 +.faluninfo.net
@@ -8464,7 +8465,6 @@
 +.gengba.cc
 +.genius.com
 +.genkai-hounyo.com
-+.genobriefdream.com
 +.genotek.health
 +.genshin-porn.com
 +.genshinh.com
@@ -9250,7 +9250,6 @@
 +.hcaptcha.com
 +.hcaptchastatus.com
 +.hcbdsm.com
-+.hch.net
 +.hclips.com
 +.hcomic.net
 +.hcomicbook.com
@@ -9639,6 +9638,7 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
++.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -10677,7 +10677,6 @@
 +.intc.com
 +.integral7.com
 +.intel-research.net
-+.intel-researindia.org
 +.intel-university-collaboration.net
 +.intel.cc
 +.intel.co
@@ -11612,7 +11611,6 @@
 +.khangar.net
 +.khatrimaza.org
 +.khotruyentranhx.com
-+.khrc.org.hk
 +.ki
 +.kia
 +.kichiku-doujinko.com
@@ -14294,7 +14292,6 @@
 +.nikedunks.net
 +.nikedunksshoes.com
 +.nikeelite.com
-+.nikefactorystoalition.com
 +.nikefactorystore.com
 +.nikefind.com
 +.nikefirm.com
@@ -15114,7 +15111,7 @@
 +.pacopacomama.com
 +.paddle.com
 +.paddleapi.com
-+.padmanet.abd.org
++.padmanet.com
 +.paerosnen.club
 +.page
 +.page.link
@@ -16264,7 +16261,7 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideocosoft.com
++.provideocoalition.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -17056,7 +17053,6 @@
 +.rukoebxx.com
 +.rukor.org
 +.rulaisc-tv.buzz
-+.rule34.ure.com
 +.rule34h.com
 +.rule34pornvids.com
 +.rule34video.com
@@ -17287,7 +17283,6 @@
 +.schwab.com
 +.schwab.com.cn
 +.schwab.com.hk
-+.schwab.cs
 +.schwabassetmanagement.com
 +.schwabcdn.com
 +.schwabplan.com
@@ -19819,7 +19814,6 @@
 +.twapperkeeper.com
 +.twavi.com
 +.twavking.com
-+.twbbom.cn
 +.twbbs.org
 +.twblogger.com
 +.twcomix.com
