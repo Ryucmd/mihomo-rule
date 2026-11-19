@@ -1,3 +1,4 @@
++..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -618,6 +619,7 @@
 +.ablwang.com
 +.aboluowang.com
 +.about.me
++.aboutamazon.co.jim.com
 +.aboutamazon.com
 +.aboutfacebook.com
 +.aboutmcdonalds.com
@@ -2552,6 +2554,7 @@
 +.beats-deal.com
 +.beats-dre-us.com
 +.beats-headphones-buy-cheap.com
++.beats-headphones-buy-cheapalition.com
 +.beats-sale.com
 +.beats-seller.com
 +.beats-soaho.com
@@ -12357,6 +12360,7 @@
 +.lxqt-project.org
 +.lxxlxx.com
 +.ly
++.lyfhk.ne000webhost.com
 +.lyfhk.net
 +.lysol.com
 +.lysol.net
@@ -13269,6 +13273,7 @@
 +.moegirl.org
 +.moeimg.net
 +.moeli-desu.com
++.moember.com
 +.moepedia.net
 +.moeshare.cc
 +.moex.com
@@ -14206,6 +14211,7 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
++.ng.miuk
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -15111,7 +15117,7 @@
 +.pacopacomama.com
 +.paddle.com
 +.paddleapi.com
-+.padmanet.com
++.padmanet.eng.net
 +.paerosnen.club
 +.page
 +.page.link
@@ -16261,7 +16267,6 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideocoalition.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -22089,7 +22094,6 @@
 +.yandexdataschool.com
 +.yandexgo.com
 +.yandexwebcache.net
-+.yandexwebcache.org
 +.yanghengjun.com
 +.yangjianli.com
 +.yango-b2b.com
