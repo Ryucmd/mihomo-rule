@@ -3650,7 +3650,6 @@
 +.bridgestonetire.com
 +.bridgestonevan.com
 +.bridgestonewx.com
-+.briefdream.com
 +.brightcove.com
 +.brightcove.net
 +.brightcove.services
@@ -5153,6 +5152,7 @@
 +.d-trust.net
 +.d-upp.com
 +.d.cash
++.d.com
 +.d0z.net
 +.d100.net
 +.d2bay.com
@@ -5955,7 +5955,6 @@
 +.dropboxusercontent.com
 +.droplr.com
 +.drpc.org
-+.drsunacademy.com
 +.drtuber.com
 +.drunk6.com
 +.drunkenstepfather.com
@@ -7586,6 +7585,7 @@
 +.forthethrone.com
 +.fortnite.com
 +.fortuneinsight.com
++.forum.com
 +.forum4hk.com
 +.forums-free.com
 +.forza.net
@@ -8035,6 +8035,7 @@
 +.full:courses.myecnu.org
 +.full:crl.microsoft.com
 +.full:crl.versign.net
++.full:d96jfp62lg3kbriefdream.com
 +.full:databank.worldbank.org
 +.full:datarouter.apps.netherrealm.com
 +.full:deutschewelle.h-cdn.com
@@ -8053,6 +8054,7 @@
 +.full:hpstore.corpmerchandise.com
 +.full:http-intake.logs.us5.datadoghq.com
 +.full:hub.slarker.me
++.full:hulu.playback.edge.bamgriuk
 +.full:i.jeded.com
 +.full:imperial.insendi.com
 +.full:incoming.telemetry.mozilla.org
@@ -8113,6 +8115,7 @@
 +.full:vsmarketplacebadge.apphb.com
 +.full:widgets.stripst.com
 +.full:ws.audioscrobbler.com
++.full:wwis-d+.drsunacademy.com
 +.full:www.microsoft.com
 +.full:zftksc.cdn-settings.appsflyersdk.com
 +.full:zftksc.launches.appsflyersdk.com
@@ -10490,6 +10493,7 @@
 +.independentoperatorcn.com
 +.indexxx.com
 +.india.com
++.india.org
 +.indiablooms.com
 +.indiaipad.com
 +.indian-free-xnxx.com
@@ -12711,6 +12715,7 @@
 +.megacamz.com
 +.megaeth.com
 +.megafilmporno.com
++.megafon.cloud
 +.megafon.com
 +.megapornfreehd.com
 +.megapornpics.com
@@ -14610,6 +14615,7 @@
 +.o365weve-dev.com
 +.o365weve-ppe.com
 +.o365weve.com
++.o7.com
 +.oaistatic.com
 +.oaistatsig.com
 +.oaiusercontent.com
